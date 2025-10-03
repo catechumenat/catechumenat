@@ -1,7 +1,7 @@
 ---
 title : 02. Pater et Ave Maria
 description : Les bases de la prière.
-date : 2025-09-11
+date : 2025-09-25
 ---
 Voilà de quoi reprendre l’enseignement du 25 septembre par le père Bertrand.
 

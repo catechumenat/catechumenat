@@ -5,16 +5,30 @@
   <subtitle>Nos derniers enseignements.</subtitle>
   <link href="https://catechumenat.asaintnicolas.com/feed/feed.xml" rel="self" />
   <link href="https://catechumenat.asaintnicolas.com/" />
-  <updated>2025-09-25T00:00:00Z</updated>
+  <updated>2025-10-09T00:00:00Z</updated>
   <id>https://catechumenat.asaintnicolas.com/</id>
   <author>
     <name>Laurent Ghirardotti</name>
   </author>
   <entry>
-    <title>02. Pater et Ave Maria</title>
+    <title>03. Le mystère du mal</title>
     <link href="https://catechumenat.asaintnicolas.com/blog/02-Pater-et-Ave-Maria/" />
-    <updated>2025-09-25T00:00:00Z</updated>
+    <updated>2025-10-09T00:00:00Z</updated>
     <id>https://catechumenat.asaintnicolas.com/blog/02-Pater-et-Ave-Maria/</id>
+    <content type="html">&lt;p&gt;J’ajouterai ici l’enregistrement de mon enseignement !&lt;/p&gt;
+&lt;h2 id=&quot;les-videos-du-parcours-adulte&quot;&gt;Les vidéos du parcours adulte&lt;/h2&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/dU3yWLgqORs?si=mBpCpl2-ppqByPdt&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+Et plus d’informations [sur le parcours en ligne](https://academy.lamourvaincra.com/quest/10).
+&lt;h2 id=&quot;les-videos-du-parcours-jeune&quot;&gt;Les vidéos du parcours jeune&lt;/h2&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/TSHXF41mjQk?si=-xGGDhdETgNxOo9C&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;Et plus d’information &lt;a href=&quot;https://academy.lamourvaincra.com/quest/107&quot;&gt;sur le parcours en ligne&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>02. Pater et Ave Maria</title>
+    <link href="https://catechumenat.asaintnicolas.com/blog/03-Le-mystere-du-mal/" />
+    <updated>2025-09-25T00:00:00Z</updated>
+    <id>https://catechumenat.asaintnicolas.com/blog/03-Le-mystere-du-mal/</id>
     <content type="html">&lt;p&gt;Voilà de quoi reprendre l’enseignement du 25 septembre par le père Bertrand.&lt;/p&gt;
 &lt;h2 id=&quot;les-videos-du-parcours-adulte&quot;&gt;Les vidéos du parcours adulte&lt;/h2&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/qebDglKwHYc?si=tdsoCZSCO5kj6LEq&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;

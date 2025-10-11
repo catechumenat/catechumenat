@@ -6,6 +6,8 @@ import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 
 import pluginFilters from "./_config/filters.js";
 
+import Podcaster from 'eleventy-plugin-podcaster'
+
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function(eleventyConfig) {
 	// Drafts, see also _data/eleventyDataSchema.js
@@ -118,6 +120,10 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addShortcode("currentBuildDate", () => {
 		return (new Date()).toISOString();
 	});
+
+	eleventyConfig.addPlugin(Podcaster, {
+		episodesDir: 'audio/'
+	})
 
 	// Features to make your build faster (when you need them)
 

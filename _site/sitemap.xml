@@ -3,41 +3,6 @@
 	
 		
 		<url>
-			<loc>https://catechumenat.asaintnicolas.com/blog/firstpost/</loc>
-			<lastmod>2018-05-01</lastmod>
-		</url>
-	
-	
-		
-		<url>
-			<loc>https://catechumenat.asaintnicolas.com/blog/secondpost/</loc>
-			<lastmod>2018-07-04</lastmod>
-		</url>
-	
-	
-		
-		<url>
-			<loc>https://catechumenat.asaintnicolas.com/blog/thirdpost/</loc>
-			<lastmod>2018-08-24</lastmod>
-		</url>
-	
-	
-		
-		<url>
-			<loc>https://catechumenat.asaintnicolas.com/blog/fourthpost/</loc>
-			<lastmod>2018-09-30</lastmod>
-		</url>
-	
-	
-		
-		<url>
-			<loc>https://catechumenat.asaintnicolas.com/blog/fifthpost/</loc>
-			<lastmod>2023-01-23</lastmod>
-		</url>
-	
-	
-		
-		<url>
 			<loc>https://catechumenat.asaintnicolas.com/about/</loc>
 			<lastmod>2025-09-09</lastmod>
 		</url>
@@ -66,8 +31,29 @@
 	
 		
 		<url>
+			<loc>https://catechumenat.asaintnicolas.com/blog/01-Le-signe-de-Croix/</loc>
+			<lastmod>2025-09-11</lastmod>
+		</url>
+	
+	
+		
+		<url>
+			<loc>https://catechumenat.asaintnicolas.com/blog/02-Pater-et-Ave-Maria/</loc>
+			<lastmod>2025-09-25</lastmod>
+		</url>
+	
+	
+		
+		<url>
+			<loc>https://catechumenat.asaintnicolas.com/blog/03-Le-mystere-du-mal/</loc>
+			<lastmod>2025-10-09</lastmod>
+		</url>
+	
+	
+		
+		<url>
 			<loc>https://catechumenat.asaintnicolas.com/feed/feed.xml</loc>
-			<lastmod>2025-09-24</lastmod>
+			<lastmod>2025-10-11</lastmod>
 		</url>
 	
 </urlset>

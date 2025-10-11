@@ -1,7 +1,7 @@
 ---
-title : 03. Le mystère du mal
-description : Indispensable pour être ensuite conduit vers la joie de notre Salut.
-date : 2025-10-09
+title: 03. Le mystère du mal
+description: Indispensable pour être ensuite conduit vers la joie de notre Salut.
+date: 2025-10-09
 ---
 
 J’ajouterai ici l’enregistrement de mon enseignement !

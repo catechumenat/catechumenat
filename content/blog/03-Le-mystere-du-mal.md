@@ -4,7 +4,7 @@ description: Indispensable pour être ensuite conduit vers la joie de notre Salu
 date: 2025-10-09
 ---
 
-J’ajouterai ici l’enregistrement de mon enseignement !
+L’enregistrement de [mon enseignement est là](https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2025-10-09-le-mal.mp3) !
 
 ## Le texte biblique (*Gn* 2, 15-17 ; 3, 1-17)
 

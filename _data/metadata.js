@@ -7,6 +7,5 @@ export default {
 		name: "Père Laurent Ghirardotti",
 		email: "lghirardotti@diocese-paris.net",
 		url: "https://ghirardotti.fr/"
-	},
-	dirname: "content/podcast"
+	}
 }

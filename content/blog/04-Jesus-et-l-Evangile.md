@@ -4,7 +4,10 @@ description: La Bonne Nouvelle de Jésus-Christ est annoncée pour tous les péc
 date: 2025-11-06
 ---
 
-L’enregistrement de [mon enseignement est là](https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2025-11-06-Jesus-et-l-Evangile) !
+L’enregistrement de mon enseignement est là :
+
+<audio controls src="https://github.com/catechumenat/catechumenat/raw/4d3fa15053d6e42b2fa8452603f504dfa9a6ec2e/audio/2025-11-06-Jesus-et-l-Evangile.m4a"></audio>
+<a href="https://github.com/catechumenat/catechumenat/raw/4d3fa15053d6e42b2fa8452603f504dfa9a6ec2e/audio/2025-11-06-Jesus-et-l-Evangile.m4a">Télécharger</a>
 
 ## Les vidéos du parcours adulte
 

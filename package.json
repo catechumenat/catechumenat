@@ -48,6 +48,7 @@
 	},
 	"dependencies": {
 		"@zachleat/heading-anchors": "^1.0.3",
-		"eleventy-plugin-podcaster": "^1.4.1"
+		"eleventy-plugin-podcaster": "^1.4.1",
+		"eleventy-plugin-youtube-embed": "^1.13.0"
 	}
 }

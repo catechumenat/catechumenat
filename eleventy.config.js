@@ -4,6 +4,8 @@ import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
 import pluginNavigation from "@11ty/eleventy-navigation";
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 
+const embedYouTube = require("eleventy-plugin-youtube-embed");
+
 import pluginFilters from "./_config/filters.js";
 
 // import Podcaster from 'eleventy-plugin-podcaster'
@@ -106,6 +108,10 @@ export default async function(eleventyConfig) {
 		sharpOptions: {
 			animated: true,
 		},
+	});
+
+	eleventyConfig.addPlugin(embedYouTube, {
+		lite: true
 	});
 
 	// Filters

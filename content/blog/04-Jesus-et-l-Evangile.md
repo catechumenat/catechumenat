@@ -8,12 +8,13 @@ L’enregistrement de [mon enseignement est là](https://github.com/catechumenat
 
 ## Les vidéos du parcours adulte
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8GvhhPfdBB0?si=tLMG7gcfOHPAzbdl" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=8GvhhPfdBB0
+
 Et plus d’informations [sur le parcours en ligne](https://academy.lamourvaincra.com/quest/13).
 
 ## Les vidéos du parcours jeune
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9p3oJtb9YgI?si=6aDUX_65aqghI0N9" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=9p3oJtb9YgI
 
 Et plus d’information [sur le parcours en ligne](https://academy.lamourvaincra.com/quest/109).
 

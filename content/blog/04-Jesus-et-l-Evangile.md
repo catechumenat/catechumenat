@@ -13,7 +13,7 @@ Et plus d’informations [sur le parcours en ligne](https://academy.lamourvaincr
 
 ## Les vidéos du parcours jeune
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8GvhhPfdBB0?si=EC5NCOnUpSj1Thoz" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9p3oJtb9YgI?si=6aDUX_65aqghI0N9" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Et plus d’information [sur le parcours en ligne](https://academy.lamourvaincra.com/quest/109).
 

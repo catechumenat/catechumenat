@@ -563,17 +563,21 @@ export { HeadingAnchors }
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
   xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
-    <title></title>
-    <link></link>
-    <atom:link href="/feed/podcast.xml" rel="self" type="application/rss+xml" />
-    <description></description>
-    <language></language>
-    <copyright>© 2025 undefined</copyright>
-    <pubDate>2025-11-14T13:54:11Z</pubDate>
-    <lastBuildDate>Fri, 14 Nov 2025 13:54:11 +0000</lastBuildDate>
-    <itunes:image href="/img/podcast-logo.jpg"></itunes:image>
-    <itunes:category text="" />
-    <itunes:author></itunes:author>
+    <title>Enseignements catéchuménat de Saint-Nicolas-des-Champs (Paris 3ème)</title>
+    <link>https://catechumenat.asaintnicolas.com</link>
+    <atom:link href="https://catechumenat.asaintnicolas.com/feed/podcast.xml" rel="self" type="application/rss+xml" />
+    <description>Les enseignements de nos rendez-vous du jeudi soir, en podcast.</description>
+    <language>fr-FR</language>
+    <copyright>© 2025 Laurent Ghirardotti</copyright>
+    <pubDate>2025-11-26T13:45:57Z</pubDate>
+    <lastBuildDate>Wed, 26 Nov 2025 13:45:57 +0000</lastBuildDate>
+    <itunes:image href="https://catechumenat.asaintnicolas.com/img/podcast-logo.jpg"></itunes:image>
+    <itunes:category text="Religion &amp;amp; Spirituality">
+      <itunes:category text="Christianity" />
+    </itunes:category>
+    
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:author>Laurent Ghirardotti</itunes:author>
 
     </channel>
 </rss>
@@ -588,7 +592,7 @@ export { HeadingAnchors }
 			</p>
 		</footer>
 
-		<!-- This page `/feed/podcast.xml` was built on 2025-11-14T13:54:11.959Z -->
+		<!-- This page `/feed/podcast.xml` was built on 2025-11-26T13:45:57.590Z -->
 		<script type="module" src=""></script>
 	</body>
 </html>

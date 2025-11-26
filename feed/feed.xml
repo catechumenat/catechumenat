@@ -5,11 +5,27 @@
   <subtitle>Nos derniers enseignements.</subtitle>
   <link href="https://catechumenat.asaintnicolas.com/feed/feed.xml" rel="self" />
   <link href="https://catechumenat.asaintnicolas.com/" />
-  <updated>2025-11-15T00:00:00Z</updated>
+  <updated>2025-11-20T00:00:00Z</updated>
   <id>https://catechumenat.asaintnicolas.com/</id>
   <author>
     <name>Laurent Ghirardotti</name>
   </author>
+  <entry>
+    <title>05. Le Salut par la mort et la résurrection de Jésus</title>
+    <link href="https://catechumenat.asaintnicolas.com/blog/05-le-Salut/" />
+    <updated>2025-11-20T00:00:00Z</updated>
+    <id>https://catechumenat.asaintnicolas.com/blog/05-le-Salut/</id>
+    <content type="html">&lt;p&gt;L’enregistrement de mon enseignement est là :&lt;/p&gt;
+&lt;h2 id=&quot;les-videos-du-parcours-adulte&quot;&gt;Les vidéos du parcours adulte&lt;/h2&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.css&quot;&gt;
+&lt;script defer=&quot;defer&quot; src=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.js&quot;&gt;&lt;/script&gt;
+&lt;div id=&quot;5STxvPaKki0&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;5STxvPaKki0&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/5STxvPaKki0/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;Et plus d’informations &lt;a href=&quot;https://academy.lamourvaincra.com/quest/16&quot;&gt;sur le parcours en ligne&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;les-videos-du-parcours-jeune&quot;&gt;Les vidéos du parcours jeune&lt;/h2&gt;
+&lt;div id=&quot;3p3ZLOTHPUM&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;3p3ZLOTHPUM&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/3p3ZLOTHPUM/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;Et plus d’information &lt;a href=&quot;https://academy.lamourvaincra.com/quest/111&quot;&gt;sur le parcours en ligne&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>06. À 08. La Bible</title>
     <link href="https://catechumenat.asaintnicolas.com/blog/06-a-08-la-Bible/" />

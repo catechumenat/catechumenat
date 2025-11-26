@@ -569,8 +569,8 @@ export { HeadingAnchors }
     <description>Les enseignements de nos rendez-vous du jeudi soir, en podcast.</description>
     <language>fr-FR</language>
     <copyright>© 2025 Laurent Ghirardotti</copyright>
-    <pubDate>2025-11-26T13:45:57Z</pubDate>
-    <lastBuildDate>Wed, 26 Nov 2025 13:45:57 +0000</lastBuildDate>
+    <pubDate>2025-11-26T20:12:38Z</pubDate>
+    <lastBuildDate>Wed, 26 Nov 2025 20:12:38 +0000</lastBuildDate>
     <itunes:image href="https://catechumenat.asaintnicolas.com/img/podcast-logo.jpg"></itunes:image>
     <itunes:category text="Religion &amp;amp; Spirituality">
       <itunes:category text="Christianity" />
@@ -592,7 +592,7 @@ export { HeadingAnchors }
 			</p>
 		</footer>
 
-		<!-- This page `/feed/podcast.xml` was built on 2025-11-26T13:45:57.590Z -->
+		<!-- This page `/feed/podcast.xml` was built on 2025-11-26T20:12:38.789Z -->
 		<script type="module" src=""></script>
 	</body>
 </html>

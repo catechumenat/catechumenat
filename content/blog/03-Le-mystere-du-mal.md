@@ -7,8 +7,6 @@ episode:
   filename: ‘2025-10-09-le-mal.mp3’
   seasonNumber: 1
   episodeNumber: 3
-  size: 38260896
-  duration: 2735.664
 ---
 
 L’enregistrement de [mon enseignement est là](https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2025-10-09-le-mal.mp3) !

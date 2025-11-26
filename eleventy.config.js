@@ -126,7 +126,9 @@ export default async function(eleventyConfig) {
 		return (new Date()).toISOString();
 	});
 
-	eleventyConfig.addPlugin(Podcaster)
+	eleventyConfig.addPlugin(Podcaster, {
+		episodesDir: '~/audio'
+	})
 
 	// Features to make your build faster (when you need them)
 

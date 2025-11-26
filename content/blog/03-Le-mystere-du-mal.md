@@ -2,12 +2,12 @@
 title: 03. Le mystère du mal
 description: Indispensable pour être ensuite conduit vers la joie de notre Salut.
 date: 2025-10-09
-tags: ['podcastEpisode']
+tags: [’podcastEpisode’]
 episode:
   filename: ‘2025-10-09-le-mal.mp3’
   seasonNumber: 1
   episodeNumber: 3
-  size: 38260896,
+  size: 38260896
   duration: 2735.664
 ---
 
@@ -45,12 +45,13 @@ L’enregistrement de [mon enseignement est là](https://github.com/catechumenat
 
 ## Les vidéos du parcours adulte
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dU3yWLgqORs?si=mBpCpl2-ppqByPdt" title="YouTube video player" frameborder="0" allow="accelerometer ; clipboard-write ; encrypted-media ; gyroscope ; picture-in-picture ; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=dU3yWLgqORs
+
 Et plus d’informations [sur le parcours en ligne](https://academy.lamourvaincra.com/quest/10).
 
 ## Les vidéos du parcours jeune
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TSHXF41mjQk?si=-xGGDhdETgNxOo9C" title="YouTube video player" frameborder="0" allow="accelerometer ; clipboard-write ; encrypted-media ; gyroscope ; picture-in-picture ; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=TSHXF41mjQk
 
 Et plus d’information [sur le parcours en ligne](https://academy.lamourvaincra.com/quest/107).
 

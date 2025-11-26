@@ -2,11 +2,13 @@
 title: 04. Jésus et l’annonce de l’Évangile
 description: La Bonne Nouvelle de Jésus-Christ est annoncée pour tous les pécheurs.
 date: 2025-11-06
-tags: ['podcastEpisode']
+tags: [’podcastEpisode’]
 episode:
   filename: ‘2025-11-06-Jesus-et-l-Evangile.mp3’
   seasonNumber: 1
   episodeNumber: 4
+  size: 38260896
+  duration: 2735.664
 ---
 
 L’enregistrement de mon enseignement est là :

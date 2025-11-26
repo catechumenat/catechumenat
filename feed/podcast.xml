@@ -569,8 +569,8 @@ export { HeadingAnchors }
     <description>Les enseignements de nos rendez-vous du jeudi soir, en podcast.</description>
     <language>fr-FR</language>
     <copyright>© 2025 Laurent Ghirardotti</copyright>
-    <pubDate>2025-11-26T20:12:38Z</pubDate>
-    <lastBuildDate>Wed, 26 Nov 2025 20:12:38 +0000</lastBuildDate>
+    <pubDate>2025-11-20T00:00:00Z</pubDate>
+    <lastBuildDate>Wed, 26 Nov 2025 20:55:34 +0000</lastBuildDate>
     <itunes:image href="https://catechumenat.asaintnicolas.com/img/podcast-logo.jpg"></itunes:image>
     <itunes:category text="Religion &amp;amp; Spirituality">
       <itunes:category text="Christianity" />
@@ -579,6 +579,203 @@ export { HeadingAnchors }
     <itunes:explicit>false</itunes:explicit>
     <itunes:author>Laurent Ghirardotti</itunes:author>
 
+    
+    <item>
+      <title>05. Le Salut par la mort et la résurrection de Jésus</title>
+      
+      <link>https://catechumenat.asaintnicolas.com/blog/05-le-Salut/</link>
+      <guid isPermaLink="true">https://catechumenat.asaintnicolas.com/blog/05-le-Salut/</guid>
+      <pubDate>2025-11-20T00:00:00Z</pubDate>
+      
+      <description>L’enregistrement de mon enseignement est là :
+31.15 MB
+| Durée 0:41:37
+| Télécharger
+
+Les vidéos du parcours adulte
+https://www.youtube.com/watch?v=5STxvPaKki0
+Et plus d’informations sur le parcours en ligne.
+Les vidéos du parcours jeune
+https://www.youtube.com/watch?v=3p3ZLOTHPUM
+Et plus d’information sur le parcours en ligne.</description>
+      <itunes:summary>L’enregistrement de mon enseignement est là :
+31.15 MB
+| Durée 0:41:37
+| Télécharger
+
+Les vidéos du parcours adulte
+https://www.youtube.com/watch?v=5STxvPaKki0
+Et plus d’informations sur le parcours en ligne.
+Les vidéos du parcours jeune
+https://www.youtube.com/watch?v=3p3ZLOTHPUM
+Et plus d’information sur le parcours en ligne.</itunes:summary>
+      
+      <content:encoded><![CDATA[<p>L’enregistrement de mon enseignement est là :</p>
+<p><audio controls="" src="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2025-11-20-le-Salut.mp3" preload="metadata"><p class="audio-details">31.15 MB
+| Durée 0:41:37
+| <a download="" href="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2025-11-20-le-Salut.mp3">Télécharger</a></p>
+</audio></p>
+<h2 id="les-videos-du-parcours-adulte">Les vidéos du parcours adulte</h2>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.css">
+<script defer="defer" src="https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.js"></script>
+<div id="5STxvPaKki0" class="eleventy-plugin-youtube-embed"><lite-youtube videoid="5STxvPaKki0" style="background-image: url('https://i.ytimg.com/vi/5STxvPaKki0/hqdefault.jpg');"><div class="lty-playbtn"></div></lite-youtube></div>
+<p>Et plus d’informations <a href="https://academy.lamourvaincra.com/quest/16">sur le parcours en ligne</a>.</p>
+<h2 id="les-videos-du-parcours-jeune">Les vidéos du parcours jeune</h2>
+<div id="3p3ZLOTHPUM" class="eleventy-plugin-youtube-embed"><lite-youtube videoid="3p3ZLOTHPUM" style="background-image: url('https://i.ytimg.com/vi/3p3ZLOTHPUM/hqdefault.jpg');"><div class="lty-playbtn"></div></lite-youtube></div>
+<p>Et plus d’information <a href="https://academy.lamourvaincra.com/quest/111">sur le parcours en ligne</a>.</p>]]></content:encoded>
+      <enclosure url="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2025-11-20-le-Salut.mp3" length="31150704" type="audio/mp3"></enclosure>
+      <itunes:duration>0:41:37</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season></item>
+    
+    <item>
+      <title>04. Jésus et l’annonce de l’Évangile</title>
+      
+      <link>https://catechumenat.asaintnicolas.com/blog/04-Jesus-et-l-Evangile/</link>
+      <guid isPermaLink="true">https://catechumenat.asaintnicolas.com/blog/04-Jesus-et-l-Evangile/</guid>
+      <pubDate>2025-11-06T00:00:00Z</pubDate>
+      
+      <description>L’enregistrement de mon enseignement est là :
+36.13 MB
+| Durée 0:47:21
+| Télécharger
+
+Les vidéos du parcours adulte
+https://www.youtube.com/watch?v=8GvhhPfdBB0
+Et plus d’informations sur le parcours en ligne.
+Les vidéos du parcours jeune
+https://www.youtube.com/watch?v=9p3oJtb9YgI
+Et plus d’information sur le parcours en ligne.</description>
+      <itunes:summary>L’enregistrement de mon enseignement est là :
+36.13 MB
+| Durée 0:47:21
+| Télécharger
+
+Les vidéos du parcours adulte
+https://www.youtube.com/watch?v=8GvhhPfdBB0
+Et plus d’informations sur le parcours en ligne.
+Les vidéos du parcours jeune
+https://www.youtube.com/watch?v=9p3oJtb9YgI
+Et plus d’information sur le parcours en ligne.</itunes:summary>
+      
+      <content:encoded><![CDATA[<p>L’enregistrement de mon enseignement est là :</p>
+<p><audio controls="" src="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2025-11-06-Jesus-et-l-Evangile.mp3" preload="metadata"><p class="audio-details">36.13 MB
+| Durée 0:47:21
+| <a download="" href="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2025-11-06-Jesus-et-l-Evangile.mp3">Télécharger</a></p>
+</audio></p>
+<h2 id="les-videos-du-parcours-adulte">Les vidéos du parcours adulte</h2>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.css">
+<script defer="defer" src="https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.js"></script>
+<div id="8GvhhPfdBB0" class="eleventy-plugin-youtube-embed"><lite-youtube videoid="8GvhhPfdBB0" style="background-image: url('https://i.ytimg.com/vi/8GvhhPfdBB0/hqdefault.jpg');"><div class="lty-playbtn"></div></lite-youtube></div>
+<p>Et plus d’informations <a href="https://academy.lamourvaincra.com/quest/13">sur le parcours en ligne</a>.</p>
+<h2 id="les-videos-du-parcours-jeune">Les vidéos du parcours jeune</h2>
+<div id="9p3oJtb9YgI" class="eleventy-plugin-youtube-embed"><lite-youtube videoid="9p3oJtb9YgI" style="background-image: url('https://i.ytimg.com/vi/9p3oJtb9YgI/hqdefault.jpg');"><div class="lty-playbtn"></div></lite-youtube></div>
+<p>Et plus d’information <a href="https://academy.lamourvaincra.com/quest/109">sur le parcours en ligne</a>.</p>]]></content:encoded>
+      <enclosure url="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2025-11-06-Jesus-et-l-Evangile.mp3" length="36126720" type="audio/mp3"></enclosure>
+      <itunes:duration>0:47:21</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season></item>
+    
+    <item>
+      <title>03. Le mystère du mal</title>
+      
+      <link>https://catechumenat.asaintnicolas.com/blog/03-Le-mystere-du-mal/</link>
+      <guid isPermaLink="true">https://catechumenat.asaintnicolas.com/blog/03-Le-mystere-du-mal/</guid>
+      <pubDate>2025-10-09T00:00:00Z</pubDate>
+      
+      <description>L’enregistrement de mon enseignement est là :
+38.26 MB
+| Durée 0:45:35
+| Télécharger
+
+Le texte biblique (Gn 2, 15-17 ; 3, 1-17)
+
+2, 15 Le Seigneur Dieu prit l’homme et le conduisit dans le jardin d’Éden pour qu’il le travaille et le garde.
+
+16 Le Seigneur Dieu donna à l’homme cet ordre : « Tu peux manger les fruits de tous les arbres du jardin ; »
+
+3, 01 Le serpent était le plus rusé de tous les animaux des champs que le Seigneur Dieu avait faits. Il dit à la femme : « Alors, Dieu vous a vraiment dit : “Vous ne mangerez d’aucun arbre du jardin” ? »
+
+02 La femme répondit au serpent : « Nous mangeons les fruits des arbres du jardin. 03 Mais, pour le fruit de l’arbre qui est au milieu du jardin, Dieu a dit : “Vous n’en mangerez pas, vous n’y toucherez pas, sinon vous mourrez.” »
+
+04 Le...</description>
+      <itunes:summary>L’enregistrement de mon enseignement est là :
+38.26 MB
+| Durée 0:45:35
+| Télécharger
+
+Le texte biblique (Gn 2, 15-17 ; 3, 1-17)
+
+2, 15 Le Seigneur Dieu prit l’homme et le conduisit dans le jardin d’Éden pour qu’il le travaille et le garde.
+
+16 Le Seigneur Dieu donna à l’homme cet ordre : « Tu peux manger les fruits de tous les arbres du jardin ; »
+
+3, 01 Le serpent était le plus rusé de tous les animaux des champs que le Seigneur Dieu avait faits. Il dit à la femme : « Alors, Dieu vous a vraiment dit : “Vous ne mangerez d’aucun arbre du jardin” ? »
+
+02 La femme répondit au serpent : « Nous mangeons les fruits des arbres du jardin. 03 Mais, pour le fruit de l’arbre qui est au milieu du jardin, Dieu a dit : “Vous n’en mangerez pas, vous n’y toucherez pas, sinon vous mourrez.” »
+
+04 Le...</itunes:summary>
+      
+      <content:encoded><![CDATA[<p>L’enregistrement de mon enseignement est là :</p>
+<p><audio controls="" src="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2025-10-09-le-mal.mp3" preload="metadata"><p class="audio-details">38.26 MB
+| Durée 0:45:35
+| <a download="" href="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2025-10-09-le-mal.mp3">Télécharger</a></p>
+</audio></p>
+<h2 id="le-texte-biblique-gn-2-15-17-3-1-17">Le texte biblique (<em>Gn</em> 2, 15-17 ; 3, 1-17)</h2>
+<blockquote>
+<p>2, 15 Le Seigneur Dieu prit l’homme et le conduisit dans le jardin d’Éden pour qu’il le travaille et le garde.</p>
+</blockquote>
+<blockquote>
+<p>16 Le Seigneur Dieu donna à l’homme cet ordre : « <em>Tu peux manger les fruits de tous les arbres du jardin ;</em> »</p>
+</blockquote>
+<blockquote>
+<p>3, 01 Le serpent était le plus rusé de tous les animaux des champs que le Seigneur Dieu avait faits. Il dit à la femme : « <em>Alors, Dieu vous a vraiment dit : “Vous ne mangerez d’aucun arbre du jardin” ?</em> »</p>
+</blockquote>
+<blockquote>
+<p>02 La femme répondit au serpent : « <em>Nous mangeons les fruits des arbres du jardin. 03 Mais, pour le fruit de l’arbre qui est au milieu du jardin, Dieu a dit : “Vous n’en mangerez pas, vous n’y toucherez pas, sinon vous mourrez.”</em> »</p>
+</blockquote>
+<blockquote>
+<p>04 Le serpent dit à la femme : « <em>Pas du tout ! Vous ne mourrez pas ! 05 Mais Dieu sait que, le jour où vous en mangerez, vos yeux s’ouvriront, et vous serez comme des dieux, connaissant le bien et le mal.</em> »</p>
+</blockquote>
+<blockquote>
+<p>06 La femme s’aperçut que le fruit de l’arbre devait être savoureux, qu’il était agréable à regarder et qu’il était désirable, cet arbre, puisqu’il donnait l’intelligence. Elle prit de son fruit, et en mangea. Elle en donna aussi à son mari, et il en mangea. 07 Alors leurs yeux à tous deux s’ouvrirent et ils se rendirent compte qu’ils étaient nus. Ils attachèrent les unes aux autres des feuilles de figuier, et ils s’en firent des pagnes. 08 Ils entendirent la voix du Seigneur Dieu qui se promenait dans le jardin à la brise du jour. L’homme et sa femme allèrent se cacher aux regards du Seigneur Dieu parmi les arbres du jardin.</p>
+</blockquote>
+<blockquote>
+<p>09 Le Seigneur Dieu appela l’homme et lui dit : « <em>Où es-tu donc ?</em> »</p>
+</blockquote>
+<blockquote>
+<p>10 Il répondit : « <em>J’ai entendu ta voix dans le jardin, j’ai pris peur parce que je suis nu, et je me suis caché.</em> »</p>
+</blockquote>
+<blockquote>
+<p>11 Le Seigneur reprit : « <em>Qui donc t’a dit que tu étais nu ? Aurais-tu mangé de l’arbre dont je t’avais interdit de manger ?</em> »</p>
+</blockquote>
+<blockquote>
+<p>12 L’homme répondit : « <em>La femme que tu m’as donnée, c’est elle qui m’a donné du fruit de l’arbre, et j’en ai mangé.</em> »</p>
+</blockquote>
+<blockquote>
+<p>13 Le Seigneur Dieu dit à la femme : « <em>Qu’as-tu fait là ?</em> » La femme répondit : « <em>Le serpent m’a trompée, et j’ai mangé.</em> »</p>
+</blockquote>
+<blockquote>
+<p>14 Alors le Seigneur Dieu dit au serpent : « <em>Parce que tu as fait cela, tu seras maudit parmi tous les animaux et toutes les bêtes des champs. Tu ramperas sur le ventre et tu mangeras de la poussière tous les jours de ta vie. 15 Je mettrai une hostilité entre toi et la femme, entre ta descendance et sa descendance : celle-ci te meurtrira la tête, et toi, tu lui meurtriras le talon.</em> »</p>
+</blockquote>
+<blockquote>
+<p>16 Le Seigneur Dieu dit ensuite à la femme : « <em>Je multiplierai la peine de tes grossesses ; c’est dans la peine que tu enfanteras des fils. Ton désir te portera vers ton mari, et celui-ci dominera sur toi.</em> »</p>
+</blockquote>
+<blockquote>
+<p>17 Il dit enfin à l’homme : « <em>Parce que tu as écouté la voix de ta femme, et que tu as mangé le fruit de l’arbre que je t’avais interdit de manger : maudit soit le sol à cause de toi ! C’est dans la peine que tu en tireras ta nourriture, tous les jours de ta vie.</em> »</p>
+</blockquote>
+<h2 id="les-videos-du-parcours-adulte">Les vidéos du parcours adulte</h2>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.css">
+<script defer="defer" src="https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.js"></script>
+<div id="dU3yWLgqORs" class="eleventy-plugin-youtube-embed"><lite-youtube videoid="dU3yWLgqORs" style="background-image: url('https://i.ytimg.com/vi/dU3yWLgqORs/hqdefault.jpg');"><div class="lty-playbtn"></div></lite-youtube></div>
+<p>Et plus d’informations <a href="https://academy.lamourvaincra.com/quest/10">sur le parcours en ligne</a>.</p>
+<h2 id="les-videos-du-parcours-jeune">Les vidéos du parcours jeune</h2>
+<div id="TSHXF41mjQk" class="eleventy-plugin-youtube-embed"><lite-youtube videoid="TSHXF41mjQk" style="background-image: url('https://i.ytimg.com/vi/TSHXF41mjQk/hqdefault.jpg');"><div class="lty-playbtn"></div></lite-youtube></div>
+<p>Et plus d’information <a href="https://academy.lamourvaincra.com/quest/107">sur le parcours en ligne</a>.</p>]]></content:encoded>
+      <enclosure url="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2025-10-09-le-mal.mp3" length="38260896" type="audio/mp3"></enclosure>
+      <itunes:duration>0:45:35</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season></item>
     </channel>
 </rss>
 
@@ -592,7 +789,7 @@ export { HeadingAnchors }
 			</p>
 		</footer>
 
-		<!-- This page `/feed/podcast.xml` was built on 2025-11-26T20:12:38.789Z -->
+		<!-- This page `/feed/podcast.xml` was built on 2025-11-26T20:55:35.505Z -->
 		<script type="module" src=""></script>
 	</body>
 </html>

@@ -9,7 +9,14 @@ episode:
   episodeNumber: 6
 ---
 
-<img src="./2025-12-04-mind-map.png" />
+L’enregistrement de mon enseignement est là :
+
+<audio controls src="{{ episode.url }}" preload="metadata"><p class="audio-details">{{ episode.size | readableSize }}
+| Durée {{ episode.duration | readableDuration }}
+| <a download href="{{ episode.url }}">Télécharger</a>
+</p></audio>
+
+[Et une super mindmap !](/assets/img/2025-12-04-mind-map.png)
 
 Voici une proposition de timecodes pour le contenu de cet extrait de podcast, basée sur les transitions thématiques abordées :
 

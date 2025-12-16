@@ -570,7 +570,7 @@ export { HeadingAnchors }
     <language>fr-FR</language>
     <copyright>© 2025 Laurent Ghirardotti</copyright>
     <pubDate>2025-12-04T00:00:00Z</pubDate>
-    <lastBuildDate>Mon, 08 Dec 2025 11:40:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 10:04:52 +0000</lastBuildDate>
     <itunes:image href="https://catechumenat.asaintnicolas.com/img/podcast-logo.jpg"></itunes:image>
     <itunes:category text="Religion &amp;amp; Spirituality">
       <itunes:category text="Christianity" />
@@ -587,22 +587,39 @@ export { HeadingAnchors }
       <guid isPermaLink="true">https://catechumenat.asaintnicolas.com/blog/09-l-Eglise/</guid>
       <pubDate>2025-12-04T00:00:00Z</pubDate>
       
-      <description>Voici une proposition de timecodes pour le contenu de cet extrait de podcast, basée sur les transitions thématiques abordées :
+      <description>L’enregistrement de mon enseignement est là :
+38.33 MB
+| Durée 0:49:05
+| Télécharger
+
+Et une super mindmap !
+Voici une proposition de timecodes pour le contenu de cet extrait de podcast, basée sur les transitions thématiques abordées :
 [00:00] Introduction et rappel des ressources (Bible Project et structure de l'Ancien Testament)
 Le locuteur présente Louis Gonzague et le Bible Project comme ressources visuelles pour comprendre la structure de la Bible (Tanakh : Torah, Néviim, Kérouvim).
 [01:02] Quiz sur le Nouveau Testament
 Début du quiz sur la connaissance du Nouveau Testament, incluant le nombre d'Évangiles.
 [05:01] Révision du plan des séances précédentes et introduction du Chapitre 4
-Rappel des chapitres précédents : la prière (relation personnelle avec Jésus), Dieu veut nous sauver (péché originel, mort et résurrection de Jésus), la Bible. Introduction du sujet du jour : Devenir chrétien...</description>
-      <itunes:summary>Voici une proposition de timecodes pour le contenu de cet extrait de podcast, basée sur les transitions thématiques abordées :
+Rappel des chapitres précédents : la prière (relation personnelle avec Jésus), Dieu veut nous sauver...</description>
+      <itunes:summary>L’enregistrement de mon enseignement est là :
+38.33 MB
+| Durée 0:49:05
+| Télécharger
+
+Et une super mindmap !
+Voici une proposition de timecodes pour le contenu de cet extrait de podcast, basée sur les transitions thématiques abordées :
 [00:00] Introduction et rappel des ressources (Bible Project et structure de l'Ancien Testament)
 Le locuteur présente Louis Gonzague et le Bible Project comme ressources visuelles pour comprendre la structure de la Bible (Tanakh : Torah, Néviim, Kérouvim).
 [01:02] Quiz sur le Nouveau Testament
 Début du quiz sur la connaissance du Nouveau Testament, incluant le nombre d'Évangiles.
 [05:01] Révision du plan des séances précédentes et introduction du Chapitre 4
-Rappel des chapitres précédents : la prière (relation personnelle avec Jésus), Dieu veut nous sauver (péché originel, mort et résurrection de Jésus), la Bible. Introduction du sujet du jour : Devenir chrétien...</itunes:summary>
+Rappel des chapitres précédents : la prière (relation personnelle avec Jésus), Dieu veut nous sauver...</itunes:summary>
       
-      <content:encoded><![CDATA[<img src="https://catechumenat.asaintnicolas.com/blog/09-l-Eglise/content/blog/2025-12-04-mind-map.png">
+      <content:encoded><![CDATA[<p>L’enregistrement de mon enseignement est là :</p>
+<p><audio controls="" src="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2025-12-04-l-Eglise.mp3" preload="metadata"><p class="audio-details">38.33 MB
+| Durée 0:49:05
+| <a download="" href="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2025-12-04-l-Eglise.mp3">Télécharger</a></p>
+</audio></p>
+<p><a href="https://catechumenat.asaintnicolas.com/assets/img/2025-12-04-mind-map.png">Et une super mindmap !</a></p>
 <p>Voici une proposition de timecodes pour le contenu de cet extrait de podcast, basée sur les transitions thématiques abordées :</p>
 <p><strong>[00:00] Introduction et rappel des ressources (Bible Project et structure de l'Ancien Testament)</strong>
 Le locuteur présente Louis Gonzague et le Bible Project comme ressources visuelles pour comprendre la structure de la Bible (Tanakh : Torah, Néviim, Kérouvim).</p>
@@ -851,7 +868,7 @@ Le texte biblique (Gn 2, 15-17 ; 3, 1-17)
 			</p>
 		</footer>
 
-		<!-- This page `/feed/podcast.xml` was built on 2025-12-08T11:40:34.661Z -->
+		<!-- This page `/feed/podcast.xml` was built on 2025-12-16T10:04:53.756Z -->
 		<script type="module" src=""></script>
 	</body>
 </html>

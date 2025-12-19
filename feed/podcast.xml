@@ -569,8 +569,8 @@ export { HeadingAnchors }
     <description>Les enseignements de nos rendez-vous du jeudi soir, en podcast.</description>
     <language>fr-FR</language>
     <copyright>© 2025 Laurent Ghirardotti</copyright>
-    <pubDate>2025-12-04T00:00:00Z</pubDate>
-    <lastBuildDate>Tue, 16 Dec 2025 10:04:52 +0000</lastBuildDate>
+    <pubDate>2025-12-18T00:00:00Z</pubDate>
+    <lastBuildDate>Fri, 19 Dec 2025 15:02:53 +0000</lastBuildDate>
     <itunes:image href="https://catechumenat.asaintnicolas.com/img/podcast-logo.jpg"></itunes:image>
     <itunes:category text="Religion &amp;amp; Spirituality">
       <itunes:category text="Christianity" />
@@ -579,6 +579,77 @@ export { HeadingAnchors }
     <itunes:explicit>false</itunes:explicit>
     <itunes:author>Laurent Ghirardotti</itunes:author>
 
+    
+    <item>
+      <title>10. Le baptême</title>
+      
+      <link>https://catechumenat.asaintnicolas.com/blog/10-le-bapteme/</link>
+      <guid isPermaLink="true">https://catechumenat.asaintnicolas.com/blog/10-le-bapteme/</guid>
+      <pubDate>2025-12-18T00:00:00Z</pubDate>
+      
+      <description>L’enregistrement de mon enseignement est là :
+NaN B
+| Durée 0:00:00
+| Télécharger
+
+Ou par votre application de podcast en ajoutant le lien : https://catechumenat.asaintnicolas.com/feed/podcast.xml
+Reprise
+Les termes « catéchisme » et « catéchumène » partagent une racine grecque (akuo) signifiant se mettre à l'écoute. Le catéchisme désigne le contenu de la foi transmis par l'Église, tandis que le catéchumène est la personne qui se prépare à recevoir le baptême.
+1. Définitions et fondements de l'Église
+L'Église elle-même est décrite à travers des images bibliques fortes : elle est à la fois l'Épouse du Christ et le Corps du Christ, dont Jésus est la tête. Fondée par le Christ lorsqu'il a envoyé ses disciples baptiser toutes les nations, elle s'organise aujourd'hui en diocèses et paroisses,...</description>
+      <itunes:summary>L’enregistrement de mon enseignement est là :
+NaN B
+| Durée 0:00:00
+| Télécharger
+
+Ou par votre application de podcast en ajoutant le lien : https://catechumenat.asaintnicolas.com/feed/podcast.xml
+Reprise
+Les termes « catéchisme » et « catéchumène » partagent une racine grecque (akuo) signifiant se mettre à l'écoute. Le catéchisme désigne le contenu de la foi transmis par l'Église, tandis que le catéchumène est la personne qui se prépare à recevoir le baptême.
+1. Définitions et fondements de l'Église
+L'Église elle-même est décrite à travers des images bibliques fortes : elle est à la fois l'Épouse du Christ et le Corps du Christ, dont Jésus est la tête. Fondée par le Christ lorsqu'il a envoyé ses disciples baptiser toutes les nations, elle s'organise aujourd'hui en diocèses et paroisses,...</itunes:summary>
+      
+      <content:encoded><![CDATA[<p>L’enregistrement de mon enseignement est là :</p>
+<p><audio controls="" src="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2025-12-18-le-bapteme.mp3" preload="metadata"><p class="audio-details">NaN B
+| Durée 0:00:00
+| <a download="" href="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2025-12-18-le-bapteme.mp3">Télécharger</a></p>
+</audio></p>
+<p>Ou par votre application de podcast en ajoutant le lien : <a href="https://catechumenat.asaintnicolas.com/feed/podcast.xml">https://catechumenat.asaintnicolas.com/feed/podcast.xml</a></p>
+<h2 id="reprise">Reprise</h2>
+<p>Les termes « catéchisme » et « catéchumène » partagent une racine grecque (<em>akuo</em>) signifiant <strong>se mettre à l'écoute</strong>. Le catéchisme désigne le contenu de la foi transmis par l'Église, tandis que le <strong>catéchumène</strong> est la personne qui se prépare à recevoir le baptême.</p>
+<h3 id="1-definitions-et-fondements-de-l-eglise">1. Définitions et fondements de l'Église</h3>
+<p>L'Église elle-même est décrite à travers des images bibliques fortes : elle est à la fois l'<strong>Épouse du Christ</strong> et le <strong>Corps du Christ</strong>, dont Jésus est la tête. Fondée par le Christ lorsqu'il a envoyé ses disciples baptiser toutes les nations, elle s'organise aujourd'hui en diocèses et paroisses, où les laïcs ont pour rôle de témoigner de leur foi et de prendre soin de la société.</p>
+<h3 id="2-le-bapteme-origine-et-signification">2. Le baptême : origine et signification</h3>
+<p>Le baptême est défini comme la <strong>porte d'entrée</strong> dans la famille de Dieu et dans la vie éternelle. Il tire son origine de Jésus lui-même, qui a reçu le baptême de Jean-Baptiste dans le Jourdain. Bien que Jésus n'ait jamais péché, cet acte symbolique a permis d'attester sa divinité lors de l'ouverture du ciel.</p>
+<p>Le récit de Philippe et de l'eunuque éthiopien dans les <em>Actes des Apôtres</em> (chapitre 8) illustre la pratique primitive : après une explication des Écritures (le prophète <em>Isaïe</em>), l'eunuque demande le baptême dès qu'ils rencontrent de l'eau. À l'époque, le catéchuménat structuré n'existait pas encore, mais l'Église a ensuite jugé nécessaire de former les candidats pour que ce sacrement porte du fruit durablement.</p>
+<h3 id="3-le-rite-et-ses-mysteres-theologiques">3. Le rite et ses mystères théologiques</h3>
+<p>Le mot « baptiser » vient du grec <em>baptizo</em>, qui signifie <strong>plonger ou immerger</strong>. Le rite essentiel consiste à verser de l'eau (aspersion) ou à immerger la personne en disant : « <em>Je te baptise au nom du Père, et du Fils, et du Saint-Esprit</em> ».</p>
+<p>Ce geste recouvre deux mystères profonds :</p>
+<ul>
+<li><strong>L’immersion dans la Trinité :</strong> La personne est plongée dans le mystère d'un Dieu en trois personnes.</li>
+<li><strong>La mort et la résurrection :</strong> L'eau symbolise la descente dans la mort pour y tuer le péché (et non l'homme lui-même ! C’est la mort de la « mort du péché ») et la remontée pour revêtir une vie nouvelle en Christ.</li>
+</ul>
+<h3 id="4-effets-et-portee-du-sacrement">4. Effets et portée du sacrement</h3>
+<p>Le baptême est un « rite efficace » qui produit des effets réels : le <strong>pardon de tous les péchés</strong>, la réception de la grâce de l'Esprit Saint et l'adoption comme fils ou fille de Dieu. Une fois baptisé, le chrétien « revêt le Christ » comme un vêtement protecteur (et + encore, comme le symbolise l’onction d’huile qui nous entre dans la peau).</p>
+<p>Concernant le salut, l'Église enseigne que :</p>
+<ul>
+<li>Le baptême ne garantit pas automatiquement le ciel, car la vie menée compte également.</li>
+<li>À l'inverse, ne pas être baptisé ne conduit pas automatiquement en enfer ; Dieu n'est pas prisonnier de ses sacrements et peut sauver ceux qu'il veut, notamment ceux qui meurent avec le désir sincère de recevoir le sacrement.</li>
+</ul>
+<h3 id="5-aspects-pratiques-et-parcours">5. Aspects pratiques et parcours</h3>
+<p>Pour les adultes, le baptême est généralement célébré durant la <strong>Vigile Pascale</strong> (nuit du samedi au dimanche de Pâques). Ce parcours inclut les deux autres sacrements de l'initiation chrétienne : la confirmation (marquée par l'onction du Saint Chrême) et l'Eucharistie.</p>
+<p>Enfin, bien que le baptême efface tous les péchés passés, la <strong>confession</strong> reste un lieu important pour remettre régulièrement ses fautes à Dieu par la suite. Le prêtre est alors tenu à un secret inviolable sur tout ce qui lui est confié. La confession est comme une <strong>douche spirituelle</strong> intense qui nettoie totalement l'âme et lui permet d'enfiler un habit neuf et éclatant, celui du Christ, pour commencer une nouvelle vie. C’est une question d’hygiène de l’âme !</p>
+<h2 id="les-videos-du-parcours-adulte">Les vidéos du parcours adulte</h2>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.css">
+<script defer="defer" src="https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.js"></script>
+<div id="6-vaS2hAGEU" class="eleventy-plugin-youtube-embed"><lite-youtube videoid="6-vaS2hAGEU" style="background-image: url('https://i.ytimg.com/vi/6-vaS2hAGEU/hqdefault.jpg');"><div class="lty-playbtn"></div></lite-youtube></div>
+<p>Et plus d’informations <a href="https://academy.lamourvaincra.com/quest/31">sur le parcours en ligne</a>.</p>
+<h2 id="les-videos-du-parcours-jeune">Les vidéos du parcours jeune</h2>
+<div id="dgvlW0YE3mw" class="eleventy-plugin-youtube-embed"><lite-youtube videoid="dgvlW0YE3mw" style="background-image: url('https://i.ytimg.com/vi/dgvlW0YE3mw/hqdefault.jpg');"><div class="lty-playbtn"></div></lite-youtube></div>
+<p>Et plus d’information <a href="https://academy.lamourvaincra.com/quest/121">sur le parcours en ligne</a>.</p>]]></content:encoded>
+      <enclosure url="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2025-12-18-le-bapteme.mp3" length="" type="audio/mp3"></enclosure>
+      <itunes:duration>0:00:00</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season></item>
     
     <item>
       <title>09. L’Église</title>
@@ -868,7 +939,7 @@ Le texte biblique (Gn 2, 15-17 ; 3, 1-17)
 			</p>
 		</footer>
 
-		<!-- This page `/feed/podcast.xml` was built on 2025-12-16T10:04:53.756Z -->
+		<!-- This page `/feed/podcast.xml` was built on 2025-12-19T15:02:54.166Z -->
 		<script type="module" src=""></script>
 	</body>
 </html>

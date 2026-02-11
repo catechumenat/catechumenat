@@ -4,7 +4,7 @@ description: Au nom du Père et du Fils et du Saint-Esprit
 date: 2026-02-05
 tags: ['podcastEpisode']
 episode:
-  filename: '2026-02-05-la-Trinité.mp3'
+  filename: '2026-02-05-la-Trinite.mp3'
   seasonNumber: 1
   episodeNumber: 9
 ---

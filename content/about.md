@@ -12,11 +12,11 @@ const eleventyNavigation = {
 - jeudi 6 novembre : [L’Évangile (5)](/blog/04-Jesus-et-l-Evangile/)
 - 15-16 novembre : [Week-end spirituel à Beaugency, La Bible (7, 8&9)](/blog/06-a-08-la-Bible/)
 - jeudi 20 novembre : [Mort et résurrection de Jésus (6)](/blog/05-le-Salut/)
-- jeudi 4 décembre : Baptême (11)
-- jeudi 18 décembre : Réconciliation (13)
-- jeudi 8 janvier : l’Eucharistie (12)
+- jeudi 4 décembre : [L’Église (10)](/blog/09-l-Eglise/)
+- jeudi 18 décembre : [Baptême (11)](/blog/10-le-bapteme/)
+- jeudi 8 janvier : [l’Eucharistie (12)](/blog/11-l-Eucharistie/)
 - dimanche 11 janvier : Déjeuner (10) 
-- jeudi 5 février : la Trinité (14)
+- jeudi 5 février : [la Trinité (14)](/blog/12-la-Trinite/)
 - mercredi 18 février : Mercredi des Cendres
 - jeudi 19 février : La vie après la mort (15)
 - samedi 21 Février : Appel décisif à la cathédrale Notre-Dame de Paris

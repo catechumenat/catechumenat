@@ -4,6 +4,14 @@ const eleventyNavigation = {
 	order: 3
 };
 ---
+
+# Informations pratiques
+Les jeudis, nous nous retrouvons entre 20h et 22h, au 49 rue de Turbigo. Le portail noir s’ouvre en pressant le bouton, et il suffit de pousser la porte du bas. Puis il faut descendre l’escalier.
+
+On commence par un temps d’apéro et de rencontre, puis on prie ensemble en chantant quelques chants de louange. Après, un enseignement de 30 minutes et un temps de partage.
+
+Si vous le souhaitez, il y a la prière des malades le jeudi à 18h30.
+
 # Le programme 2025-2026
 
 - jeudi 11 septembre : [Le signe de croix (1)](/blog/01-Le-signe-de-Croix/)

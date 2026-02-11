@@ -5,11 +5,32 @@
   <subtitle>Nos derniers enseignements.</subtitle>
   <link href="https://catechumenat.asaintnicolas.com/feed/feed.xml" rel="self" />
   <link href="https://catechumenat.asaintnicolas.com/" />
-  <updated>2026-01-08T00:00:00Z</updated>
+  <updated>2026-02-05T00:00:00Z</updated>
   <id>https://catechumenat.asaintnicolas.com/</id>
   <author>
     <name>Laurent Ghirardotti</name>
   </author>
+  <entry>
+    <title>12. La Trinité</title>
+    <link href="https://catechumenat.asaintnicolas.com/blog/12-la-Trinite/" />
+    <updated>2026-02-05T00:00:00Z</updated>
+    <id>https://catechumenat.asaintnicolas.com/blog/12-la-Trinite/</id>
+    <content type="html">&lt;p&gt;L’enregistrement de mon enseignement est là :&lt;/p&gt;
+&lt;p&gt;&lt;audio controls=&quot;&quot; src=&quot;https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-02-05-la-Trinite%CC%81.mp3&quot; preload=&quot;metadata&quot;&gt;&lt;p class=&quot;audio-details&quot;&gt;NaN B
+| Durée 0:00:00
+| &lt;a download=&quot;&quot; href=&quot;https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-02-05-la-Trinite%CC%81.mp3&quot;&gt;Télécharger&lt;/a&gt;&lt;/p&gt;
+&lt;/audio&gt;&lt;/p&gt;
+&lt;p&gt;Ou par votre application de podcast en ajoutant le lien : &lt;a href=&quot;https://catechumenat.asaintnicolas.com/feed/podcast.xml&quot;&gt;https://catechumenat.asaintnicolas.com/feed/podcast.xml&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;les-videos-du-parcours-adulte&quot;&gt;Les vidéos du parcours adulte&lt;/h2&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.css&quot;&gt;
+&lt;script defer=&quot;defer&quot; src=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.js&quot;&gt;&lt;/script&gt;
+&lt;div id=&quot;wStCdnaNg3Y&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;wStCdnaNg3Y&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/wStCdnaNg3Y/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;Et plus d’informations &lt;a href=&quot;https://academy.lamourvaincra.com/quest/40&quot;&gt;sur le parcours en ligne&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;les-videos-du-parcours-jeune&quot;&gt;Les vidéos du parcours jeune&lt;/h2&gt;
+&lt;div id=&quot;LZXXV5mb_TQ&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;LZXXV5mb_TQ&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/LZXXV5mb_TQ/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;Et plus d’information &lt;a href=&quot;https://academy.lamourvaincra.com/quest/127&quot;&gt;sur le parcours en ligne&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>11. L’Eucharistie</title>
     <link href="https://catechumenat.asaintnicolas.com/blog/11-l-Eucharistie/" />
@@ -659,24 +680,6 @@ Alors effectivement, je pense que c’est pour ça qu’on n’a pas le même tr
 &lt;h2 id=&quot;les-videos-du-parcours-jeune&quot;&gt;Les vidéos du parcours jeune&lt;/h2&gt;
 &lt;div id=&quot;TSHXF41mjQk&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;TSHXF41mjQk&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/TSHXF41mjQk/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
 &lt;p&gt;Et plus d’information &lt;a href=&quot;https://academy.lamourvaincra.com/quest/107&quot;&gt;sur le parcours en ligne&lt;/a&gt;.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>02. Pater et Ave Maria</title>
-    <link href="https://catechumenat.asaintnicolas.com/blog/02-Pater-et-Ave-Maria/" />
-    <updated>2025-09-25T00:00:00Z</updated>
-    <id>https://catechumenat.asaintnicolas.com/blog/02-Pater-et-Ave-Maria/</id>
-    <content type="html">&lt;p&gt;Voilà de quoi reprendre l’enseignement du 25 septembre par le père Bertrand.&lt;/p&gt;
-&lt;h2 id=&quot;les-videos-du-parcours-adulte&quot;&gt;Les vidéos du parcours adulte&lt;/h2&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/qebDglKwHYc?si=tdsoCZSCO5kj6LEq&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;Et pour le &lt;em&gt;Je Vous Salue Marie&lt;/em&gt; :&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/hvnnfBRCGmE?si=KnGB_2N1ajxMCDgg&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;Et plus d’informations &lt;a href=&quot;https://academy.lamourvaincra.com/quest/04&quot;&gt;sur le parcours en ligne&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;les-videos-du-parcours-jeune&quot;&gt;Les vidéos du parcours jeune&lt;/h2&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/se8ZELrJkS4?si=FM4WcO0C7DFKh549&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;Et&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/wG0jl-gmaVM?si=-1BXWyXk8cqwWExF&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;Et plus d’information &lt;a href=&quot;https://academy.lamourvaincra.com/quest/103&quot;&gt;sur le parcours en ligne&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
 </feed>

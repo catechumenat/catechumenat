@@ -570,7 +570,7 @@ export { HeadingAnchors }
     <language>fr-FR</language>
     <copyright>© 2025–2026 Laurent Ghirardotti</copyright>
     <pubDate>2026-02-05T00:00:00Z</pubDate>
-    <lastBuildDate>Wed, 11 Feb 2026 11:46:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 11:55:07 +0000</lastBuildDate>
     <itunes:image href="https://catechumenat.asaintnicolas.com/img/podcast-logo.jpg"></itunes:image>
     <itunes:category text="Religion &amp;amp; Spirituality">
       <itunes:category text="Christianity" />
@@ -588,8 +588,8 @@ export { HeadingAnchors }
       <pubDate>2026-02-05T00:00:00Z</pubDate>
       
       <description>L’enregistrement de mon enseignement est là :
-NaN B
-| Durée 0:00:00
+20.24 MB
+| Durée 0:20:57
 | Télécharger
 
 Ou par votre application de podcast en ajoutant le lien : https://catechumenat.asaintnicolas.com/feed/podcast.xml
@@ -600,8 +600,8 @@ Les vidéos du parcours jeune
 https://www.youtube.com/watch?v=LZXXV5mb_TQ
 Et plus d’information sur le parcours en ligne.</description>
       <itunes:summary>L’enregistrement de mon enseignement est là :
-NaN B
-| Durée 0:00:00
+20.24 MB
+| Durée 0:20:57
 | Télécharger
 
 Ou par votre application de podcast en ajoutant le lien : https://catechumenat.asaintnicolas.com/feed/podcast.xml
@@ -613,9 +613,9 @@ https://www.youtube.com/watch?v=LZXXV5mb_TQ
 Et plus d’information sur le parcours en ligne.</itunes:summary>
       
       <content:encoded><![CDATA[<p>L’enregistrement de mon enseignement est là :</p>
-<p><audio controls="" src="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-02-05-la-Trinite%CC%81.mp3" preload="metadata"><p class="audio-details">NaN B
-| Durée 0:00:00
-| <a download="" href="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-02-05-la-Trinite%CC%81.mp3">Télécharger</a></p>
+<p><audio controls="" src="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-02-05-la-Trinite.mp3" preload="metadata"><p class="audio-details">20.24 MB
+| Durée 0:20:57
+| <a download="" href="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-02-05-la-Trinite.mp3">Télécharger</a></p>
 </audio></p>
 <p>Ou par votre application de podcast en ajoutant le lien : <a href="https://catechumenat.asaintnicolas.com/feed/podcast.xml">https://catechumenat.asaintnicolas.com/feed/podcast.xml</a></p>
 <h2 id="les-videos-du-parcours-adulte">Les vidéos du parcours adulte</h2>
@@ -626,8 +626,8 @@ Et plus d’information sur le parcours en ligne.</itunes:summary>
 <h2 id="les-videos-du-parcours-jeune">Les vidéos du parcours jeune</h2>
 <div id="LZXXV5mb_TQ" class="eleventy-plugin-youtube-embed"><lite-youtube videoid="LZXXV5mb_TQ" style="background-image: url('https://i.ytimg.com/vi/LZXXV5mb_TQ/hqdefault.jpg');"><div class="lty-playbtn"></div></lite-youtube></div>
 <p>Et plus d’information <a href="https://academy.lamourvaincra.com/quest/127">sur le parcours en ligne</a>.</p>]]></content:encoded>
-      <enclosure url="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-02-05-la-Trinite%CC%81.mp3" length="" type="audio/mp3"></enclosure>
-      <itunes:duration>0:00:00</itunes:duration>
+      <enclosure url="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-02-05-la-Trinite.mp3" length="20239584" type="audio/mp3"></enclosure>
+      <itunes:duration>0:20:57</itunes:duration>
       <itunes:episode>9</itunes:episode>
       <itunes:season>1</itunes:season></item>
     
@@ -1148,7 +1148,7 @@ Le texte biblique (Gn 2, 15-17 ; 3, 1-17)
 			</p>
 		</footer>
 
-		<!-- This page `/feed/podcast.xml` was built on 2026-02-11T11:46:24.396Z -->
+		<!-- This page `/feed/podcast.xml` was built on 2026-02-11T11:55:09.131Z -->
 		<script type="module" src=""></script>
 	</body>
 </html>

@@ -26,12 +26,12 @@ Si vous le souhaitez, il y a la prière des malades le jeudi à 18h30.
 - dimanche 11 janvier : Déjeuner (10) 
 - jeudi 5 février : [la Trinité (14)](/blog/12-la-Trinite/)
 - mercredi 18 février : Mercredi des Cendres
-- jeudi 19 février : La vie après la mort (15)
+- jeudi 19 février : le Credo (16)
 - samedi 21 Février : Appel décisif à la cathédrale Notre-Dame de Paris
 - dimanche 22 février : Tradition du Symbole de la Foi
 - dimanche 1er mars : Tradition du Notre Père
 - dimanche 8 mars : 1er scrutin
-- jeudi 12 mars : le Credo (16)
+- jeudi 12 mars : La vie après la mort (15)
 - dimanche 15 mars : 2ème scrutin
 - jeudi 26 mars : Les grands principes de la vie chrétienne (17)
 - dimanche 22 mars : 3ème scrutin

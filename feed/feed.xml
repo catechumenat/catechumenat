@@ -5,11 +5,35 @@
   <subtitle>Nos derniers enseignements.</subtitle>
   <link href="https://catechumenat.asaintnicolas.com/feed/feed.xml" rel="self" />
   <link href="https://catechumenat.asaintnicolas.com/" />
-  <updated>2026-02-05T00:00:00Z</updated>
+  <updated>2026-02-19T00:00:00Z</updated>
   <id>https://catechumenat.asaintnicolas.com/</id>
   <author>
     <name>Laurent Ghirardotti</name>
   </author>
+  <entry>
+    <title>13. Le Credo</title>
+    <link href="https://catechumenat.asaintnicolas.com/blog/13-le-Credo/" />
+    <updated>2026-02-19T00:00:00Z</updated>
+    <id>https://catechumenat.asaintnicolas.com/blog/13-le-Credo/</id>
+    <content type="html">&lt;p&gt;L’enregistrement de mon enseignement est là :&lt;/p&gt;
+&lt;p&gt;&lt;audio controls=&quot;&quot; src=&quot;https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-02-19-Credo.mp3&quot; preload=&quot;metadata&quot;&gt;&lt;p class=&quot;audio-details&quot;&gt;43.89 MB
+| Durée 0:45:43
+| &lt;a download=&quot;&quot; href=&quot;https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-02-19-Credo.mp3&quot;&gt;Télécharger&lt;/a&gt;&lt;/p&gt;
+&lt;/audio&gt;&lt;/p&gt;
+&lt;p&gt;Ou par votre application de podcast en ajoutant le lien : &lt;a href=&quot;https://catechumenat.asaintnicolas.com/feed/podcast.xml&quot;&gt;https://catechumenat.asaintnicolas.com/feed/podcast.xml&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;un-autre-enseignement-par-claves&quot;&gt;Un autre enseignement par Claves&lt;/h2&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.css&quot;&gt;
+&lt;script defer=&quot;defer&quot; src=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.js&quot;&gt;&lt;/script&gt;
+&lt;div id=&quot;JCXPfYuR4hI&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;JCXPfYuR4hI&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/JCXPfYuR4hI/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;Et tout &lt;a href=&quot;https://claves.org/le-credo-symbole-des-apotres/&quot;&gt;un article détaillé à retrouver ici&lt;/a&gt;. N’hésitez pas à regarder &lt;a href=&quot;https://claves.org/c/liturgie/la-messe/&quot;&gt;les autres vidéos sur la messe !&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;les-videos-du-parcours-adulte&quot;&gt;Les vidéos du parcours adulte&lt;/h2&gt;
+&lt;div id=&quot;PK_wacMI_uU&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;PK_wacMI_uU&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/PK_wacMI_uU/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;Et plus d’informations &lt;a href=&quot;https://academy.lamourvaincra.com/quest/46&quot;&gt;sur le parcours en ligne&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;les-videos-du-parcours-jeune&quot;&gt;Les vidéos du parcours jeune&lt;/h2&gt;
+&lt;div id=&quot;Fjap93IhZm4&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;Fjap93IhZm4&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/Fjap93IhZm4/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;Et plus d’information &lt;a href=&quot;https://academy.lamourvaincra.com/quest/131&quot;&gt;sur le parcours en ligne&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>12. La Trinité</title>
     <link href="https://catechumenat.asaintnicolas.com/blog/12-la-Trinite/" />
@@ -617,69 +641,6 @@ Alors effectivement, je pense que c’est pour ça qu’on n’a pas le même tr
 &lt;h2 id=&quot;peut-on-penser-qu-a-la-fin-dieu-ne-nous-juge-pas-et-qu-au-contraire-il-nous-soutiendra&quot;&gt;Peut-on penser qu’à la fin Dieu ne nous juge pas et qu’au contraire il nous soutiendra ?&lt;/h2&gt;
 &lt;p&gt;On parle bien d’un jugement, et même de deux jugements. Mais effectivement, on peut penser que Dieu, dans son amour infini ne va pas seulement opérer une pesée des âmes et nous envoyer dans un chaudron, mais que vraiment, c’est le plus grand désir de Dieu de nous accueillir.&lt;/p&gt;
 &lt;p&gt;On peut reprendre &lt;a href=&quot;https://www.aelf.org/bible/Lc/15&quot;&gt;la parabole du fils prodigue (&lt;em&gt;Lc&lt;/em&gt; 15)&lt;/a&gt;, parce que ça dit énormément du grand désir du Père de nous accueillir, et de nous dire qu’il nous veut comme fils et filles.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>03. Le mystère du mal</title>
-    <link href="https://catechumenat.asaintnicolas.com/blog/03-Le-mystere-du-mal/" />
-    <updated>2025-10-09T00:00:00Z</updated>
-    <id>https://catechumenat.asaintnicolas.com/blog/03-Le-mystere-du-mal/</id>
-    <content type="html">&lt;p&gt;L’enregistrement de mon enseignement est là :&lt;/p&gt;
-&lt;p&gt;&lt;audio controls=&quot;&quot; src=&quot;https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2025-10-09-le-mal.mp3&quot; preload=&quot;metadata&quot;&gt;&lt;p class=&quot;audio-details&quot;&gt;38.26 MB
-| Durée 0:45:35
-| &lt;a download=&quot;&quot; href=&quot;https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2025-10-09-le-mal.mp3&quot;&gt;Télécharger&lt;/a&gt;&lt;/p&gt;
-&lt;/audio&gt;&lt;/p&gt;
-&lt;h2 id=&quot;le-texte-biblique-gn-2-15-17-3-1-17&quot;&gt;Le texte biblique (&lt;em&gt;Gn&lt;/em&gt; 2, 15-17 ; 3, 1-17)&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;2, 15 Le Seigneur Dieu prit l’homme et le conduisit dans le jardin d’Éden pour qu’il le travaille et le garde.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;16 Le Seigneur Dieu donna à l’homme cet ordre : « &lt;em&gt;Tu peux manger les fruits de tous les arbres du jardin ;&lt;/em&gt; »&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;3, 01 Le serpent était le plus rusé de tous les animaux des champs que le Seigneur Dieu avait faits. Il dit à la femme : « &lt;em&gt;Alors, Dieu vous a vraiment dit : “Vous ne mangerez d’aucun arbre du jardin” ?&lt;/em&gt; »&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;02 La femme répondit au serpent : « &lt;em&gt;Nous mangeons les fruits des arbres du jardin. 03 Mais, pour le fruit de l’arbre qui est au milieu du jardin, Dieu a dit : “Vous n’en mangerez pas, vous n’y toucherez pas, sinon vous mourrez.”&lt;/em&gt; »&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;04 Le serpent dit à la femme : « &lt;em&gt;Pas du tout ! Vous ne mourrez pas ! 05 Mais Dieu sait que, le jour où vous en mangerez, vos yeux s’ouvriront, et vous serez comme des dieux, connaissant le bien et le mal.&lt;/em&gt; »&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;06 La femme s’aperçut que le fruit de l’arbre devait être savoureux, qu’il était agréable à regarder et qu’il était désirable, cet arbre, puisqu’il donnait l’intelligence. Elle prit de son fruit, et en mangea. Elle en donna aussi à son mari, et il en mangea. 07 Alors leurs yeux à tous deux s’ouvrirent et ils se rendirent compte qu’ils étaient nus. Ils attachèrent les unes aux autres des feuilles de figuier, et ils s’en firent des pagnes. 08 Ils entendirent la voix du Seigneur Dieu qui se promenait dans le jardin à la brise du jour. L’homme et sa femme allèrent se cacher aux regards du Seigneur Dieu parmi les arbres du jardin.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;09 Le Seigneur Dieu appela l’homme et lui dit : « &lt;em&gt;Où es-tu donc ?&lt;/em&gt; »&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;10 Il répondit : « &lt;em&gt;J’ai entendu ta voix dans le jardin, j’ai pris peur parce que je suis nu, et je me suis caché.&lt;/em&gt; »&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;11 Le Seigneur reprit : « &lt;em&gt;Qui donc t’a dit que tu étais nu ? Aurais-tu mangé de l’arbre dont je t’avais interdit de manger ?&lt;/em&gt; »&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;12 L’homme répondit : « &lt;em&gt;La femme que tu m’as donnée, c’est elle qui m’a donné du fruit de l’arbre, et j’en ai mangé.&lt;/em&gt; »&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;13 Le Seigneur Dieu dit à la femme : « &lt;em&gt;Qu’as-tu fait là ?&lt;/em&gt; » La femme répondit : « &lt;em&gt;Le serpent m’a trompée, et j’ai mangé.&lt;/em&gt; »&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;14 Alors le Seigneur Dieu dit au serpent : « &lt;em&gt;Parce que tu as fait cela, tu seras maudit parmi tous les animaux et toutes les bêtes des champs. Tu ramperas sur le ventre et tu mangeras de la poussière tous les jours de ta vie. 15 Je mettrai une hostilité entre toi et la femme, entre ta descendance et sa descendance : celle-ci te meurtrira la tête, et toi, tu lui meurtriras le talon.&lt;/em&gt; »&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;16 Le Seigneur Dieu dit ensuite à la femme : « &lt;em&gt;Je multiplierai la peine de tes grossesses ; c’est dans la peine que tu enfanteras des fils. Ton désir te portera vers ton mari, et celui-ci dominera sur toi.&lt;/em&gt; »&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;17 Il dit enfin à l’homme : « &lt;em&gt;Parce que tu as écouté la voix de ta femme, et que tu as mangé le fruit de l’arbre que je t’avais interdit de manger : maudit soit le sol à cause de toi ! C’est dans la peine que tu en tireras ta nourriture, tous les jours de ta vie.&lt;/em&gt; »&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;les-videos-du-parcours-adulte&quot;&gt;Les vidéos du parcours adulte&lt;/h2&gt;
-&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.css&quot;&gt;
-&lt;script defer=&quot;defer&quot; src=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.js&quot;&gt;&lt;/script&gt;
-&lt;div id=&quot;dU3yWLgqORs&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;dU3yWLgqORs&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/dU3yWLgqORs/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
-&lt;p&gt;Et plus d’informations &lt;a href=&quot;https://academy.lamourvaincra.com/quest/10&quot;&gt;sur le parcours en ligne&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;les-videos-du-parcours-jeune&quot;&gt;Les vidéos du parcours jeune&lt;/h2&gt;
-&lt;div id=&quot;TSHXF41mjQk&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;TSHXF41mjQk&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/TSHXF41mjQk/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
-&lt;p&gt;Et plus d’information &lt;a href=&quot;https://academy.lamourvaincra.com/quest/107&quot;&gt;sur le parcours en ligne&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
 </feed>

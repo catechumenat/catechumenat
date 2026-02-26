@@ -26,7 +26,7 @@ Si vous le souhaitez, il y a la prière des malades le jeudi à 18h30.
 - dimanche 11 janvier : Déjeuner (10) 
 - jeudi 5 février : [la Trinité (14)](/blog/12-la-Trinite/)
 - mercredi 18 février : Mercredi des Cendres
-- jeudi 19 février : le Credo (16)
+- jeudi 19 février : [le Credo (16)](/blog/13-le-Credo/)
 - samedi 21 Février : Appel décisif à la cathédrale Notre-Dame de Paris
 - dimanche 22 février : Tradition du Symbole de la Foi
 - dimanche 1er mars : Tradition du Notre Père

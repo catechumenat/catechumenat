@@ -48,10 +48,13 @@ Semaine Sainte !
 - samedi 4 avril : Vigile de Pâques, baptême des catéchumènes
 - dimanche 5 avril : Dimanche de Pâques
 - jeudi 16 avril : Fêtes et coutumes catholiques (21)
-- dimanche 12 avril : Dimanche in Albis (“en blanc”), les néophytes sont invités à des soirées.
+- dimanche 12 avril : Dimanche *in Albis* (“en blanc”), les néophytes sont invités à des soirées.
 - jeudi 10 avril : L’enseignement officiel de l’Église catholique (22)
+- lundi 4 mai de 20h à 22h : catéchèse des néophytes à l’église Saint-Séverin, Mgr Emmanuel Tois vous parle du baptême.
 - jeudi 7 mai : La sexualité dans la société contemporaine (23)
 - samedi 9 mai : Retraite préparatoire obligatoire
+- lundi 11 mai de 20h à 22h : catéchèse des néophytes à l’église Saint-Séverin, Mgr Philippe Marsset vous parle de l’eucharistie.
+- lundi 18 mai de 20h à 22h : catéchèse des néophytes à l’église Saint-Séverin, Mgr Laurent Ulrich vous parle de la confirmation.
 - jeudi 21 mai : L’engagement social des chrétiens (24)
 - samedi 23 mai à 10h00 : Confirmations à l’église Saint-Honoré d'Eylau
 - dimanche 24 mai : Dimanche de Pentecôte

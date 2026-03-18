@@ -31,13 +31,16 @@ Si vous le souhaitez, il y a la prière des malades le jeudi à 18h30.
 - dimanche 22 février : Tradition du Symbole de la Foi
 - dimanche 1er mars : Tradition du Notre Père
 - dimanche 8 mars : 1er scrutin
-- jeudi 12 mars : La vie après la mort (15)
+- jeudi 12 mars : [La vie après la mort (15)](/blog/14-la-vie-apres-la-mort/)
 - dimanche 15 mars : 2ème scrutin
-- jeudi 26 mars : Les grands principes de la vie chrétienne (17)
+- jeudi 26 mars : Le combat spirituel, se convertir (18)
 - dimanche 22 mars : 3ème scrutin
-- 28-29 mars : Week-end spirituel à Nevers : La Semaine Sainte 
+- 28-29 mars : Week-end spirituel à Nevers : Présentation de la Semaine Sainte, et apprendre à prier (chapelet, adoration, louange, *lectio divina*).
 
-À reprogrammer : Le combat spirituel, se convertir (18) Cultiver le bien, se sanctifier (19) et les sacrements et les grandes étapes de la vie (20)
+À reprogrammer : 
+- Les grands principes de la vie chrétienne (17) 
+- Cultiver le bien, se sanctifier (19) 
+- et les sacrements et les grandes étapes de la vie (20)
 
 - dimanche 29 mars : Rameaux, réddition du Symbole de la foi
 - mercredi 1er avril : Messe Chrismale à la cathédrale Notre-Dame de Paris

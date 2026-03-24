@@ -6,7 +6,7 @@ const eleventyNavigation = {
 ---
 
 # Informations pratiques
-Les jeudis, nous nous retrouvons entre 20h et 22h, au 49 rue de Turbigo. Le portail noir s’ouvre en pressant le bouton, et il suffit de pousser la porte du bas. Puis il faut descendre l’escalier.
+Les jeudis, nous nous retrouvons entre 20h et 22h, à la chapelle des Catéchismes, au fond de l’église Saint-Nicolas-des-Champs, au 254 rue Saint Martin.
 
 Programme :
 - 20h00 : on commence par un temps d’apéro et de rencontre, 

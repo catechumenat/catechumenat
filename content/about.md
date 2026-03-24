@@ -8,9 +8,17 @@ const eleventyNavigation = {
 # Informations pratiques
 Les jeudis, nous nous retrouvons entre 20h et 22h, au 49 rue de Turbigo. Le portail noir s’ouvre en pressant le bouton, et il suffit de pousser la porte du bas. Puis il faut descendre l’escalier.
 
-On commence par un temps d’apéro et de rencontre, puis on prie ensemble en chantant quelques chants de louange. Après, un enseignement de 30 minutes et un temps de partage.
+Programme :
+- 20h00 : on commence par un temps d’apéro et de rencontre, 
+- 20h30 : puis on prie ensemble en chantant quelques chants de louange.
+- 20h45 : Après, un enseignement de 30-45 minutes 
+- 21h30 : et un temps de partage.
 
-Si vous le souhaitez, il y a la prière des malades le jeudi à 18h30.
+🤲 Si vous le souhaitez, il y a la prière des malades le jeudi à 18h30.
+
+💶 Les week-ends spirituels ne sont pas facultatifs ! Mettez une centaine d’euro de côté en prévision pour ces deux sorties.
+
+⚠️ Pour les mineurs, il faut l’autorisation des parents pour recevoir le baptême.
 
 # Le programme 2025-2026
 

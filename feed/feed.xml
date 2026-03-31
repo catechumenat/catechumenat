@@ -5,11 +5,37 @@
   <subtitle>Nos derniers enseignements.</subtitle>
   <link href="https://catechumenat.asaintnicolas.com/feed/feed.xml" rel="self" />
   <link href="https://catechumenat.asaintnicolas.com/" />
-  <updated>2026-03-12T00:00:00Z</updated>
+  <updated>2026-03-26T00:00:00Z</updated>
   <id>https://catechumenat.asaintnicolas.com/</id>
   <author>
     <name>Laurent Ghirardotti</name>
   </author>
+  <entry>
+    <title>15. Le combat spirituel</title>
+    <link href="https://catechumenat.asaintnicolas.com/blog/15-le-combat-spirituel/" />
+    <updated>2026-03-26T00:00:00Z</updated>
+    <id>https://catechumenat.asaintnicolas.com/blog/15-le-combat-spirituel/</id>
+    <content type="html">&lt;p&gt;Le grand combat, c’est de vivre en chrétien et de porter dignement ce beau titre de noblesse ! Alors j’ai fusionné deux &lt;em&gt;leçons&lt;/em&gt; : « &lt;em&gt;Comment vivre en chrétien ?&lt;/em&gt; » et « &lt;em&gt;Le combat spirituel, se convertir&lt;/em&gt; »… du coup c’est un peu trop long, désolé !&lt;/p&gt;
+&lt;p&gt;L’enregistrement de mon enseignement est là :&lt;/p&gt;
+&lt;p&gt;&lt;audio controls=&quot;&quot; src=&quot;https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-03-26-le-combat-spirituel.mp3&quot; preload=&quot;metadata&quot;&gt;&lt;p class=&quot;audio-details&quot;&gt;47.63 MB
+| Durée 0:49:37
+| &lt;a download=&quot;&quot; href=&quot;https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-03-26-le-combat-spirituel.mp3&quot;&gt;Télécharger&lt;/a&gt;&lt;/p&gt;
+&lt;/audio&gt;&lt;/p&gt;
+&lt;p&gt;Ou par votre application de podcast en ajoutant le lien : &lt;a href=&quot;https://catechumenat.asaintnicolas.com/feed/podcast.xml&quot;&gt;https://catechumenat.asaintnicolas.com/feed/podcast.xml&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;les-videos-du-parcours-adulte&quot;&gt;Les vidéos du parcours adulte&lt;/h2&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.css&quot;&gt;
+&lt;script defer=&quot;defer&quot; src=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.js&quot;&gt;&lt;/script&gt;
+&lt;div id=&quot;ioESeSGiYBE&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;ioESeSGiYBE&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/ioESeSGiYBE/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;Et aussi :&lt;/p&gt;
+&lt;div id=&quot;So2d7Ll3pw4&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;So2d7Ll3pw4&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/So2d7Ll3pw4/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;Et plus d’informations &lt;a href=&quot;https://academy.lamourvaincra.com/quest/49&quot;&gt;sur le parcours en ligne&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;les-videos-du-parcours-jeune&quot;&gt;Les vidéos du parcours jeune&lt;/h2&gt;
+&lt;div id=&quot;lpwRmeEfG8I&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;lpwRmeEfG8I&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/lpwRmeEfG8I/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;Et aussi :&lt;/p&gt;
+&lt;div id=&quot;0gnQ5oVuISc&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;0gnQ5oVuISc&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/0gnQ5oVuISc/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;Et plus d’information &lt;a href=&quot;https://academy.lamourvaincra.com/quest/133&quot;&gt;sur le parcours en ligne&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>14. La Vie après la mort</title>
     <link href="https://catechumenat.asaintnicolas.com/blog/14-la-vie-apres-la-mort/" />
@@ -601,26 +627,6 @@ Distinction des ordres religieux qui ne font pas partie du clergé mais qui ont 
 &lt;h3 id=&quot;le-nouveau-testament-2&quot;&gt;Le Nouveau Testament&lt;/h3&gt;
 &lt;div id=&quot;gz51sKTj5jg&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;gz51sKTj5jg&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/gz51sKTj5jg/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
 &lt;p&gt;Et plus d’information &lt;a href=&quot;https://academy.lamourvaincra.com/quest/117&quot;&gt;sur le parcours en ligne&lt;/a&gt;.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>04. Jésus et l’annonce de l’Évangile</title>
-    <link href="https://catechumenat.asaintnicolas.com/blog/04-Jesus-et-l-Evangile/" />
-    <updated>2025-11-06T00:00:00Z</updated>
-    <id>https://catechumenat.asaintnicolas.com/blog/04-Jesus-et-l-Evangile/</id>
-    <content type="html">&lt;p&gt;L’enregistrement de mon enseignement est là :&lt;/p&gt;
-&lt;p&gt;&lt;audio controls=&quot;&quot; src=&quot;https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2025-11-06-Jesus-et-l-Evangile.mp3&quot; preload=&quot;metadata&quot;&gt;&lt;p class=&quot;audio-details&quot;&gt;36.13 MB
-| Durée 0:47:21
-| &lt;a download=&quot;&quot; href=&quot;https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2025-11-06-Jesus-et-l-Evangile.mp3&quot;&gt;Télécharger&lt;/a&gt;&lt;/p&gt;
-&lt;/audio&gt;&lt;/p&gt;
-&lt;h2 id=&quot;les-videos-du-parcours-adulte&quot;&gt;Les vidéos du parcours adulte&lt;/h2&gt;
-&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.css&quot;&gt;
-&lt;script defer=&quot;defer&quot; src=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.js&quot;&gt;&lt;/script&gt;
-&lt;div id=&quot;8GvhhPfdBB0&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;8GvhhPfdBB0&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/8GvhhPfdBB0/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
-&lt;p&gt;Et plus d’informations &lt;a href=&quot;https://academy.lamourvaincra.com/quest/13&quot;&gt;sur le parcours en ligne&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;les-videos-du-parcours-jeune&quot;&gt;Les vidéos du parcours jeune&lt;/h2&gt;
-&lt;div id=&quot;9p3oJtb9YgI&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;9p3oJtb9YgI&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/9p3oJtb9YgI/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
-&lt;p&gt;Et plus d’information &lt;a href=&quot;https://academy.lamourvaincra.com/quest/109&quot;&gt;sur le parcours en ligne&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
 </feed>

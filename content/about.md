@@ -41,7 +41,7 @@ Programme :
 - dimanche 8 mars : 1er scrutin
 - jeudi 12 mars : [La vie après la mort (15)](/blog/14-la-vie-apres-la-mort/)
 - dimanche 15 mars : 2ème scrutin
-- jeudi 26 mars : Le combat spirituel, se convertir (18)
+- jeudi 26 mars : [Comment vivre en chrétien ? (17) *et* Le combat spirituel, se convertir (18)](/blog/15-le-combat-spirituel/)
 - dimanche 22 mars : 3ème scrutin
 - 28-29 mars : Week-end spirituel à Nevers : Présentation de la Semaine Sainte, et apprendre à prier (chapelet, adoration, louange, *lectio divina*).
 

@@ -57,7 +57,7 @@ Programme :
 
 ## Temps pascal
 - dimanche 12 avril : Dimanche de la Miséricorde, ou *Quasimodo*, ou *in Albis [depositis]* (« aux aubes déposées », les néophytes cessent de porter le vêtement blanc de leur baptême).
-- jeudi 16 avril : L’enseignement officiel de l’Église catholique (22)
+- jeudi 16 avril : [L’enseignement officiel de l’Église catholique (22)](/blog/16-l-enseignement-officiel-de-l-Eglise/)
 - *lundi 4 mai de 20h à 22h : catéchèse des néophytes à l’église Saint-Séverin, Mgr Emmanuel Tois vous parle du baptême.*
 - jeudi 7 mai : La sexualité dans la société contemporaine (23)
 - samedi 9 mai : Retraite préparatoire obligatoire

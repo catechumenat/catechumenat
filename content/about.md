@@ -77,3 +77,8 @@ Programme :
 - Cultiver le bien, se sanctifier (19) 
 - et les sacrements et les grandes étapes de la vie (20) → catéchèse des néophytes les 4, 11 et 18 mai, qui sont ouvertes à tous (et seront sûrement disponibles en ligne)
 - Fêtes et coutumes catholiques (21)
+
+# Le programme 2026-2027
+
+En cours de construction, mais notez d’ores et déjà :
+- 7-8 novembre : **WE chez les Carmes d’Avon**

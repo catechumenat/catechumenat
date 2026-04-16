@@ -33,6 +33,8 @@ Programme :
 - jeudi 8 janvier : [l’Eucharistie (12)](/blog/11-l-Eucharistie/)
 - dimanche 11 janvier : Déjeuner (10) 
 - jeudi 5 février : [la Trinité (14)](/blog/12-la-Trinite/)
+
+## Carême
 - mercredi 18 février : Mercredi des Cendres
 - jeudi 19 février : [le Credo (16)](/blog/13-le-Credo/)
 - samedi 21 Février : Appel décisif à la cathédrale Notre-Dame de Paris
@@ -43,32 +45,35 @@ Programme :
 - dimanche 15 mars : 2ème scrutin
 - jeudi 26 mars : [Comment vivre en chrétien ? (17) *et* Le combat spirituel, se convertir (18)](/blog/15-le-combat-spirituel/)
 - dimanche 22 mars : 3ème scrutin
-- 28-29 mars : Week-end spirituel à Nevers : Présentation de la Semaine Sainte, et apprendre à prier (chapelet, adoration, louange, *lectio divina*).
-
-À reprogrammer : 
-- Cultiver le bien, se sanctifier (19) 
-- et les sacrements et les grandes étapes de la vie (20) → catéchèse des néophytes les 4, 11 et 18 mai, qui sont ouvertes à tous (et seront sûrement disponibles en ligne) 
-
+- 28-29 mars : Week-end spirituel à Nevers : Présentation de la Semaine Sainte, et apprendre à prier (chapelet, adoration, louange, *lectio divina*). 
 - dimanche 29 mars : Rameaux, réddition du Symbole de la foi
 - mercredi 1er avril : Messe Chrismale à la cathédrale Notre-Dame de Paris
 
-Semaine Sainte !
+## Semaine Sainte !
 - jeudi 2 avril : Jeudi Saint, premières communions
 - vendredi 3 avril : Vendredi Saint, chemin de Croix
 - samedi 4 avril : Vigile de Pâques, baptême des catéchumènes
 - dimanche 5 avril : Dimanche de Pâques
-- jeudi 16 avril : Fêtes et coutumes catholiques (21)
+
+## Temps pascal
 - dimanche 12 avril : Dimanche de la Miséricorde, ou *Quasimodo*, ou *in Albis [depositis]* (« aux aubes déposées », les néophytes cessent de porter le vêtement blanc de leur baptême).
 - jeudi 16 avril : L’enseignement officiel de l’Église catholique (22)
-- lundi 4 mai de 20h à 22h : catéchèse des néophytes à l’église Saint-Séverin, Mgr Emmanuel Tois vous parle du baptême.
+- *lundi 4 mai de 20h à 22h : catéchèse des néophytes à l’église Saint-Séverin, Mgr Emmanuel Tois vous parle du baptême.*
 - jeudi 7 mai : La sexualité dans la société contemporaine (23)
 - samedi 9 mai : Retraite préparatoire obligatoire
-- lundi 11 mai de 20h à 22h : catéchèse des néophytes à l’église Saint-Séverin, Mgr Philippe Marsset vous parle de l’eucharistie.
-- lundi 18 mai de 20h à 22h : catéchèse des néophytes à l’église Saint-Séverin, Mgr Laurent Ulrich vous parle de la confirmation.
+- *lundi 11 mai de 20h à 22h : catéchèse des néophytes à l’église Saint-Séverin, Mgr Philippe Marsset vous parle de l’eucharistie.*
+- *lundi 18 mai de 20h à 22h : catéchèse des néophytes à l’église Saint-Séverin, Mgr Laurent Ulrich vous parle de la confirmation.*
 - jeudi 21 mai : L’engagement social des chrétiens (24)
 - samedi 23 mai à 10h00 : Confirmations à l’église Saint-Honoré d'Eylau
 - dimanche 24 mai : Dimanche de Pentecôte
+
+## Temps ordinaire
 - jeudi 4 juin : Trouver sa place dans l’Église (25)
 - jeudi 19 juin : Athéisme et spiritualités non religieuses (26)
 - samedi 27 juin : Ordinations sacerdotales à la cathédrale Notre-Dame de Paris
 - dimanche 28 juin : Déjeuner paroissial — Le jugement dernier (29)
+
+## À reprogrammer : 
+- Cultiver le bien, se sanctifier (19) 
+- et les sacrements et les grandes étapes de la vie (20) → catéchèse des néophytes les 4, 11 et 18 mai, qui sont ouvertes à tous (et seront sûrement disponibles en ligne)
+- Fêtes et coutumes catholiques (21)

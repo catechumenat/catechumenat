@@ -570,7 +570,7 @@ export { HeadingAnchors }
     <language>fr-FR</language>
     <copyright>© 2025–2026 Laurent Ghirardotti</copyright>
     <pubDate>2026-04-16T00:00:00Z</pubDate>
-    <lastBuildDate>Sat, 18 Apr 2026 20:01:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 21:22:25 +0000</lastBuildDate>
     <itunes:image href="https://catechumenat.asaintnicolas.com/img/podcast-logo.jpg"></itunes:image>
     <itunes:category text="Religion &amp;amp; Spirituality">
       <itunes:category text="Christianity" />
@@ -1372,7 +1372,9 @@ Le texte biblique (Gn 2, 15-17 ; 3, 1-17)
 			</p>
 		</footer>
 
-		<!-- This page `/feed/podcast.xml` was built on 2026-04-18T20:01:26.504Z -->
+		<!-- This page `/feed/podcast.xml` was built on 2026-05-02T21:22:26.837Z -->
 		<script type="module" src=""></script>
+		<!-- 100% privacy-first analytics -->
+		<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
 	</body>
 </html>

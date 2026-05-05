@@ -570,8 +570,8 @@ export { HeadingAnchors }
     <description>Les enseignements de nos rendez-vous du jeudi soir, en podcast.</description>
     <language>fr-FR</language>
     <copyright>© 2025–2026 Laurent Ghirardotti</copyright>
-    <pubDate>2026-04-16T00:00:00Z</pubDate>
-    <lastBuildDate>Tue, 05 May 2026 15:56:53 +0000</lastBuildDate>
+    <pubDate>2026-05-07T00:00:00Z</pubDate>
+    <lastBuildDate>Tue, 05 May 2026 16:02:32 +0000</lastBuildDate>
     <itunes:image href="https://catechumenat.asaintnicolas.com/img/podcast-logo.jpg"></itunes:image>
     <itunes:category text="Religion &amp;amp; Spirituality">
       <itunes:category text="Christianity" />
@@ -580,6 +580,57 @@ export { HeadingAnchors }
     <itunes:explicit>false</itunes:explicit>
     <itunes:author>Laurent Ghirardotti</itunes:author>
 
+    
+    <item>
+      <title>17. La sexualité dans la société contemporaine</title>
+      
+      <link>https://catechumenat.asaintnicolas.com/blog/17-la-sexualite/</link>
+      <guid isPermaLink="true">https://catechumenat.asaintnicolas.com/blog/17-la-sexualite/</guid>
+      <pubDate>2026-05-07T00:00:00Z</pubDate>
+      
+      <description>L’enregistrement de mon enseignement est là :
+NaN B
+| Durée 0:00:00
+| Télécharger
+
+Ou par votre application de podcast en ajoutant le lien : https://catechumenat.asaintnicolas.com/feed/podcast.xml
+Les vidéos du parcours adulte
+https://www.youtube.com/watch?v=k8D-EpyFfW4
+Et plus d’informations sur le parcours en ligne.
+Les vidéos du parcours jeune
+https://www.youtube.com/watch?v=SGVOSRY3zKk
+Et plus d’information sur le parcours en ligne.</description>
+      <itunes:summary>L’enregistrement de mon enseignement est là :
+NaN B
+| Durée 0:00:00
+| Télécharger
+
+Ou par votre application de podcast en ajoutant le lien : https://catechumenat.asaintnicolas.com/feed/podcast.xml
+Les vidéos du parcours adulte
+https://www.youtube.com/watch?v=k8D-EpyFfW4
+Et plus d’informations sur le parcours en ligne.
+Les vidéos du parcours jeune
+https://www.youtube.com/watch?v=SGVOSRY3zKk
+Et plus d’information sur le parcours en ligne.</itunes:summary>
+      
+      <content:encoded><![CDATA[<p>L’enregistrement de mon enseignement est là :</p>
+<p><audio controls="" src="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-05-07-La-sexualite.mp3" preload="metadata"><p class="audio-details">NaN B
+| Durée 0:00:00
+| <a download="" href="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-05-07-La-sexualite.mp3">Télécharger</a></p>
+</audio></p>
+<p>Ou par votre application de podcast en ajoutant le lien : <a href="https://catechumenat.asaintnicolas.com/feed/podcast.xml">https://catechumenat.asaintnicolas.com/feed/podcast.xml</a></p>
+<h2 id="les-videos-du-parcours-adulte">Les vidéos du parcours adulte</h2>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.css">
+<script defer="defer" src="https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.js"></script>
+<div id="k8D-EpyFfW4" class="eleventy-plugin-youtube-embed"><lite-youtube videoid="k8D-EpyFfW4" style="background-image: url('https://i.ytimg.com/vi/k8D-EpyFfW4/hqdefault.jpg');"><div class="lty-playbtn"></div></lite-youtube></div>
+<p>Et plus d’informations <a href="https://academy.lamourvaincra.com/quest/67">sur le parcours en ligne</a>.</p>
+<h2 id="les-videos-du-parcours-jeune">Les vidéos du parcours jeune</h2>
+<div id="SGVOSRY3zKk" class="eleventy-plugin-youtube-embed"><lite-youtube videoid="SGVOSRY3zKk" style="background-image: url('https://i.ytimg.com/vi/SGVOSRY3zKk/hqdefault.jpg');"><div class="lty-playbtn"></div></lite-youtube></div>
+<p>Et plus d’information <a href="https://academy.lamourvaincra.com/quest/145">sur le parcours en ligne</a>.</p>]]></content:encoded>
+      <enclosure url="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-05-07-La-sexualite.mp3" length="" type="audio/mp3"></enclosure>
+      <itunes:duration>0:00:00</itunes:duration>
+      <itunes:episode>14</itunes:episode>
+      <itunes:season>1</itunes:season></item>
     
     <item>
       <title>16. L’enseignement officiel de l’Église catholique</title>
@@ -1373,7 +1424,7 @@ Le texte biblique (Gn 2, 15-17 ; 3, 1-17)
 			</p>
 		</footer>
 
-		<!-- This page `/feed/podcast.xml` was built on 2026-05-05T15:56:54.803Z -->
+		<!-- This page `/feed/podcast.xml` was built on 2026-05-05T16:02:34.374Z -->
 		<script type="module" src=""></script>
 		<!-- 100% privacy-first analytics -->
 		<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>

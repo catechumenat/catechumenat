@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Catéchuménat à Saint-Nicolas-des-Champs </title>
+		<title>17. La sexualité dans la société contemporaine</title>
 		<meta name="description" content="Les suites de nos enseignements.">
 		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Catéchuménat à Saint-Nicolas-des-Champs ">
 		
@@ -306,6 +306,174 @@ header {
 }
 .post-metadata time {
 	margin-right: 1em;
+}
+/**
+ * okaidia theme for JavaScript, CSS and HTML
+ * Loosely based on Monokai textmate theme by http://www.monokai.nl/
+ * @author ocodia
+ */
+
+code[class*="language-"],
+pre[class*="language-"] {
+	color: #f8f8f2;
+	background: none;
+	text-shadow: 0 1px rgba(0, 0, 0, 0.3);
+	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+	font-size: 1em;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	word-wrap: normal;
+	line-height: 1.5;
+
+	-moz-tab-size: 4;
+	-o-tab-size: 4;
+	tab-size: 4;
+
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+	padding: 1em;
+	margin: .5em 0;
+	overflow: auto;
+	border-radius: 0.3em;
+}
+
+:not(pre) > code[class*="language-"],
+pre[class*="language-"] {
+	background: #272822;
+}
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+	padding: .1em;
+	border-radius: .3em;
+	white-space: normal;
+}
+
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+	color: #8292a2;
+}
+
+.token.punctuation {
+	color: #f8f8f2;
+}
+
+.token.namespace {
+	opacity: .7;
+}
+
+.token.property,
+.token.tag,
+.token.constant,
+.token.symbol,
+.token.deleted {
+	color: #f92672;
+}
+
+.token.boolean,
+.token.number {
+	color: #ae81ff;
+}
+
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin,
+.token.inserted {
+	color: #a6e22e;
+}
+
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string,
+.token.variable {
+	color: #f8f8f2;
+}
+
+.token.atrule,
+.token.attr-value,
+.token.function,
+.token.class-name {
+	color: #e6db74;
+}
+
+.token.keyword {
+	color: #66d9ef;
+}
+
+.token.regex,
+.token.important {
+	color: #fd971f;
+}
+
+.token.important,
+.token.bold {
+	font-weight: bold;
+}
+.token.italic {
+	font-style: italic;
+}
+
+.token.entity {
+	cursor: help;
+}
+/*
+ * New diff- syntax
+ */
+
+pre[class*="language-diff-"] {
+	--eleventy-code-padding: 1.25em;
+	padding-left: var(--eleventy-code-padding);
+	padding-right: var(--eleventy-code-padding);
+}
+.token.deleted {
+	background-color: hsl(0, 51%, 37%);
+	color: inherit;
+}
+.token.inserted {
+	background-color: hsl(126, 31%, 39%);
+	color: inherit;
+}
+
+/* Make the + and - characters unselectable for copy/paste */
+.token.prefix.unchanged,
+.token.prefix.inserted,
+.token.prefix.deleted {
+	-webkit-user-select: none;
+	user-select: none;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+.token.prefix.inserted,
+.token.prefix.deleted {
+	width: var(--eleventy-code-padding);
+	background-color: rgba(0,0,0,.2);
+}
+
+/* Optional: full-width background color */
+.token.inserted:not(.prefix),
+.token.deleted:not(.prefix) {
+	display: block;
+	margin-left: calc(-1 * var(--eleventy-code-padding));
+	margin-right: calc(-1 * var(--eleventy-code-padding));
+	text-decoration: none; /* override del, ins, mark defaults */
+	color: inherit; /* override del, ins, mark defaults */
 }</style>
 		
 	</head>
@@ -317,7 +485,7 @@ header {
 			<nav>
 				<h2 class="visually-hidden" id="top-level-navigation-menu">Top level navigation menu</h2>
 				<ul class="nav">
-					<li class="nav-item"><a href="/" aria-current="page">Home</a></li>
+					<li class="nav-item"><a href="/">Home</a></li>
 					<li class="nav-item"><a href="/blog/">Archive</a></li>
 					<li class="nav-item"><a href="/about/">Le programme</a></li>
 					<li class="nav-item"><a href="/liens/">Des liens</a></li>
@@ -330,40 +498,31 @@ header {
 			<heading-anchors>
 				
 
-<h2 id="bienvenue-au-catechumenat-de-saint-nicolas-des-champs">Bienvenue au catéchuménat de Saint-Nicolas-des-Champs !</h2>
 
-Vous trouverez le programme des soirées sur la page <a href="/about/">Le programme</a>, ainsi que les informations pratiques. Ci-dessous des enregistrements des enseignements passés.
+<h1 id="17-la-sexualite-dans-la-societe-contemporaine">17. La sexualité dans la société contemporaine</h1>
 
+<ul class="post-metadata">
+	<li><time datetime="2026-05-07">07 mai 2026</time></li>
+	<li><a href="/tags/podcastepisode/" class="post-tag">podcastEpisode</a></li>
+</ul>
 
+<p>L’enregistrement de mon enseignement est là :</p>
+<p><audio controls="" src="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-05-07-La-sexualite.mp3" preload="metadata"><p class="audio-details">NaN B
+| Durée 0:00:00
+| <a download="" href="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-05-07-La-sexualite.mp3">Télécharger</a></p>
+</audio></p>
+<p>Ou par votre application de podcast en ajoutant le lien : <a href="https://catechumenat.asaintnicolas.com/feed/podcast.xml">https://catechumenat.asaintnicolas.com/feed/podcast.xml</a></p>
+<h2 id="les-videos-du-parcours-adulte">Les vidéos du parcours adulte</h2>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.css">
+<script defer="defer" src="https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.js"></script>
+<div id="k8D-EpyFfW4" class="eleventy-plugin-youtube-embed"><lite-youtube videoid="k8D-EpyFfW4" style="background-image: url('https://i.ytimg.com/vi/k8D-EpyFfW4/hqdefault.jpg');"><div class="lty-playbtn"></div></lite-youtube></div>
+<p>Et plus d’informations <a href="https://academy.lamourvaincra.com/quest/67">sur le parcours en ligne</a>.</p>
+<h2 id="les-videos-du-parcours-jeune">Les vidéos du parcours jeune</h2>
+<div id="SGVOSRY3zKk" class="eleventy-plugin-youtube-embed"><lite-youtube videoid="SGVOSRY3zKk" style="background-image: url('https://i.ytimg.com/vi/SGVOSRY3zKk/hqdefault.jpg');"><div class="lty-playbtn"></div></lite-youtube></div>
+<p>Et plus d’information <a href="https://academy.lamourvaincra.com/quest/145">sur le parcours en ligne</a>.</p>
 
-<h1 id="les-3-derniers-enseignementss">Les 3 derniers enseignementss</h1>
-
-
-
-<ol reversed="" class="postlist" style="--postlist-index: 18">
-	<li class="postlist-item">
-		<a href="/blog/17-la-sexualite/" class="postlist-link">17. La sexualité dans la société contemporaine</a>
-		<time class="postlist-date" datetime="2026-05-07">mai 2026</time>
-	</li>
-	<li class="postlist-item">
-		<a href="/blog/16-l-enseignement-officiel-de-l-Eglise/" class="postlist-link">16. L’enseignement officiel de l’Église catholique</a>
-		<time class="postlist-date" datetime="2026-04-16">avril 2026</time>
-	</li>
-	<li class="postlist-item">
-		<a href="/blog/15-le-combat-spirituel/" class="postlist-link">15. Le combat spirituel</a>
-		<time class="postlist-date" datetime="2026-03-26">mars 2026</time>
-	</li>
-</ol>
-
-
-
-
-<p>14 more posts can be found in <a href="/blog/">the archive</a>.</p>
-
-
-
-
-
+<ul class="links-nextprev"><li class="links-nextprev-prev">← Previous<br> <a href="/blog/16-l-enseignement-officiel-de-l-Eglise/">16. L’enseignement officiel de l’Église catholique</a></li>
+</ul>
 
 			</heading-anchors>
 		</main>
@@ -374,7 +533,7 @@ Vous trouverez le programme des soirées sur la page <a href="/about/">Le progra
 			</p>
 		</footer>
 
-		<!-- This page `/` was built on 2026-05-05T16:02:34.375Z -->
+		<!-- This page `/blog/17-la-sexualite/` was built on 2026-05-05T16:02:34.377Z -->
 		<script type="module" src="/dist/xbxy_EL6cU.js"></script>
 		<!-- 100% privacy-first analytics -->
 		<script async="" src="https://scripts.simpleanalyticscdn.com/latest.js"></script>

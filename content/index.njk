@@ -9,6 +9,8 @@ const numberOfLatestPostsToShow = 3;
 
 <h2>Bienvenue au catéchuménat de Saint-Nicolas-des-Champs !</h2>
 
+Vous trouverez le programme des soirées sur la page <a href="/about/">Le programme</a>, ainsi que les informations pratiques. Ci-dessous des enregistrements des enseignements passés.
+
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
 <h1>Les {{ latestPostsCount }} derniers enseignements{% if latestPostsCount != 1 %}s{% endif %}</h1>

@@ -9,7 +9,7 @@ episode:
   episodeNumber: 14
 ---
 
-L’enregistrement de mon enseignement est là :
+L’enregistrement de l’enseignement de Mathilde et Enguerrand est là :
 
 <audio controls src="{{ episode.url }}" preload="metadata"><p class="audio-details">{{ episode.size | readableSize }}
 | Durée {{ episode.duration | readableDuration }}

@@ -18,7 +18,9 @@ L’enregistrement de l’enseignement de Mathilde et Enguerrand est là :
 
 Ou par votre application de podcast en ajoutant le lien : [https://catechumenat.asaintnicolas.com/feed/podcast.xml](https://catechumenat.asaintnicolas.com/feed/podcast.xml)
 
-## Un reportage très recommandable : *Une seule chair*
+Le livre recommandé par nos intervenants : [*La sexualité selon Jean-Paul II* par Yves Semen](https://institutdetheologieducorps.org/livre/la-sexualite-selon-jean-paul-ii/), qui reprend les audiences générales du mercredi qui a créé la « théologie du corps ».
+
+## Un reportage KTO : *Une seule chair*
 
 En deux épisodes :
 

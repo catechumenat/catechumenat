@@ -18,6 +18,14 @@ L’enregistrement de l’enseignement de Mathilde et Enguerrand est là :
 
 Ou par votre application de podcast en ajoutant le lien : [https://catechumenat.asaintnicolas.com/feed/podcast.xml](https://catechumenat.asaintnicolas.com/feed/podcast.xml)
 
+## Un reportage très recommandable : *Une seule chair*
+
+En deux épisodes :
+
+https://www.youtube.com/watch?v=HVHLUHDE7TA
+
+https://www.youtube.com/watch?v=Jj2VG-a_7No
+
 ## Les vidéos du parcours adulte
 
 https://www.youtube.com/watch?v=k8D-EpyFfW4

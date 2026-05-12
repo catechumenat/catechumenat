@@ -20,10 +20,6 @@ Programme :
 
 ⚠️ Pour les mineurs, il faut l’autorisation des parents pour recevoir le baptême.
 
-# Le programme 2026-2027
-En cours de construction, mais notez d’ores et déjà :
-- 7-8 novembre : **WE chez les Carmes d’Avon**
-
 # Le programme 2025-2026
 ## Dates à venir
 ### Temps pascal
@@ -39,5 +35,8 @@ En cours de construction, mais notez d’ores et déjà :
 - dimanche 28 juin : Déjeuner paroissial — Le jugement dernier (29)
 
 ## Dates passées
-
 À retrouver [sur cette page](/about-2025-2026/).
+
+# Le programme 2026-2027
+En cours de construction, mais notez d’ores et déjà :
+- 7-8 novembre : **WE chez les Carmes d’Avon**

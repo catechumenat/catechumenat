@@ -23,8 +23,6 @@ Programme :
 # Le programme 2025-2026
 ## Dates à venir
 ### Temps pascal
-- *lundi 18 mai de 20h à 22h : [catéchèse des néophytes](https://dioceseparis.fr/catecheses-sur-les-sacrements-de-5855.html) à l’église Saint-Séverin, Mgr Laurent Ulrich vous parle de la confirmation.*
-- jeudi 21 mai : L’engagement social des chrétiens (24)
 - samedi 23 mai à 10h00 : Confirmations à l’église Saint-Honoré d'Eylau
 - dimanche 24 mai : Dimanche de Pentecôte et **entrées en catéchuménat**.
 

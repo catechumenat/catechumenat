@@ -1,0 +1,478 @@
+<!doctype html>
+<html lang="fr">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Catéchuménat à Saint-Nicolas-des-Champs </title>
+		<meta name="description" content="Les suites de nos enseignements.">
+		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Catéchuménat à Saint-Nicolas-des-Champs ">
+		
+		
+		
+		<style>/* This is an arbitrary CSS string added to the bundle */
+/* Defaults */
+:root {
+	--font-family: -apple-system, system-ui, sans-serif;
+	--font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
+}
+
+/* Theme colors */
+:root {
+	--color-gray-20: #e0e0e0;
+	--color-gray-50: #C0C0C0;
+	--color-gray-90: #333;
+
+	--background-color: #fff;
+
+	--text-color: var(--color-gray-90);
+	--text-color-link: #082840;
+	--text-color-link-active: #5f2b48;
+	--text-color-link-visited: #17050F;
+
+	--syntax-tab-size: 2;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--color-gray-20: #e0e0e0;
+		--color-gray-50: #C0C0C0;
+		--color-gray-90: #dad8d8;
+
+		/* --text-color is assigned to --color-gray-_ above */
+		--text-color-link: #1493fb;
+		--text-color-link-active: #6969f7;
+		--text-color-link-visited: #a6a6f8;
+
+		--background-color: #15202b;
+	}
+}
+
+
+/* Global stylesheet */
+* {
+	box-sizing: border-box;
+}
+
+@view-transition {
+	navigation: auto;
+}
+
+html,
+body {
+	padding: 0;
+	margin: 0 auto;
+	font-family: var(--font-family);
+	color: var(--text-color);
+	background-color: var(--background-color);
+}
+html {
+	overflow-y: scroll;
+}
+body {
+	max-width: 40em;
+}
+
+/* https://www.a11yproject.com/posts/how-to-hide-content/ */
+.visually-hidden:not(:focus):not(:active) {
+	clip: rect(0 0 0 0);
+	clip-path: inset(50%);
+	height: 1px;
+	overflow: hidden;
+	position: absolute;
+	white-space: nowrap;
+	width: 1px;
+}
+
+/* Fluid images via https://www.zachleat.com/web/fluid-images/ */
+img{
+  max-width: 100%;
+}
+img[width][height] {
+  height: auto;
+}
+img[src$=".svg"] {
+  width: 100%;
+  height: auto;
+  max-width: none;
+}
+video,
+iframe {
+	width: 100%;
+	height: auto;
+}
+iframe {
+	aspect-ratio: 16/9;
+}
+
+p:last-child {
+	margin-bottom: 0;
+}
+p {
+	line-height: 1.5;
+}
+
+li {
+	line-height: 1.5;
+}
+
+a[href] {
+	color: var(--text-color-link);
+}
+a[href]:visited {
+	color: var(--text-color-link-visited);
+}
+a[href]:hover,
+a[href]:active {
+	color: var(--text-color-link-active);
+}
+
+main,
+footer {
+	padding: 1rem;
+}
+main :first-child {
+	margin-top: 0;
+}
+
+header {
+	border-bottom: 1px dashed var(--color-gray-20);
+}
+
+#skip-link {
+	text-decoration: none;
+	background: var(--background-color);
+	color: var(--text-color);
+	padding: 0.5rem 1rem;
+	border: 1px solid var(--color-gray-90);
+	border-radius: 2px;
+}
+
+/* Prevent visually-hidden skip link fom pushing content around when focused */
+#skip-link.visually-hidden:focus {
+	position: absolute;
+	top: 1rem;
+	left: 1rem;
+	/* Ensure it is positioned on top of everything else when it is shown */
+	z-index: 999;
+}
+
+.links-nextprev {
+	display: flex;
+	justify-content: space-between;
+	gap: .5em 1em;
+	list-style: "";
+	border-top: 1px dashed var(--color-gray-20);
+	padding: 1em 0;
+}
+.links-nextprev > * {
+	flex-grow: 1;
+}
+.links-nextprev-next {
+	text-align: right;
+}
+
+table {
+	margin: 1em 0;
+}
+table td,
+table th {
+	padding-right: 1em;
+}
+
+pre,
+code {
+	font-family: var(--font-family-monospace);
+}
+pre:not([class*="language-"]) {
+	margin: .5em 0;
+	line-height: 1.375; /* 22px /16 */
+	-moz-tab-size: var(--syntax-tab-size);
+	-o-tab-size: var(--syntax-tab-size);
+	tab-size: var(--syntax-tab-size);
+	-webkit-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+	direction: ltr;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	overflow-x: auto;
+}
+code {
+	word-break: break-all;
+}
+
+/* Header */
+header {
+	display: flex;
+	gap: 1em;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+	padding: 1em;
+}
+.home-link {
+	flex-grow: 1;
+	font-size: 1em; /* 16px /16 */
+	font-weight: 700;
+}
+.home-link:link:not(:hover) {
+	text-decoration: none;
+}
+
+/* Nav */
+.nav {
+	display: flex;
+	gap: .5em 1em;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+.nav-item {
+	display: inline-block;
+}
+.nav-item a[href]:not(:hover) {
+	text-decoration: none;
+}
+.nav a[href][aria-current="page"] {
+	text-decoration: underline;
+}
+
+/* Posts list */
+.postlist {
+	counter-reset: start-from var(--postlist-index);
+	list-style: none;
+	padding: 0;
+	padding-left: 1.5rem;
+}
+.postlist-item {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: baseline;
+	counter-increment: start-from -1;
+	margin-bottom: 1em;
+}
+.postlist-item:before {
+	display: inline-block;
+	pointer-events: none;
+	content: "" counter(start-from, decimal-leading-zero) ". ";
+	line-height: 100%;
+	text-align: right;
+	margin-left: -1.5rem;
+}
+.postlist-date,
+.postlist-item:before {
+	font-size: 0.8125em; /* 13px /16 */
+	color: var(--color-gray-90);
+}
+.postlist-date {
+	word-spacing: -0.5px;
+}
+.postlist-link {
+	font-size: 1.1875em; /* 19px /16 */
+	font-weight: 700;
+	flex-basis: calc(100% - 1.5rem);
+	padding-left: .25em;
+	padding-right: .5em;
+	text-underline-position: from-font;
+	text-underline-offset: 0;
+	text-decoration-thickness: 1px;
+}
+.postlist-item-active .postlist-link {
+	font-weight: bold;
+}
+
+/* Tags */
+.post-tag {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	text-transform: capitalize;
+	font-style: italic;
+}
+.postlist-item > .post-tag {
+	align-self: center;
+}
+
+/* Tags list */
+.post-metadata {
+	display: inline-flex;
+	flex-wrap: wrap;
+	gap: .5em;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.post-metadata time {
+	margin-right: 1em;
+}</style>
+		
+	</head>
+	<body>
+		<a href="#main" id="skip-link" class="visually-hidden">Skip to main content</a>
+
+		<header>
+			<a href="/" class="home-link">Catéchuménat à Saint-Nicolas-des-Champs </a>
+			<nav>
+				<h2 class="visually-hidden" id="top-level-navigation-menu">Top level navigation menu</h2>
+				<ul class="nav">
+					<li class="nav-item"><a href="/">Home</a></li>
+					<li class="nav-item"><a href="/blog/">Archive</a></li>
+					<li class="nav-item"><a href="/about/">Le programme</a></li>
+					<li class="nav-item"><a href="/accompagner/">L’accompagnement</a></li>
+					<li class="nav-item"><a href="/feed/feed.xml">Feed</a></li>
+					<li class="nav-item"><a href="/liens/">Des liens</a></li>
+				</ul>
+			</nav>
+		</header>
+
+		<main id="main">
+			<heading-anchors>
+				
+<h1 id="les-premieres-rencontres-avec-le-catechumene">Les premières rencontres avec le catéchumène</h1>
+<p>La première rencontre est le début d’une relation, c’est la <strong>confiance</strong> qu’il faut d’abord installer.</p>
+<h2 id="i-du-cote-du-catechumene">I- Du côté du catéchumène</h2>
+<h3 id="ce-qui-peut-se-produire">Ce qui peut se produire</h3>
+<p>Tout se passe très bien — c’est le plus probable — mais parfois c’est plus difficile :</p>
+<ul>
+<li>Le catéchumène ne dit rien</li>
+<li>Il tient des propos qui nous déconcertent (différences de culture, de pratique de la foi, …)</li>
+<li>Il nous raconte toute sa vie sans qu’on puisse l’arrêter.</li>
+</ul>
+<h3 id="comprendre">Comprendre</h3>
+<p>Difficulté d’expression : Pour le catéchumène, ce qui lui arrive est quelque chose de nouveau et de difficile à exprimer (il n’a pas les mots de la foi, éprouve de la difficulté à dire ce qu’il ressent et ne comprend pas bien)</p>
+<p>Appréhension :</p>
+<ul>
+<li>Il se sent démuni, pas à l’aise</li>
+<li>Il ne sait pas ce qui va se passer</li>
+<li>Il ne sait pas ce qu’on attend de lui</li>
+<li>Il a peur de ne pas être compris (l’expérience qu’il fait est souvent très précieuse pour lui)</li>
+<li>Il a peur d’être jugé</li>
+<li>Il n’est pas forcément dans la ligne « <em>du parti</em> » ; on arrive à la foi par bien des chemins qui peuvent être très différents du nôtre, très mêlés peut-être avec une mentalité qui nous paraît magique, superstitieuse, ou avec des fragilités psychologiques, etc- Le discernement, ce sera à la personne de le faire, petit à petit, avec votre aide.</li>
+</ul>
+<h3 id="de-quoi-le-catechumene-a-t-il-besoin-dans-la-ou-les-premiere-s-seance-s">De quoi le catéchumène a-t-il besoin dans la ou les première(s) séance(s) ?</h3>
+<p>Il a presque toujours besoin d’être <strong>rassuré</strong>. Attention rassurer n’est pas minimiser ce que la personne dit, en ramenant par exemple son expérience singulière à quelque chose de banal, de commun à tous.</p>
+<ul>
+<li>Rassurer, c’est d’abord donner des éléments concrets : lieu de la rencontre, horaire, rythme…</li>
+<li>La nature du dialogue qui va se nouer à ce moment va déterminer le ton de la suite. Cela implique de la part de l’accompagnateur une attitude d’écoute, de disponibilité qui laisse l’espace à l’autre, qui lui permette de poser ses questions et de découvrir comment cela va se passer.</li>
+<li>Montrer au catéchumène qu’on a plaisir à faire ce cheminement avec lui.</li>
+<li>Faire comprendre que si pour l’un ou pour l’autre la relation est difficile on pourra voir ensemble quoi faire.</li>
+<li>Préciser que tout ce qui se dit dans ces entretiens restera confidentiel.</li>
+</ul>
+<p>Donner des éléments de contenu pour les rencontres suivantes- Il vaut mieux dire je vous propose de commencer par… plutôt que on verra ce qu’on fera la prochaine fois.</p>
+<hr>
+<h2 id="ii-du-cote-de-l-accompagnateur">II. Du côté de l’accompagnateur</h2>
+<p>Il y a des façons de faire qui permettent une véritable écoute et d’autres -- en revanche -- qui y font obstacle- Le tableau ci-dessous présente quelques pièges à éviter, loin d’être exhaustive, cette liste donne quelques repères et peut aider à la relecture après les rencontres (on abordera dans une prochaine séance les avantages de la tenue d’un <strong>carnet de bord</strong>.</p>
+<table>
+<thead>
+<tr>
+<th>Pièges à éviter</th>
+<th>Attitudes à avoir</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Manifester qu’on n’est pas vraiment disponible (<em>Arriver en retard, essoufflé, sembler préoccupé…</em>)</td>
+<td>Se rendre totalement disponible et faire silence en soi. <em>Préparer matériellement la rencontre. Et se préparer intérieurement</em></td>
+</tr>
+<tr>
+<td>Raconter sa vie, trop occuper le terrain (« <em>c’est comme moi…</em> », <em>on n’est pas là pour parler de soi</em>)</td>
+<td>Se présenter simplement. <em>Et redire qu’on va faire ensemble ce chemin.</em></td>
+</tr>
+<tr>
+<td>Donner l’impression de faire passer un interrogatoire</td>
+<td>Poser des questions sous une forme « <em>invitante</em> » « <em>Vous pourriez dire pourquoi, comment ?</em> » <em>plutôt qu’un simple et sec :</em> « <em>pourquoi ?</em> », <em>l’important est d’aider le catéchumène à exprimer ce qu’il vit pour qu’il arrive à y donner sens.</em></td>
+</tr>
+<tr>
+<td>Supposer l’histoire terminée. <em>Voir déjà la personne comme future baptisée d’ici un an ½ deux ans sans prendre en compte le chemin qui s’ouvre. Considérer au contraire que c’est une aventure qui commence et que nous ne savons pas ce qui va se produire : liberté du catéchumène, liberté de l’Esprit Saint.</em></td>
+<td>Faire confiance et rester ouvert à ce qui va se produire.</td>
+</tr>
+<tr>
+<td>Laisser supposer un soupçon, une désapprobation, un jugement. <em>Soupçons par rapport à la réalité, à la véracité des propos de la personne ou par rapport à ses motivations. Désapprobation ou jugement par rapport au style de vie et laisser entendre d’emblée que dans l’Eglise on n’agit pas comme ça…</em></td>
+<td>Faire confiance et rester ouvert. <em>Nous sommes au début d’un chemin qui s’inscrit dans une durée.</em></td>
+</tr>
+<tr>
+<td>Amplifier « <em>C’est formidable ce qui vous arrive… vous avez reçu une grande grâce…</em> »</td>
+<td>Rester à bonne distance sans amplifier, sans minimiser.</td>
+</tr>
+<tr>
+<td>Installer ou laisser s’installer une relation de maître à élève. <em>Installer une distance plus ou moins condescendante :</em> « <em>moi je sais</em> », <em>être péremptoire. La foi n’est pas principalement de l’ordre d’un savoir. Les catéchumènes peuvent aussi installer l’accompagnateur dans ce rôle d’enseignant, pour diverses raisons (par docilité, ou aussi pour éviter de parler d’eux-mêmes…).</em></td>
+<td>Se considérer comme « <em>frère aîné</em> » dans la foi, soi-même en chemin.</td>
+</tr>
+<tr>
+<td>Chercher à répondre à tout à la fois</td>
+<td>Garder à l’esprit qu’on est en chemin et exprimer qu’on répond pour l’instant partiellement. <em>Dessiner un chemin : la prochaine fois on pourrait revenir sur ce point…</em></td>
+</tr>
+<tr>
+<td>Vouloir plaire</td>
+<td>Etre vigilant pour garder la bonne distance Sachant qu’il y a nécessairement une dimension affective.</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="1-le-cadre-et-le-lieu">1. Le cadre et le lieu</h3>
+<p>Si possible choisir un lieu neutre (ni chez l’accompagnateur ni chez le futur catéchumène) pour la première rencontre, et un cadre chaleureux (éclairé, rangé, etc.)</p>
+<h3 id="2-attitudes-fondamentales-pour-l-accompagnateur">2. Attitudes fondamentales pour l’accompagnateur</h3>
+<ul>
+<li>Une « <em>énorme</em> » empathie (pouvoir se mettre à la place de l’autre) est de rigueur.</li>
+<li>Le catéchumène aborde un monde nouveau, dont il peut avoir très peur en même temps que celui-ci l’attire.</li>
+<li>L’écoute sans jugement est essentielle.</li>
+<li>Les silences sont à respecter. Ils ne sont pas forcément signe de réticence.</li>
+<li>Apprendre à se faire confiance prend du temps ; on n’est pas nécessairement à l’aise lors d’une première rencontre.</li>
+<li>L’accompagnateur, qu’il le veuille ou non, représente au moment de la rencontre, un des premiers visages d’Eglise pour le catéchumène.</li>
+</ul>
+<h3 id="3-presentations-mutuelles">3. Présentations mutuelles</h3>
+<ul>
+<li>L’accompagnateur doit prendre le temps de se présenter, ne pas hésiter à dire brièvement qui il est et pourquoi il est là, « <em>mandaté</em> » par qui, et donc, en solidarité avec l’Eglise à la porte de laquelle le futur catéchumène a voulu frapper.</li>
+<li>Inviter ensuite le catéchumène à parler de son désir et de ses motivations personnelles en évitant les questions fermées.</li>
+</ul>
+<p><em>Ex</em> : Mieux vaut demander : « <em>Pouvez vous m’expliquer un peu comment ce désir de baptême est né en vous ?</em> » que : « <em>Pourquoi voulez-vous être baptisé ?</em> »</p>
+<ul>
+<li>Le vocabulaire, et ceci vaut tout au long d’un accompagnement, est un point d’attention particulier- Se dire qu’a priori tout peut être inconnu ou déroutant, et pas seulement ce qui nous paraît a priori devoir l’être. <em>Ex</em> : évangélique, ecclésial, accompagnateur, catéchumène, Parole de Dieu, sacrement, etc…</li>
+<li>Le plus sage est d’inviter son interlocuteur à interrompre le discours quand il entend un « <em>nouveau mot</em> » et ne pas avoir peur de renouveler l’invitation.</li>
+</ul>
+<h3 id="4-cette-preparation-aux-sacrements-comment-va-t-elle-se-passer">4. Cette préparation aux sacrements, comment va-t-elle se passer ?</h3>
+<p>S’il n’est pas utile d’entrer lors d’une première rencontre dans des explications de détail, il est bon de rappeler l’essentiel (sans doute déjà abordé quand le prêtre de la paroisse a reçu le futur catéchumène.).</p>
+<p>Devenir chrétien pour un adulte et pour qu’il soit libre, cela demande du temps. Il est bon d’avoir le temps devant soi :</p>
+<ul>
+<li>Pour connaître Dieu et Jésus-Christ qui nous le fait connaître.</li>
+<li>Pour le découvrir en particulier en lisant les paroles de la Bible</li>
+<li>Pour connaître des Chrétiens car on ne devient pas chrétien tout seul.</li>
+</ul>
+<p>Il n’y a pas une durée légale « <em>de préparation</em> » mais on prendra le temps de cheminer et de marquer les étapes de ce cheminement.</p>
+<h3 id="5-faire-le-point">5. Faire le point</h3>
+<p>Il est bon de connaître, si cela n’est pas venu dans les présentations, « <em>l’état actuel</em> » du cheminement de celui qui vient- On peut s’aider de deux axes, résumés par les questions ci-dessous :</p>
+<ul>
+<li>« *Avez-vous lu ou vu (films) des choses qui vous ont aidé dans votre démarche ou qui vous ont posé question ? (Ce peut être l’occasion de faire la part des connaissances « <em>hors christianisme</em> », autres religions, courants philosophiques, mais aussi New Age, Esotérisme, sectes rencontrées.</li>
+<li>« <em>Qu’attendez-vous de moi pour poursuivre votre recherche ?</em> » ; l’accompagnateur n’est pas un enseignant mais une aide pour ne pas se perdre en chemin.</li>
+</ul>
+<h3 id="6-preparer-le-terrain-pour-la-prochaine-rencontre">6. Préparer le Terrain pour la prochaine rencontre.</h3>
+<ul>
+<li>Se fixer une date et une heure pour la prochaine rencontre, en respectant autant que possible le rythme des deux personnes, l’équilibre des relations futures y gagnera, mais là aussi cela demande souvent un temps d’ajustement, témoin des grands élans autant que des réticences des intéressés.</li>
+<li>Dire un peu de quoi on parlera. S’il y a des questions évidentes on peut en choisir une (pas toutes si possible) et se proposer d’y réfléchir ensemble à la prochaine rencontre (cela laisse le temps d’un mûrissement et de préparer quelques éléments du côté de l’accompagnateur). S’il n’y a pas de question évidente on peut proposer de découvrir ensemble une première fois la Bible, ou de commencer le parcours, ou les fiches dont dispose l’accompagnateur. L’important est de se quitter avec un objectif, mais celui-ci gagne à être très souple et adapté « <em>au point où l’on en est</em> ».</li>
+</ul>
+<h3 id="7-apres-la-rencontre">7. Après la rencontre</h3>
+<p>Il est bon pour l’accompagnateur de prendre encore cinq minutes avec lui-même pour se poser quelques questions.</p>
+<ul>
+<li>Qu’est-ce qui m’a rendu heureux dans cette rencontre ?</li>
+<li>Qu’est-ce qui m’a mis éventuellement mal à l’aise, ou, que n’ai-je pas bien compris ?</li>
+<li>Qu’est-ce qui m’a paru saillant, à ne pas oublier, à prendre en compte pour parler de la Foi ?</li>
+</ul>
+
+
+			</heading-anchors>
+		</main>
+
+		<footer>
+			<p>
+				<em>Built with <a href="https://www.11ty.dev/">Eleventy v3.1.2</a></em>
+			</p>
+		</footer>
+
+		<!-- This page `/accompagnement/2-premieres-rencontres-avec-le-catechumene/` was built on 2026-05-22T21:42:59.785Z -->
+		<script type="module" src="/dist/xbxy_EL6cU.js"></script>
+		<!-- 100% privacy-first analytics -->
+		<script async="" src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+	</body>
+</html>

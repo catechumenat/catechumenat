@@ -1,0 +1,390 @@
+<!doctype html>
+<html lang="fr">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Catéchuménat à Saint-Nicolas-des-Champs </title>
+		<meta name="description" content="Les suites de nos enseignements.">
+		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Catéchuménat à Saint-Nicolas-des-Champs ">
+		
+		
+		
+		<style>/* This is an arbitrary CSS string added to the bundle */
+/* Defaults */
+:root {
+	--font-family: -apple-system, system-ui, sans-serif;
+	--font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
+}
+
+/* Theme colors */
+:root {
+	--color-gray-20: #e0e0e0;
+	--color-gray-50: #C0C0C0;
+	--color-gray-90: #333;
+
+	--background-color: #fff;
+
+	--text-color: var(--color-gray-90);
+	--text-color-link: #082840;
+	--text-color-link-active: #5f2b48;
+	--text-color-link-visited: #17050F;
+
+	--syntax-tab-size: 2;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--color-gray-20: #e0e0e0;
+		--color-gray-50: #C0C0C0;
+		--color-gray-90: #dad8d8;
+
+		/* --text-color is assigned to --color-gray-_ above */
+		--text-color-link: #1493fb;
+		--text-color-link-active: #6969f7;
+		--text-color-link-visited: #a6a6f8;
+
+		--background-color: #15202b;
+	}
+}
+
+
+/* Global stylesheet */
+* {
+	box-sizing: border-box;
+}
+
+@view-transition {
+	navigation: auto;
+}
+
+html,
+body {
+	padding: 0;
+	margin: 0 auto;
+	font-family: var(--font-family);
+	color: var(--text-color);
+	background-color: var(--background-color);
+}
+html {
+	overflow-y: scroll;
+}
+body {
+	max-width: 40em;
+}
+
+/* https://www.a11yproject.com/posts/how-to-hide-content/ */
+.visually-hidden:not(:focus):not(:active) {
+	clip: rect(0 0 0 0);
+	clip-path: inset(50%);
+	height: 1px;
+	overflow: hidden;
+	position: absolute;
+	white-space: nowrap;
+	width: 1px;
+}
+
+/* Fluid images via https://www.zachleat.com/web/fluid-images/ */
+img{
+  max-width: 100%;
+}
+img[width][height] {
+  height: auto;
+}
+img[src$=".svg"] {
+  width: 100%;
+  height: auto;
+  max-width: none;
+}
+video,
+iframe {
+	width: 100%;
+	height: auto;
+}
+iframe {
+	aspect-ratio: 16/9;
+}
+
+p:last-child {
+	margin-bottom: 0;
+}
+p {
+	line-height: 1.5;
+}
+
+li {
+	line-height: 1.5;
+}
+
+a[href] {
+	color: var(--text-color-link);
+}
+a[href]:visited {
+	color: var(--text-color-link-visited);
+}
+a[href]:hover,
+a[href]:active {
+	color: var(--text-color-link-active);
+}
+
+main,
+footer {
+	padding: 1rem;
+}
+main :first-child {
+	margin-top: 0;
+}
+
+header {
+	border-bottom: 1px dashed var(--color-gray-20);
+}
+
+#skip-link {
+	text-decoration: none;
+	background: var(--background-color);
+	color: var(--text-color);
+	padding: 0.5rem 1rem;
+	border: 1px solid var(--color-gray-90);
+	border-radius: 2px;
+}
+
+/* Prevent visually-hidden skip link fom pushing content around when focused */
+#skip-link.visually-hidden:focus {
+	position: absolute;
+	top: 1rem;
+	left: 1rem;
+	/* Ensure it is positioned on top of everything else when it is shown */
+	z-index: 999;
+}
+
+.links-nextprev {
+	display: flex;
+	justify-content: space-between;
+	gap: .5em 1em;
+	list-style: "";
+	border-top: 1px dashed var(--color-gray-20);
+	padding: 1em 0;
+}
+.links-nextprev > * {
+	flex-grow: 1;
+}
+.links-nextprev-next {
+	text-align: right;
+}
+
+table {
+	margin: 1em 0;
+}
+table td,
+table th {
+	padding-right: 1em;
+}
+
+pre,
+code {
+	font-family: var(--font-family-monospace);
+}
+pre:not([class*="language-"]) {
+	margin: .5em 0;
+	line-height: 1.375; /* 22px /16 */
+	-moz-tab-size: var(--syntax-tab-size);
+	-o-tab-size: var(--syntax-tab-size);
+	tab-size: var(--syntax-tab-size);
+	-webkit-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+	direction: ltr;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	overflow-x: auto;
+}
+code {
+	word-break: break-all;
+}
+
+/* Header */
+header {
+	display: flex;
+	gap: 1em;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+	padding: 1em;
+}
+.home-link {
+	flex-grow: 1;
+	font-size: 1em; /* 16px /16 */
+	font-weight: 700;
+}
+.home-link:link:not(:hover) {
+	text-decoration: none;
+}
+
+/* Nav */
+.nav {
+	display: flex;
+	gap: .5em 1em;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+.nav-item {
+	display: inline-block;
+}
+.nav-item a[href]:not(:hover) {
+	text-decoration: none;
+}
+.nav a[href][aria-current="page"] {
+	text-decoration: underline;
+}
+
+/* Posts list */
+.postlist {
+	counter-reset: start-from var(--postlist-index);
+	list-style: none;
+	padding: 0;
+	padding-left: 1.5rem;
+}
+.postlist-item {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: baseline;
+	counter-increment: start-from -1;
+	margin-bottom: 1em;
+}
+.postlist-item:before {
+	display: inline-block;
+	pointer-events: none;
+	content: "" counter(start-from, decimal-leading-zero) ". ";
+	line-height: 100%;
+	text-align: right;
+	margin-left: -1.5rem;
+}
+.postlist-date,
+.postlist-item:before {
+	font-size: 0.8125em; /* 13px /16 */
+	color: var(--color-gray-90);
+}
+.postlist-date {
+	word-spacing: -0.5px;
+}
+.postlist-link {
+	font-size: 1.1875em; /* 19px /16 */
+	font-weight: 700;
+	flex-basis: calc(100% - 1.5rem);
+	padding-left: .25em;
+	padding-right: .5em;
+	text-underline-position: from-font;
+	text-underline-offset: 0;
+	text-decoration-thickness: 1px;
+}
+.postlist-item-active .postlist-link {
+	font-weight: bold;
+}
+
+/* Tags */
+.post-tag {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	text-transform: capitalize;
+	font-style: italic;
+}
+.postlist-item > .post-tag {
+	align-self: center;
+}
+
+/* Tags list */
+.post-metadata {
+	display: inline-flex;
+	flex-wrap: wrap;
+	gap: .5em;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.post-metadata time {
+	margin-right: 1em;
+}</style>
+		
+	</head>
+	<body>
+		<a href="#main" id="skip-link" class="visually-hidden">Skip to main content</a>
+
+		<header>
+			<a href="/" class="home-link">Catéchuménat à Saint-Nicolas-des-Champs </a>
+			<nav>
+				<h2 class="visually-hidden" id="top-level-navigation-menu">Top level navigation menu</h2>
+				<ul class="nav">
+					<li class="nav-item"><a href="/">Home</a></li>
+					<li class="nav-item"><a href="/blog/">Archive</a></li>
+					<li class="nav-item"><a href="/about/">Le programme</a></li>
+					<li class="nav-item"><a href="/accompagner/">L’accompagnement</a></li>
+					<li class="nav-item"><a href="/feed/feed.xml">Feed</a></li>
+					<li class="nav-item"><a href="/liens/">Des liens</a></li>
+				</ul>
+			</nav>
+		</header>
+
+		<main id="main">
+			<heading-anchors>
+				
+<h1 id="les-quatre-piliers">Les quatre piliers</h1>
+<h2 id="i-la-catechese-necessaire-mais-pas-suffisante">I. La catéchèse : nécessaire mais pas suffisante</h2>
+<h3 id="a-la-catechese-comme-mise-en-resonance">A. La catéchèse comme mise en résonance</h3>
+<p>1°. Un peu d’étymologie : en grec, « <em>catéchumène</em> » veut dire « <em>celui en qui une parole a résonné</em> ». Le mot a la même racine que « <em>catéchèse</em> ». Faire de la catéchèse, c’est permettre qu’une parole vienne résonner sur le cœur de quelqu’un. Cet écho fait des allers-retours. La catéchèse, ce n’est pas simplement un enseignement d’un émetteur A vers un destinataire B. Le B va à son tour renvoyer un message à A et les deux vont être altérés, transformés. A chaque fois que quelqu’un reçoit le message, il l’intègre dans ce qu’il est, dans sa culture, dans son histoire, et le renvoie chargé de nouveau sens.</p>
+<p>2°. « <em>Catéchiser</em> », c’est donc faire entrer en résonance les expériences fondatrices des croyants que nous découvrons dans la Bible - et aussi, d’une manière seconde (ce qui ne veut pas dire secondaire), dans toute la tradition de l’Église - et l’expérience du catéchumène. Penser ainsi le rapport entre « <em>la Bible et nous</em> » permet de penser ce qui reste problématique pour beaucoup, le rapport entre la foi et la vie, entre des textes qui sont très à distance de nous historiquement, culturellement, et notre propre vie. C’est l’expérience des croyants du Premier et du Nouveau Testament, qui entre en résonance avec l’expérience de croyants débutants, balbutiants, cheminant, se construisant que nous sommes, catéchumènes et baptisés.</p>
+<h3 id="b-la-catechese-catechumenale-comme-initiation-a-la-vie-chretienne-integrale">B. La catéchèse catéchuménale comme initiation à la vie chrétienne intégrale</h3>
+<p>Notre mission au catéchuménat, c’est d’initier quelqu’un à la vie chrétienne. Il ne s’agit pas d’abord de préparer à un sacrement, mais de permettre à quelqu’un de devenir chrétien et de faire un cheminement qui va être fondé dans les sacrements et aboutir aux sacrements. Il est intéressant de remarquer au passage que l’Eucharistie qui est normalement le troisième des sacrements de l’initiation chrétienne est aussi un sacrement du quotidien. Ce à quoi on aboutit est aussi ce qui va marquer, rythmer, une vie chrétienne ordinaire.</p>
+<h2 id="ii-initier-a-la-vie-chretienne-c-est-initier-a-quatre-dimensions-ou-piliers">II. Initier à la vie chrétienne, c’est initier à quatre dimensions (ou « <em>piliers</em> »).</h2>
+<h3 id="1-la-premiere-dimension-c-est-l-ecoute-de-la-parole-de-dieu">1. La première dimension, c’est l’écoute de la Parole de Dieu.</h3>
+<p>Notre travail va être d’abord d’initier à ce qui est au centre de notre foi, le mystère du Christ. C’est d’ailleurs la première chose qu’un catéchumène demande : connaître, connaître Jésus, connaître la Bible, connaître le christianisme…</p>
+<p>Mais la foi chrétienne ne se réduit pas à une connaissance de contenus, une « <em>gnose</em> ». Le but de la catéchèse, c’est, selon le Directoire général de la catéchèse, de « <em>mettre quelqu’un non seulement en contact mais en communion, en intimité avec Jésus-Christ</em> ». La première demande du catéchumène peut venir d’une curiosité culturelle. S’il pénètre dans la foi chrétienne, il va découvrir que connaître la Parole de Dieu, c’est connaître une personne, Jésus-Christ, entrer en relation avec lui, devenir disciple et donc laisser sa vie se transformer, se réorganiser.</p>
+<h3 id="2-la-2eme-dimension-de-la-vie-chretienne-l-aspect-de-conversion-de-reponse-a-dieu-qu-on-decouvre">2. La 2ème dimension de la vie chrétienne : l’aspect de conversion, de réponse à Dieu qu’on découvre.</h3>
+<p>Devenir disciple du Christ entraîne une réorganisation de la vie relationnelle, affective, une transformation des convictions et des valeurs, l’irruption d’un goût de vivre qui transforme psychologiquement et même physiquement parfois, qui peut donner envie de changer de rôle social ou de vivre autrement celui qu’on a, par exemple dans la vie conjugale, professionnelle… Un processus de conversion s’opère dans la relation avec les autres et dans la relation à soi.</p>
+<p>Pour nous en tant qu’accompagnateur, il ne s’agit évidemment pas là d’enseignement. On n’enseigne pas à quelqu’un ce qu’il doit faire. Il s’agit d’accompagner une expérience.</p>
+<h3 id="3-la-troisieme-dimension-de-la-vie-chretienne-a-laquelle-nous-devons-initier-c-est-la-priere-dans-sa-dimension-personnelle-et-dans-sa-dimension-communautaire-c-est-a-dire-liturgique-et-sacramentelle">3. La troisième dimension de la vie chrétienne à laquelle nous devons initier, c’est la prière dans sa dimension personnelle et dans sa dimension communautaire, c’est-à-dire liturgique et sacramentelle.</h3>
+<p>Initier à la prière est indispensable parce que les gens souvent n’ont jamais vu quelqu’un prier. Ou alors, s’ils ont une idée de ce que peut être la prière, c’est…</p>
+<ul>
+<li>soit le modèle de la prière de demande, dont certains sentent eux-mêmes toute l’ambiguïté (est-ce que je peux demander à Dieu qu’il fasse les choses pour moi ? ils perçoivent bien que si la prière n’est que demande, elle peut être intéressée, utilitaire, être un refuge…) ;</li>
+<li>soit le modèle un peu New Age, s’oublier pour se perdre dans un grand Tout… mais on ne sait pas faire, et on est très démuni.</li>
+</ul>
+<p>On ne sait pas prier parce qu’on n’a pas idée de ce que c’est. A nous de faire découvrir la spécificité de la prière chrétienne liée à la spécificité de la foi chrétienne : Dieu qui veut se révéler, Dieu qui est Parole, qui entre en relation avec son peuple et avec chaque être humain, présence de l’Esprit au-dedans de nous qui crie vers le Père…</p>
+<p>Là encore, cela ne se fera pas simplement par un enseignement : il faut donner à voir, donner à partager ce que peut être la prière. Cela vaut évidemment de la prière communautaire, liturgique. Bien sûr il y a des choses à expliquer dans la liturgie chrétienne. Mais il y a surtout à permettre de faire l’expérience de différents types de célébrations, à faire découvrir et aimer les symboles, le sens des gestes corporels… Il ne faut pas sous-estimer que ce sont des choses complètement inconnues. Dans une culture très rationnelle, on ne voit pas toujours tout de suite « <em>l’utilité</em> » des chants, lectures, gestes, etc. Le catéchuménat est structuré par des célébrations liturgiques. Ces célébrations-là doivent être bien préparées avec le catéchumène et avec la communauté, parce que ce sont les occasions pour eux de vivre à fond des liturgies qui sont faites sur mesure pour eux, qui sont des écoles.</p>
+<h3 id="4-la-derniere-dimension-c-est-la-dimension-de-vie-ecclesiale">4. La dernière dimension, c’est la dimension de vie ecclésiale.</h3>
+<p>a) L’initiation à la vie ecclésiale est d’abord une initiation à la vie fraternelle. Recevoir des frères, des sœurs, c’est un « <em>sacré</em> » cadeau. Dans l’Évangile de Jean, quand Jésus dit : « <em>aimez-vous les uns les autres</em> », c’est un commandement qui concerne la communauté chrétienne. Parce que « <em>c’est à cet amour qu’on vous reconnaîtra pour mes disciples</em> ». S’il n’y a pas d’amour à l’intérieur de la communauté chrétienne, s’il n’y a pas là une nouveauté radicale de la relation entre les êtres humains, quel témoignage peut-on donner ?</p>
+<p>b) L’initiation à la vie ecclésiale, c’est aussi - selon le Directoire pour la catéchèse - la dimension œcuménique : « <em>en éduquant au sens communautaire, la catéchèse prendra soin aussi de la dimension œcuménique et encouragera les attitudes fraternelles à l’égard des membres des autres Églises et communautés chrétiennes… en favorisant en particulier une bonne connaissance des autres confessions, et un vrai désir de l’unité</em> ».</p>
+<p>c) L’initiation à la vie ecclésiale, c’est enfin l’apprentissage de la collaboration à la mission de l’Église :</p>
+<ul>
+<li>La mission de l’Église veut dire que nous serons « <em>présents</em> », présents avec une qualité de présence, en tant que chrétiens, dans la société, dans la vie professionnelle, culturelle, sociale, et présents dans les divers services qu’impliqué la vie ecclésiale.</li>
+<li>Le deuxième aspect, c’est le comment. La mission de l’Église est gouvernée par une attitude évangélique, c’est-à-dire aller à la recherche de ceux qui sont loin, de ceux qui sont perdus, qui se sentent perdus, annoncer et guérir en même temps, se présenter comme des pauvres… C’est la manière d’être de Jésus dans sa mission qui doit être notre modèle de référence dans la manière dont nous vivons cette mission de l’Église.</li>
+<li>Enfin, dernier aspect, pour éduquer à ce sens missionnaire, la catéchèse formera au dialogue interreligieux.</li>
+</ul>
+<p>Quatre dimensions, quatre piliers qu’il ne faudra pas perdre de vue, même si pour le catéchumène et pour nous-mêmes, il y a des investissements plus spontanés dans l’une ou l’autre de ces dimensions. Il est normal que certains d’entre nous soient des amoureux de la parole de Dieu ou de la liturgie et d’autres des passionnés de l’engagement du chrétien dans la société ou d’un cheminement aussi spirituel. Mais il est très important d’ouvrir un catéchumène à toutes les dimensions de la vie chrétienne. La catéchèse catéchuménale qui pose des fondements se doit d’être équilibrée.</p>
+<h2 id="iii-conclusion-caracteristiques-d-une-catechese-d-initiation">III. Conclusion : caractéristiques d’une catéchèse d’initiation</h2>
+<ul>
+<li>Une catéchèse fondamentale : on pose les fondements, « <em>d’autres tâches du ministère de la parole élèveront ensuite les étages de l’édifice</em> ».</li>
+<li>Une formation à la vie chrétienne intégrale : pas seulement un enseignement, on accompagne des expériences de vie à la suite du Christ.</li>
+<li>Une catéchèse qui part de la profession de foi de l’Église et vise une profession de foi personnelle et ecclésiale, une profession de foi « <em>vivante, explicite, et agissante</em> », ou encore intelligente et incarnée dans une manière d’être au monde ; « <em>je crois</em> », ce n’est pas je sais, je pense que, mais j’ai confiance en, et je fonde ma vie sur cette confiance. Aller-retour permanent entre la foi et l’expérience du catéchumène, ses expériences les plus profondes et la foi et l’expérience de l’Église. Fécondation mutuelle. « <em>La profession de foi reçue de l’Église (<em>traditio</em>), en germant et en grandissant tout au long du processus catéchistique, est restituée (<em>redditio</em>), enrichie des valeurs des différentes cultures. Le catéchuménat devient ainsi un centre fondamental de développement de la catholicité et un ferment de renouveau de l’Église.</em> » (<em>Directoire pour la catéchèse</em>).</li>
+<li>Une catéchèse qui fait apparaître des cohérences : la cohérence du projet de Dieu, sa fidélité dans l’histoire, l’unité du Premier et du Nouveau Testament… ; ou encore la cohérence entre la révélation de Dieu en Jésus Christ et la doctrine sociale de l’Église, etc… Il ne s’agit pas de transmettre une idéologie, mais de relier en permanence les différentes dimensions de la foi, de « <em>faire entrer en résonance</em> ».</li>
+<li>Une catéchèse donnée par l’Église qui annonce, célèbre, vit et transmet l’Évangile.</li>
+<li>Une catéchèse structurée par des célébrations liturgiques.</li>
+</ul>
+
+
+			</heading-anchors>
+		</main>
+
+		<footer>
+			<p>
+				<em>Built with <a href="https://www.11ty.dev/">Eleventy v3.1.2</a></em>
+			</p>
+		</footer>
+
+		<!-- This page `/accompagnement/4-les-quatre-piliers/` was built on 2026-05-22T21:42:59.786Z -->
+		<script type="module" src="/dist/xbxy_EL6cU.js"></script>
+		<!-- 100% privacy-first analytics -->
+		<script async="" src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+	</body>
+</html>

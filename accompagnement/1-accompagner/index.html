@@ -1,0 +1,416 @@
+<!doctype html>
+<html lang="fr">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Catéchuménat à Saint-Nicolas-des-Champs </title>
+		<meta name="description" content="Les suites de nos enseignements.">
+		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Catéchuménat à Saint-Nicolas-des-Champs ">
+		
+		
+		
+		<style>/* This is an arbitrary CSS string added to the bundle */
+/* Defaults */
+:root {
+	--font-family: -apple-system, system-ui, sans-serif;
+	--font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
+}
+
+/* Theme colors */
+:root {
+	--color-gray-20: #e0e0e0;
+	--color-gray-50: #C0C0C0;
+	--color-gray-90: #333;
+
+	--background-color: #fff;
+
+	--text-color: var(--color-gray-90);
+	--text-color-link: #082840;
+	--text-color-link-active: #5f2b48;
+	--text-color-link-visited: #17050F;
+
+	--syntax-tab-size: 2;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--color-gray-20: #e0e0e0;
+		--color-gray-50: #C0C0C0;
+		--color-gray-90: #dad8d8;
+
+		/* --text-color is assigned to --color-gray-_ above */
+		--text-color-link: #1493fb;
+		--text-color-link-active: #6969f7;
+		--text-color-link-visited: #a6a6f8;
+
+		--background-color: #15202b;
+	}
+}
+
+
+/* Global stylesheet */
+* {
+	box-sizing: border-box;
+}
+
+@view-transition {
+	navigation: auto;
+}
+
+html,
+body {
+	padding: 0;
+	margin: 0 auto;
+	font-family: var(--font-family);
+	color: var(--text-color);
+	background-color: var(--background-color);
+}
+html {
+	overflow-y: scroll;
+}
+body {
+	max-width: 40em;
+}
+
+/* https://www.a11yproject.com/posts/how-to-hide-content/ */
+.visually-hidden:not(:focus):not(:active) {
+	clip: rect(0 0 0 0);
+	clip-path: inset(50%);
+	height: 1px;
+	overflow: hidden;
+	position: absolute;
+	white-space: nowrap;
+	width: 1px;
+}
+
+/* Fluid images via https://www.zachleat.com/web/fluid-images/ */
+img{
+  max-width: 100%;
+}
+img[width][height] {
+  height: auto;
+}
+img[src$=".svg"] {
+  width: 100%;
+  height: auto;
+  max-width: none;
+}
+video,
+iframe {
+	width: 100%;
+	height: auto;
+}
+iframe {
+	aspect-ratio: 16/9;
+}
+
+p:last-child {
+	margin-bottom: 0;
+}
+p {
+	line-height: 1.5;
+}
+
+li {
+	line-height: 1.5;
+}
+
+a[href] {
+	color: var(--text-color-link);
+}
+a[href]:visited {
+	color: var(--text-color-link-visited);
+}
+a[href]:hover,
+a[href]:active {
+	color: var(--text-color-link-active);
+}
+
+main,
+footer {
+	padding: 1rem;
+}
+main :first-child {
+	margin-top: 0;
+}
+
+header {
+	border-bottom: 1px dashed var(--color-gray-20);
+}
+
+#skip-link {
+	text-decoration: none;
+	background: var(--background-color);
+	color: var(--text-color);
+	padding: 0.5rem 1rem;
+	border: 1px solid var(--color-gray-90);
+	border-radius: 2px;
+}
+
+/* Prevent visually-hidden skip link fom pushing content around when focused */
+#skip-link.visually-hidden:focus {
+	position: absolute;
+	top: 1rem;
+	left: 1rem;
+	/* Ensure it is positioned on top of everything else when it is shown */
+	z-index: 999;
+}
+
+.links-nextprev {
+	display: flex;
+	justify-content: space-between;
+	gap: .5em 1em;
+	list-style: "";
+	border-top: 1px dashed var(--color-gray-20);
+	padding: 1em 0;
+}
+.links-nextprev > * {
+	flex-grow: 1;
+}
+.links-nextprev-next {
+	text-align: right;
+}
+
+table {
+	margin: 1em 0;
+}
+table td,
+table th {
+	padding-right: 1em;
+}
+
+pre,
+code {
+	font-family: var(--font-family-monospace);
+}
+pre:not([class*="language-"]) {
+	margin: .5em 0;
+	line-height: 1.375; /* 22px /16 */
+	-moz-tab-size: var(--syntax-tab-size);
+	-o-tab-size: var(--syntax-tab-size);
+	tab-size: var(--syntax-tab-size);
+	-webkit-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+	direction: ltr;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	overflow-x: auto;
+}
+code {
+	word-break: break-all;
+}
+
+/* Header */
+header {
+	display: flex;
+	gap: 1em;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+	padding: 1em;
+}
+.home-link {
+	flex-grow: 1;
+	font-size: 1em; /* 16px /16 */
+	font-weight: 700;
+}
+.home-link:link:not(:hover) {
+	text-decoration: none;
+}
+
+/* Nav */
+.nav {
+	display: flex;
+	gap: .5em 1em;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+.nav-item {
+	display: inline-block;
+}
+.nav-item a[href]:not(:hover) {
+	text-decoration: none;
+}
+.nav a[href][aria-current="page"] {
+	text-decoration: underline;
+}
+
+/* Posts list */
+.postlist {
+	counter-reset: start-from var(--postlist-index);
+	list-style: none;
+	padding: 0;
+	padding-left: 1.5rem;
+}
+.postlist-item {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: baseline;
+	counter-increment: start-from -1;
+	margin-bottom: 1em;
+}
+.postlist-item:before {
+	display: inline-block;
+	pointer-events: none;
+	content: "" counter(start-from, decimal-leading-zero) ". ";
+	line-height: 100%;
+	text-align: right;
+	margin-left: -1.5rem;
+}
+.postlist-date,
+.postlist-item:before {
+	font-size: 0.8125em; /* 13px /16 */
+	color: var(--color-gray-90);
+}
+.postlist-date {
+	word-spacing: -0.5px;
+}
+.postlist-link {
+	font-size: 1.1875em; /* 19px /16 */
+	font-weight: 700;
+	flex-basis: calc(100% - 1.5rem);
+	padding-left: .25em;
+	padding-right: .5em;
+	text-underline-position: from-font;
+	text-underline-offset: 0;
+	text-decoration-thickness: 1px;
+}
+.postlist-item-active .postlist-link {
+	font-weight: bold;
+}
+
+/* Tags */
+.post-tag {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	text-transform: capitalize;
+	font-style: italic;
+}
+.postlist-item > .post-tag {
+	align-self: center;
+}
+
+/* Tags list */
+.post-metadata {
+	display: inline-flex;
+	flex-wrap: wrap;
+	gap: .5em;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.post-metadata time {
+	margin-right: 1em;
+}</style>
+		
+	</head>
+	<body>
+		<a href="#main" id="skip-link" class="visually-hidden">Skip to main content</a>
+
+		<header>
+			<a href="/" class="home-link">Catéchuménat à Saint-Nicolas-des-Champs </a>
+			<nav>
+				<h2 class="visually-hidden" id="top-level-navigation-menu">Top level navigation menu</h2>
+				<ul class="nav">
+					<li class="nav-item"><a href="/">Home</a></li>
+					<li class="nav-item"><a href="/blog/">Archive</a></li>
+					<li class="nav-item"><a href="/about/">Le programme</a></li>
+					<li class="nav-item"><a href="/accompagner/">L’accompagnement</a></li>
+					<li class="nav-item"><a href="/feed/feed.xml">Feed</a></li>
+					<li class="nav-item"><a href="/liens/">Des liens</a></li>
+				</ul>
+			</nav>
+		</header>
+
+		<main id="main">
+			<heading-anchors>
+				
+<h1 id="accompagner">Accompagner</h1>
+<h2 id="i-qu-est-ce-qu-accompagner">I. Qu’est-ce qu’accompagner ?</h2>
+<p>C’est d’abord se mettre en route avec le catéchumène pour l’aider par l’échange, la réflexion commune, à trouver son propre chemin de foi.</p>
+<h3 id="tisser-une-relation-confiante">Tisser une relation confiante</h3>
+<ul>
+<li>Etre à l’écoute de sa demande, de ses questions, en acceptant la différence et en respectant sa propre démarche.</li>
+<li>Créer un climat de confiance pour laisser le catéchumène s’exprimer en toute liberté.</li>
+<li>Accueillir ses attentes, ses questions, ses difficultés, ses incompréhensions sans jugement.</li>
+<li>Le laisser s’exprimer jusqu’au bout avant de risquer une réponse.</li>
+<li>Ne pas imposer nos propres doutes.</li>
+</ul>
+<h3 id="proposer-une-catechese">Proposer une catéchèse</h3>
+<ul>
+<li>Initier à la lecture de la Bible, de l’Evangile.</li>
+<li>Apporter des éléments pour comprendre ce qui fonde le christianisme (histoire de l’Eglise…).</li>
+<li>Clarifier les données essentielles de la foi (contenu du Credo…).</li>
+</ul>
+<h3 id="initier-a-la-vie-de-l-eglise-et-initier-a-la-vie-en-eglise">Initier à la vie de l’Eglise et initier à la vie en Eglise</h3>
+<ul>
+<li>Accompagner l’intégration du catéchumène dans la communauté.</li>
+<li>Faciliter la participation du catéchumène à la vie de l’Eglise.</li>
+<li>Faire découvrir les rites et les symboles de la vie sacramentelle et liturgique.</li>
+<li>Initier à la prière.</li>
+<li>Préparer à célébrer les étapes du catéchuménat.</li>
+</ul>
+<h3 id="mettre-l-evangile-en-pratique">Mettre l’Evangile en pratique</h3>
+<ul>
+<li>Plus que des discours, le témoignage de vie de l’accompagnateur est déterminant.</li>
+<li>Observer ce qui « <em>bouge</em> » chez le catéchumène (conversion…).</li>
+<li>Aider le catéchumène à repérer les exigences de l’Evangile (éthique).</li>
+</ul>
+<hr>
+<h2 id="ii-ce-que-n-est-pas-l-accompagnement">II. Ce que n’est pas l’accompagnement</h2>
+<h3 id="une-aventure-individuelle">Une aventure individuelle</h3>
+<p>C’est la communauté tout entière qui accueille le catéchumène en son sein et lui délègue un de ses membres pour accompagner son parcours. L’accompagnateur est au service de l’Eglise, il accomplit une mission qui lui est confiée.</p>
+<h3 id="un-cursus-de-type-scolaire-appuye-sur-un-programme">Un cursus de type scolaire appuyé sur un programme</h3>
+<p>Il n’y a pas de savoir à dispenser, mais un itinéraire à accompagner (ce qui n’exclut pas l’apport d’éléments de catéchèse et de connaissance de la vie de l’Eglise).</p>
+<h3 id="un-lien-exclusif-et-fusionnel">Un lien exclusif et fusionnel</h3>
+<p>La relation confiante et fraternelle qui se noue avec l’accompagnateur ne doit pas faire oublier que l’objectif de la démarche est l’autonomie du catéchumène à qui il sera demandé de professer sa foi en être libre et responsable.</p>
+<hr>
+<h2 id="etre-accompagnateur-au-catechumenat">Être accompagnateur au catéchuménat</h2>
+<p>D’après Isabelle Vitry, <em>Croissance de l’Église</em> n°118, mars 1996</p>
+<h3 id="une-mission-precise-et-originale">Une mission précise et originale</h3>
+<p>Accompagner c’est se faire compagnon de route, proche et fraternel.</p>
+<p>Pour accompagner au catéchuménat, il faut être envoyé. Appelé et envoyé. On ne s’instaure pas soi-même accompagnateur, on reçoit cette tâche d’un autre et par là, d’un Autre.</p>
+<p>Cette mission a un objectif : mener les catéchumènes là où l’Esprit les appelle. Leur donner les moyens de connaître, de comprendre, d’intérioriser, de s’approprier la foi et la vie chrétiennes. Les laisser libres d’interrompre ou d’arrêter s’ils le souhaitent. Soutenir et encourager leur conversion à l’Evangile. Accompagner leur entrée progressive dans l’Eglise.</p>
+<p>Cette mission est balisée, organisée par les étapes du Rituel de l’Initiation Chrétienne des Adultes et s’inscrit ainsi dans la tradition de l’Eglise.</p>
+<p>Cette mission enfin s’appuie sur les dons propres des accompagnateurs. Car, s’il y a de l’objectif et de l’acquis dans l’accompagnement (la formation par exemple), il y a aussi de l’inné et des qualités personnelles absolument nécessaires. Il y faut un certain goût pour parler de la foi. Du moins plus de goût que de crainte. Un sens de la relation, du tact et de l’écoute, bien sûr. La capacité à porter aussi quelques exigences (de durée -- de disponibilité) pour soi et pour l’autre. Une certaine souplesse et l’art d’accueillir l’imprévu.</p>
+<h3 id="une-aventure-spirituelle">Une aventure spirituelle</h3>
+<p>L’accompagnateur est appelé à se faire tour à tour (et à la fois) fraternel, évangélique et ecclésial. Ce tiercé est une aventure pour l’accompagnateur lui-même.</p>
+<h4 id="fraternel">Fraternel</h4>
+<p>Parce qu’il va être le vis-à-vis privilégié. Il va écouter le catéchumène parler de sa vie, de ses désirs, de ses craintes, de sa foi naissante. Il sera introduit bien souvent dans sa vie intime, sa vie spirituelle, sa vie psychologique, sa vie de couple, son histoire personnelle. Le catéchumène attendra de lui proximité et respect.</p>
+<p>Proximité : accueil, écoute, simplicité. Mais aussi fidélité et régularité, signe de la fidélité même de Dieu.</p>
+<p>Respect : à bonne distance, pour pouvoir offrir une stabilité dans les hauts et les bas, un repère sûr dans le trouble. L’accompagnateur n’est pas un miroir, il est un témoin qui garde en mémoire le chemin parcouru, les lumières reçues et qui voit plus loin dans une vigilante espérance. Le respect est un autre nom de l’amour. L’amour qui cherche à comprendre avant de répondre. Comprendre ce que l’autre veut dire. Comprendre ce que Dieu veut lui dire. L’amour de la personne et de son monde, si différent soit-il, sans jugement ni mépris.</p>
+<p>Ce don de proximité et de respect se cultive. Peut-être d’abord et surtout dans la prière mais aussi aux moments d’évaluation et de relecture.</p>
+<h4 id="evangelique">Evangélique</h4>
+<p>Parce qu’il doit donner le goût de l’Evangile par son attitude, sa conviction, par tout ce qu’il est. Sans beaucoup parler de lui-même (l’accompagnement n’est jamais réciproque).</p>
+<p>Parce qu’il doit faire connaître l’Evangile : en le faisant lire, en le racontant, en trouvant les mots et les images audibles aujourd’hui. Pour que cet Evangile soit parole de vie, une parole qui fait vivre et qui a des effets sur la vi, effets réels et mystérieux, effets visibles et profonds.</p>
+<p>Parce qu’il travaille, approfondit sa propre connaissance des textes, sa propre fréquentation intelligente, priante, spirituelle de la Parole.</p>
+<h4 id="ecclesial">Ecclésial</h4>
+<p>Parce que l’accompagnateur vit lui-même une expérience d’Eglise tout en éveillant au sens de l’Eglise.</p>
+<p>Il se sait appelé et envoyé : le catéchumène lui est confié, il ne lui appartient pas.</p>
+<p>Il n’avance jamais seul mais avec des partenaires dans le groupe, dans la paroisse, dans le diocèse.</p>
+<p>Il doit faire découvrir l’Eglise à ceux qui n’en ont aucune idée : en leur faisant vivre l’expérience de la communauté, la communion dans la diversité, la fraternité dans le partage de la même foi.</p>
+<p>Il nourrit en lui-même le sens d’une Eglise large et diverse : il n’initie pas à son propre groupe si chaleureux soit-il, ni à sa spiritualité, ni à son mouvement, si vivifiants soient-ils, car le catéchumène devra trouver sa propre place et apprendre à discerner ce qui lui convient à lui, au point où il en est.</p>
+<h3 id="accompagnateur-et-parrain-un-ministere-differencie">Accompagnateur et parrain : un ministère différencié</h3>
+<p>L’accompagnateur passe, le parrain reste. Mais l’enjeu ici n’est pas seulement affectif u psychologique, il est aussi ecclésial. Il tient à la conscience qu’a l’accompagnateur de son rôle et au souci qu’a la communauté de la mission catéchuménale.</p>
+
+
+			</heading-anchors>
+		</main>
+
+		<footer>
+			<p>
+				<em>Built with <a href="https://www.11ty.dev/">Eleventy v3.1.2</a></em>
+			</p>
+		</footer>
+
+		<!-- This page `/accompagnement/1-accompagner/` was built on 2026-05-22T21:42:59.785Z -->
+		<script type="module" src="/dist/xbxy_EL6cU.js"></script>
+		<!-- 100% privacy-first analytics -->
+		<script async="" src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+	</body>
+</html>

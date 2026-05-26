@@ -37,9 +37,8 @@ Programme :
 
 # Le programme **prévisionnel** 2026-2027
 
-Pour retrouver ces dates dans votre agenda, vous n’avez [qu’à ajouter ce calendrier](https://calendar.google.com/calendar/embed?src=df78724759e365e088ffd5bab2491b12a4dbbfe6a82875cf9a750a5d8efe80ec%40group.calendar.google.com&ctz=Europe%2FParis) : vous trouverez en bas un bouton pour l’ajouter à vos calendriers.
+En cours de construction, mais notez les week-ends, c’est ce qui devrait ne pas bouger.
 
-En cours de construction, mais notez d’ores et déjà :
 - jeudi 3 septembre : Le signe de croix (1)
 - jeudi 17 septembre : *Pater* (2)
 - jeudi 1er octobre : *Ave Maria* (3)

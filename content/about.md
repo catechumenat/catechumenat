@@ -22,10 +22,6 @@ Programme :
 
 # Le programme 2025-2026
 ## Dates à venir
-### Temps pascal
-- samedi 23 mai à 10h00 : Confirmations à l’église Saint-Honoré d'Eylau
-- dimanche 24 mai : Dimanche de Pentecôte et **entrées en catéchuménat**.
-
 ### Temps ordinaire
 - jeudi 4 juin : Trouver sa place dans l’Église (25)
 - jeudi 19 juin : Athéisme et spiritualités non religieuses (26)

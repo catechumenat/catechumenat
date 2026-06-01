@@ -24,9 +24,10 @@ Programme :
 ## Dates à venir
 ### Temps ordinaire
 - jeudi 4 juin : Trouver sa place dans l’Église (25)
-- jeudi 19 juin : Athéisme et spiritualités non religieuses (26)
-- samedi 27 juin : Ordinations sacerdotales à la cathédrale Notre-Dame de Paris
-- dimanche 28 juin : Déjeuner paroissial — Le jugement dernier (29)
+- jeudi 18 juin : Athéisme et spiritualités non religieuses (26)
+- jeudi 25 juin : Dîner de fin d’année de catéchuménat. Débrief !
+- samedi 27 juin : Ordinations sacerdotales à la cathédrale Notre-Dame de Paris, n’hésitez pas à y assistez, venez tôt… ou compter sur les places sur le parvis de la cathédrale : il y en a beaucoup et il y a des grands écrans !
+- dimanche 28 juin : Déjeuner paroissial de fin d’année
 
 ## Dates passées
 À retrouver [sur cette page](/about-2025-2026/).

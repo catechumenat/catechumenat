@@ -572,7 +572,7 @@ export { HeadingAnchors }
     <language>fr-FR</language>
     <copyright>© 2025–2026 Laurent Ghirardotti</copyright>
     <pubDate>2026-05-07T00:00:00Z</pubDate>
-    <lastBuildDate>Wed, 17 Jun 2026 14:02:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 09:19:35 +0000</lastBuildDate>
     <itunes:image href="https://catechumenat.asaintnicolas.com/img/podcast-logo.jpg"></itunes:image>
     <itunes:category text="Religion &amp;amp; Spirituality">
       <itunes:category text="Christianity" />
@@ -589,7 +589,7 @@ export { HeadingAnchors }
       <guid isPermaLink="true">https://catechumenat.asaintnicolas.com/blog/17-la-sexualite/</guid>
       <pubDate>2026-05-07T00:00:00Z</pubDate>
       
-      <description>L’enregistrement de l’enseignement de Mathilde et Enguerrand est là :
+      <description>L’enregistrement de l’enseignement est là :
 42.27 MB
 | Durée 0:44:01
 | Télécharger
@@ -606,7 +606,7 @@ Et plus d’informations sur le parcours en ligne.
 Les vidéos du parcours jeune
 https://www.youtube.com/watch?v=SGVOSRY3zKk
 Et plus d’information sur le parcours en ligne.</description>
-      <itunes:summary>L’enregistrement de l’enseignement de Mathilde et Enguerrand est là :
+      <itunes:summary>L’enregistrement de l’enseignement est là :
 42.27 MB
 | Durée 0:44:01
 | Télécharger
@@ -624,7 +624,7 @@ Les vidéos du parcours jeune
 https://www.youtube.com/watch?v=SGVOSRY3zKk
 Et plus d’information sur le parcours en ligne.</itunes:summary>
       
-      <content:encoded><![CDATA[<p>L’enregistrement de l’enseignement de Mathilde et Enguerrand est là :</p>
+      <content:encoded><![CDATA[<p>L’enregistrement de l’enseignement est là :</p>
 <p><audio controls="" src="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-05-07-La-sexualite.mp3" preload="metadata"><p class="audio-details">42.27 MB
 | Durée 0:44:01
 | <a download="" href="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-05-07-La-sexualite.mp3">Télécharger</a></p>
@@ -1440,7 +1440,7 @@ Le texte biblique (Gn 2, 15-17 ; 3, 1-17)
 			</p>
 		</footer>
 
-		<!-- This page `/feed/podcast.xml` was built on 2026-06-17T14:02:11.297Z -->
+		<!-- This page `/feed/podcast.xml` was built on 2026-06-26T09:19:36.812Z -->
 		<script type="module" src=""></script>
 		<!-- 100% privacy-first analytics -->
 		<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>

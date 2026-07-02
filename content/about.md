@@ -21,15 +21,7 @@ Programme :
 ⚠️ Pour les mineurs, il faut l’autorisation des parents pour recevoir le baptême.
 
 # Le programme 2025-2026
-## Dates à venir
-### Temps ordinaire
-- jeudi 18 juin : Athéisme et spiritualités non religieuses (26)
-- jeudi 25 juin : Dîner de fin d’année de catéchuménat. Débrief !
-- samedi 27 juin : Ordinations sacerdotales à la cathédrale Notre-Dame de Paris, n’hésitez pas à y assistez, venez tôt… ou compter sur les places sur le parvis de la cathédrale : il y en a beaucoup et il y a des grands écrans !
-- dimanche 28 juin : Déjeuner paroissial de fin d’année
-
-## Dates passées
-À retrouver [sur cette page](/about-2025-2026/).
+Les dates passées sont à retrouver [sur cette page](/about-2025-2026/).
 
 # Le programme **prévisionnel** 2026-2027
 

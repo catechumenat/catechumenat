@@ -5,25 +5,24 @@ const eleventyNavigation = {
 };
 ---
 
-# Informations pratiques
-Les jeudis, nous nous retrouvons entre 20h et 22h, à la chapelle des Catéchismes, au fond de l’église Saint-Nicolas-des-Champs, au 254 rue Saint Martin.
+# « Viens et vois ! »
+La soirée du catéchuménat s’étoffe pour accueillir des séances d’accueil tout au long de l’année, ainsi qu’un parcours de néophytat (une formation biblique également ouverte aux paroissiens).
+
+Un jeudi sur deux, nous nous retrouvons **à 20h**, au **49 rue de Turbigo**.
 
 Programme :
-- 20h00 : on commence par un temps d’apéro et de rencontre, 
-- 20h30 : puis on prie ensemble en chantant quelques chants de louange.
-- 20h45 : Après, un enseignement de 30-45 minutes 
-- 21h30 : et un temps de partage.
+- 20h00 : on commence par un temps d’apéro et de rencontre dans la sacristie, 
+- 20h30 : puis on prie ensemble en chantant quelques chants de louange dans la salle des catéchismes.
+- 20h45 : Après, un enseignement de 30-45 minutes, chaque groupe dans sa salle.
+- 21h30 : et un temps de partage au même endroit.
 
 🤲 Si vous le souhaitez, il y a la prière des malades le jeudi à 18h30.
 
-💶 Les week-ends spirituels ne sont pas facultatifs ! Mettez une centaine d’euro de côté en prévision pour ces deux sorties.
+💶 **Les week-ends spirituels ne sont pas facultatifs !** Mettez une centaine d’euro de côté en prévision pour ces deux sorties.
 
 ⚠️ Pour les mineurs, il faut l’autorisation des parents pour recevoir le baptême.
 
-# Le programme 2025-2026
-Les dates passées sont à retrouver [sur cette page](/about-2025-2026/).
-
-# Le programme **prévisionnel** 2026-2027
+# Le programme 2026-2027
 
 En cours de construction, mais notez les week-ends, c’est ce qui devrait ne pas bouger.
 
@@ -82,3 +81,6 @@ Si possible, posez votre vendredi pour vivre la retraite complète et plonger da
 - jeudi 27 mai : Les autres religions
 - jeudi 10 juin : Le jugement dernier
 - jeudi 24 juin : Se préparer au ciel
+
+# Le programme 2025-2026
+Les dates passées sont à retrouver [sur cette page](/about-2025-2026/).

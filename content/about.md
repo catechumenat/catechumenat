@@ -82,5 +82,7 @@ Si possible, posez votre vendredi pour vivre la retraite complète et plonger da
 - jeudi 10 juin : Le jugement dernier
 - jeudi 24 juin : Se préparer au ciel
 
+Et du 1er au 4 juillet 2027, pour ceux qui le souhaitent, on pourrait aller [au *Forum des chercheurs de Dieu* à Paray le Monial](https://sacrecoeur-paray.org/evenements/chercheurs-dieu/), la cité du Cœur de Jésus !
+
 # Le programme 2025-2026
 Les dates passées sont à retrouver [sur cette page](/about-2025-2026/).

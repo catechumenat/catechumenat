@@ -571,8 +571,8 @@ export { HeadingAnchors }
     <description>Les enseignements de nos rendez-vous du jeudi soir, en podcast.</description>
     <language>fr-FR</language>
     <copyright>© 2025–2026 Laurent Ghirardotti</copyright>
-    <pubDate>2026-05-07T00:00:00Z</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2026 10:03:00 +0000</lastBuildDate>
+    <pubDate>2026-09-10T00:00:00Z</pubDate>
+    <lastBuildDate>Fri, 11 Sep 2026 22:25:44 +0000</lastBuildDate>
     <itunes:image href="https://catechumenat.asaintnicolas.com/img/podcast-logo.jpg"></itunes:image>
     <itunes:category text="Religion &amp;amp; Spirituality">
       <itunes:category text="Christianity" />
@@ -581,6 +581,66 @@ export { HeadingAnchors }
     <itunes:explicit>false</itunes:explicit>
     <itunes:author>Laurent Ghirardotti</itunes:author>
 
+    
+    <item>
+      <title>1. Le signe de croix</title>
+      
+      <link>https://catechumenat.asaintnicolas.com/blog/19-le-signe-de-croix/</link>
+      <guid isPermaLink="true">https://catechumenat.asaintnicolas.com/blog/19-le-signe-de-croix/</guid>
+      <pubDate>2026-09-10T00:00:00Z</pubDate>
+      
+      <description>L’enregistrement de l’enseignement est là :
+27.36 MB
+| Durée 0:28:29
+| Télécharger
+
+Ou par votre application de podcast en ajoutant le lien : https://catechumenat.asaintnicolas.com/feed/podcast.xml
+Les vidéos du parcours adulte
+https://www.youtube.com/watch?v=jrfmIKynoac
+Et plus d’informations sur le parcours en ligne.
+Les vidéos du parcours jeune
+https://www.youtube.com/watch?v=Nt8aAwYm_4E
+Et plus d’information sur le parcours en ligne.
+Bonus !
+La vidéo du témoignage de Jacqueline Aubry, qui a vu la Sainte Vierge quand elle était petite, à l’Ile-Bouchard, et à la fin, elle nous montre comment elle (la Vierge !) faisait le signe de croix (55’30) :
+https://www.youtube.com/watch?v=cEGxpT9my-M</description>
+      <itunes:summary>L’enregistrement de l’enseignement est là :
+27.36 MB
+| Durée 0:28:29
+| Télécharger
+
+Ou par votre application de podcast en ajoutant le lien : https://catechumenat.asaintnicolas.com/feed/podcast.xml
+Les vidéos du parcours adulte
+https://www.youtube.com/watch?v=jrfmIKynoac
+Et plus d’informations sur le parcours en ligne.
+Les vidéos du parcours jeune
+https://www.youtube.com/watch?v=Nt8aAwYm_4E
+Et plus d’information sur le parcours en ligne.
+Bonus !
+La vidéo du témoignage de Jacqueline Aubry, qui a vu la Sainte Vierge quand elle était petite, à l’Ile-Bouchard, et à la fin, elle nous montre comment elle (la Vierge !) faisait le signe de croix (55’30) :
+https://www.youtube.com/watch?v=cEGxpT9my-M</itunes:summary>
+      
+      <content:encoded><![CDATA[<p>L’enregistrement de l’enseignement est là :</p>
+<p><audio controls="" src="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-09-10-le-signe-de-croix.mp3" preload="metadata"><p class="audio-details">27.36 MB
+| Durée 0:28:29
+| <a download="" href="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-09-10-le-signe-de-croix.mp3">Télécharger</a></p>
+</audio></p>
+<p>Ou par votre application de podcast en ajoutant le lien : <a href="https://catechumenat.asaintnicolas.com/feed/podcast.xml">https://catechumenat.asaintnicolas.com/feed/podcast.xml</a></p>
+<h2 id="les-videos-du-parcours-adulte">Les vidéos du parcours adulte</h2>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.css">
+<script defer="defer" src="https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.js"></script>
+<div id="jrfmIKynoac" class="eleventy-plugin-youtube-embed"><lite-youtube videoid="jrfmIKynoac" style="background-image: url('https://i.ytimg.com/vi/jrfmIKynoac/hqdefault.jpg');"><div class="lty-playbtn"></div></lite-youtube></div>
+<p>Et plus d’informations <a href="https://academy.lamourvaincra.com/quest/01">sur le parcours en ligne</a>.</p>
+<h2 id="les-videos-du-parcours-jeune">Les vidéos du parcours jeune</h2>
+<div id="Nt8aAwYm_4E" class="eleventy-plugin-youtube-embed"><lite-youtube videoid="Nt8aAwYm_4E" style="background-image: url('https://i.ytimg.com/vi/Nt8aAwYm_4E/hqdefault.jpg');"><div class="lty-playbtn"></div></lite-youtube></div>
+<p>Et plus d’information <a href="https://academy.lamourvaincra.com/quest/101">sur le parcours en ligne</a>.</p>
+<h2 id="bonus">Bonus !</h2>
+<p>La vidéo du témoignage de Jacqueline Aubry, qui a vu la Sainte Vierge quand elle était petite, à <a href="https://www.ilebouchard.com">l’Ile-Bouchard</a>, et à la fin, elle nous montre comment elle (la Vierge !) faisait le signe de croix (55’30) :</p>
+<div id="cEGxpT9my-M" class="eleventy-plugin-youtube-embed"><lite-youtube videoid="cEGxpT9my-M" style="background-image: url('https://i.ytimg.com/vi/cEGxpT9my-M/hqdefault.jpg');"><div class="lty-playbtn"></div></lite-youtube></div>]]></content:encoded>
+      <enclosure url="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-09-10-le-signe-de-croix.mp3" length="27358368" type="audio/mp3"></enclosure>
+      <itunes:duration>0:28:29</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>2</itunes:season></item>
     
     <item>
       <title>17. La sexualité dans la société contemporaine</title>
@@ -1440,7 +1500,7 @@ Le texte biblique (Gn 2, 15-17 ; 3, 1-17)
 			</p>
 		</footer>
 
-		<!-- This page `/feed/podcast.xml` was built on 2026-09-10T10:03:01.011Z -->
+		<!-- This page `/feed/podcast.xml` was built on 2026-09-11T22:25:45.455Z -->
 		<script type="module" src=""></script>
 		<!-- 100% privacy-first analytics -->
 		<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>

@@ -167,16 +167,14 @@ Les catéchumènes ne pensent pas toujours à parler de leur ancienne situation 
 Vous pouvez demander au catéchumène sa fiche de renseignements, afin de la lire et de la compléter avec lui. C’est aussi le moment d’insister sur les étapes du sacrement et sur les documents qui devront être fournis par la suite.
 
 ### Quels sont les documents à fournir pour être baptisé ?
-
-- Acte de naissance **avec mentions marginales** de moins de 3 mois, à récupérer auprès du service de l’état civil.
+- Acte de naissance **avec mentions marginales** de moins de 3 mois, à récupérer auprès du service de l’état civil ([Service Public](https://www.service-public.gouv.fr/particuliers/vosdroits/F1427)).
 - Fiche de renseignements fournie par la paroisse.
 - Document de célébration d’entrée en catéchuménat.
 - Document de célébration de l’appel décisif.
 
 ### Quels sont les documents à fournir pour être confirmé ?
-
+- Acte de naissance avec mentions marginales de moins de 3 mois, à récupérer auprès du service de l’état civil ([Service Public](https://www.service-public.gouv.fr/particuliers/vosdroits/F1427)).
 - Certificat de baptême **avec mentions marginales**, à demander à la paroisse où le baptême a eu lieu.
-- Acte de naissance avec mentions marginales de moins de 3 mois, à récupérer auprès du service de l’état civil.
 - Fiche de renseignements et fiche de confirmation, fournies par la paroisse.
 - Lettre à l’évêque.
 

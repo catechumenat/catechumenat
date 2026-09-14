@@ -40,7 +40,7 @@ Dès le début de la préparation, on peut réfléchir au choix d’un parrain o
 
 ## Quels sont les documents à fournir pour être confirmé ?
 - certificat de baptême **avec mentions marginales** à demander à la paroisse dans laquelle le baptême a eu lieu
-- acte de naissance **avec mentions marginales de moins de 3 mois** à récupérer auprès du service d’état civil
+- acte de naissance **avec mentions marginales de moins de 3 mois** à récupérer auprès du service d’état civil ([Service Public](https://www.service-public.gouv.fr/particuliers/vosdroits/F1427))
 - fiche de renseignements et fiche de confirmation fournies par la paroisse.
 - lettre à l’évêque
 

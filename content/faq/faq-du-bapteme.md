@@ -48,7 +48,7 @@ Cette démarche ne se fait pas seul : elle est soutenue d’abord par un « *a
 
 ## Quand et comment se passe le baptême ?
 
-Les baptêmes d’adulte se déroulent lors de la Vigile pascale, c’est-à-dire lors de la célébration qui a lieu dans la nuit du samedi au dimanche de Pâques. Les futurs baptisés reçoivent ce jour-là également les deux autres sacrements d’initiation chrétienne que sont la communion et la confirmation. Dans notre paroisse, le baptême se déroule par immersion, c’est-à-dire que le futur baptisé est entièrement plongé dans l’eau baptismale. 
+Les baptêmes d’adulte se déroulent lors de la Vigile pascale, c’est-à-dire lors de la célébration qui a lieu dans la nuit du samedi au dimanche de Pâques. Les futurs baptisés reçoivent ce jour-là également les deux autres sacrements d’initiation chrétienne que sont la communion et la confirmation. Dans notre paroisse, le baptême se déroule par immersion, c’est-à-dire que le futur baptisé est entièrement plongé dans l’eau baptismale (plus de détails dans notre [FAQ du baptême par immersion](/faq/faq-du-bapteme-par-immersion/)). 
 
 ## Quand et comment choisir ses parrain et marraine ?
 
@@ -56,7 +56,7 @@ Dès le début de la préparation, on peut réfléchir au choix d’un parrain e
 
 ## Quels sont les documents à fournir pour être baptisé ?
 
-- copie intégrale **(avec mentions marginales)** de l’acte de naissance
+- copie intégrale **(avec mentions marginales)** de l’acte de naissance ([Service Public](https://www.service-public.gouv.fr/particuliers/vosdroits/F1427))
 - fiche d’inscription paroissiale
 - nom et coordonnées du parrain ou de la marraine (**et leur certificat de baptême**)
 

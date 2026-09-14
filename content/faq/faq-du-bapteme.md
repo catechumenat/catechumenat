@@ -1,6 +1,8 @@
 # FAQ du baptême 
 
-> « *Le baptême fait de nous les témoins du Christ. Dans le rite du Baptême, il y a un signe très fort, très fort, c’est lorsque nous recevons la bougie allumée au cierge pascal. C’est la lumière du Christ mort et ressuscité que nous nous engageons à maintenir allumée en l’alimentant par l’écoute de la Parole de Dieu et la communion assidue à Jésus Eucharistie. […] Le catéchuménat est un cheminement de foi qui ne s’achève pas avec le baptême, mais il se poursuit tout au long de la vie, avec des moments de joie et des moments difficiles. […] Vous êtes appelés à partager votre expérience de foi avec les autres, en témoignant de l’amour du Christ et en devenant des disciples missionnaires.* » (Discours du Pape Léon XIV aux néophytes et catéchumènes Français, [site du Vatican](https://www.vatican.va/content/leo-xiv/fr/speeches/2025/july/documents/20250729-catecumeni-neofiti-francia.html))
+> « *Le baptême fait de nous les témoins du Christ. Dans le rite du Baptême, il y a un signe très fort, très fort, c’est lorsque nous recevons la bougie allumée au cierge pascal. C’est la lumière du Christ mort et ressuscité que nous nous engageons à maintenir allumée en l’alimentant par l’écoute de la Parole de Dieu et la communion assidue à Jésus Eucharistie.* […]  
+> *Le catéchuménat est un cheminement de foi qui ne s’achève pas avec le baptême, mais il se poursuit tout au long de la vie, avec des moments de joie et des moments difficiles.* […]  
+> *Vous êtes appelés à partager votre expérience de foi avec les autres, en témoignant de l’amour du Christ et en devenant des disciples missionnaires.* » (Discours du Pape Léon XIV aux néophytes et catéchumènes Français, [site du Vatican](https://www.vatican.va/content/leo-xiv/fr/speeches/2025/july/documents/20250729-catecumeni-neofiti-francia.html))
 
 ## Quelles sont les conditions à remplir pour recevoir le baptême ?
 

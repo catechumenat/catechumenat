@@ -1,0 +1,391 @@
+<!doctype html>
+<html lang="fr">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Catéchuménat à Saint-Nicolas-des-Champs </title>
+		<meta name="description" content="Les suites de nos enseignements.">
+		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Catéchuménat à Saint-Nicolas-des-Champs ">
+		
+		
+		
+		<style>/* This is an arbitrary CSS string added to the bundle */
+/* Defaults */
+:root {
+	--font-family: -apple-system, system-ui, sans-serif;
+	--font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
+}
+
+/* Theme colors */
+:root {
+	--color-gray-20: #e0e0e0;
+	--color-gray-50: #C0C0C0;
+	--color-gray-90: #333;
+
+	--background-color: #fff;
+
+	--text-color: var(--color-gray-90);
+	--text-color-link: #082840;
+	--text-color-link-active: #5f2b48;
+	--text-color-link-visited: #17050F;
+
+	--syntax-tab-size: 2;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--color-gray-20: #e0e0e0;
+		--color-gray-50: #C0C0C0;
+		--color-gray-90: #dad8d8;
+
+		/* --text-color is assigned to --color-gray-_ above */
+		--text-color-link: #1493fb;
+		--text-color-link-active: #6969f7;
+		--text-color-link-visited: #a6a6f8;
+
+		--background-color: #15202b;
+	}
+}
+
+
+/* Global stylesheet */
+* {
+	box-sizing: border-box;
+}
+
+@view-transition {
+	navigation: auto;
+}
+
+html,
+body {
+	padding: 0;
+	margin: 0 auto;
+	font-family: var(--font-family);
+	color: var(--text-color);
+	background-color: var(--background-color);
+}
+html {
+	overflow-y: scroll;
+}
+body {
+	max-width: 40em;
+}
+
+/* https://www.a11yproject.com/posts/how-to-hide-content/ */
+.visually-hidden:not(:focus):not(:active) {
+	clip: rect(0 0 0 0);
+	clip-path: inset(50%);
+	height: 1px;
+	overflow: hidden;
+	position: absolute;
+	white-space: nowrap;
+	width: 1px;
+}
+
+/* Fluid images via https://www.zachleat.com/web/fluid-images/ */
+img{
+  max-width: 100%;
+}
+img[width][height] {
+  height: auto;
+}
+img[src$=".svg"] {
+  width: 100%;
+  height: auto;
+  max-width: none;
+}
+video,
+iframe {
+	width: 100%;
+	height: auto;
+}
+iframe {
+	aspect-ratio: 16/9;
+}
+
+p:last-child {
+	margin-bottom: 0;
+}
+p {
+	line-height: 1.5;
+}
+
+li {
+	line-height: 1.5;
+}
+
+a[href] {
+	color: var(--text-color-link);
+}
+a[href]:visited {
+	color: var(--text-color-link-visited);
+}
+a[href]:hover,
+a[href]:active {
+	color: var(--text-color-link-active);
+}
+
+main,
+footer {
+	padding: 1rem;
+}
+main :first-child {
+	margin-top: 0;
+}
+
+header {
+	border-bottom: 1px dashed var(--color-gray-20);
+}
+
+#skip-link {
+	text-decoration: none;
+	background: var(--background-color);
+	color: var(--text-color);
+	padding: 0.5rem 1rem;
+	border: 1px solid var(--color-gray-90);
+	border-radius: 2px;
+}
+
+/* Prevent visually-hidden skip link fom pushing content around when focused */
+#skip-link.visually-hidden:focus {
+	position: absolute;
+	top: 1rem;
+	left: 1rem;
+	/* Ensure it is positioned on top of everything else when it is shown */
+	z-index: 999;
+}
+
+.links-nextprev {
+	display: flex;
+	justify-content: space-between;
+	gap: .5em 1em;
+	list-style: "";
+	border-top: 1px dashed var(--color-gray-20);
+	padding: 1em 0;
+}
+.links-nextprev > * {
+	flex-grow: 1;
+}
+.links-nextprev-next {
+	text-align: right;
+}
+
+table {
+	margin: 1em 0;
+}
+table td,
+table th {
+	padding-right: 1em;
+}
+
+pre,
+code {
+	font-family: var(--font-family-monospace);
+}
+pre:not([class*="language-"]) {
+	margin: .5em 0;
+	line-height: 1.375; /* 22px /16 */
+	-moz-tab-size: var(--syntax-tab-size);
+	-o-tab-size: var(--syntax-tab-size);
+	tab-size: var(--syntax-tab-size);
+	-webkit-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+	direction: ltr;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	overflow-x: auto;
+}
+code {
+	word-break: break-all;
+}
+
+/* Header */
+header {
+	display: flex;
+	gap: 1em;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+	padding: 1em;
+}
+.home-link {
+	flex-grow: 1;
+	font-size: 1em; /* 16px /16 */
+	font-weight: 700;
+}
+.home-link:link:not(:hover) {
+	text-decoration: none;
+}
+
+/* Nav */
+.nav {
+	display: flex;
+	gap: .5em 1em;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+.nav-item {
+	display: inline-block;
+}
+.nav-item a[href]:not(:hover) {
+	text-decoration: none;
+}
+.nav a[href][aria-current="page"] {
+	text-decoration: underline;
+}
+
+/* Posts list */
+.postlist {
+	counter-reset: start-from var(--postlist-index);
+	list-style: none;
+	padding: 0;
+	padding-left: 1.5rem;
+}
+.postlist-item {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: baseline;
+	counter-increment: start-from -1;
+	margin-bottom: 1em;
+}
+.postlist-item:before {
+	display: inline-block;
+	pointer-events: none;
+	content: "" counter(start-from, decimal-leading-zero) ". ";
+	line-height: 100%;
+	text-align: right;
+	margin-left: -1.5rem;
+}
+.postlist-date,
+.postlist-item:before {
+	font-size: 0.8125em; /* 13px /16 */
+	color: var(--color-gray-90);
+}
+.postlist-date {
+	word-spacing: -0.5px;
+}
+.postlist-link {
+	font-size: 1.1875em; /* 19px /16 */
+	font-weight: 700;
+	flex-basis: calc(100% - 1.5rem);
+	padding-left: .25em;
+	padding-right: .5em;
+	text-underline-position: from-font;
+	text-underline-offset: 0;
+	text-decoration-thickness: 1px;
+}
+.postlist-item-active .postlist-link {
+	font-weight: bold;
+}
+
+/* Tags */
+.post-tag {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	text-transform: capitalize;
+	font-style: italic;
+}
+.postlist-item > .post-tag {
+	align-self: center;
+}
+
+/* Tags list */
+.post-metadata {
+	display: inline-flex;
+	flex-wrap: wrap;
+	gap: .5em;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.post-metadata time {
+	margin-right: 1em;
+}</style>
+		
+	</head>
+	<body>
+		<a href="#main" id="skip-link" class="visually-hidden">Skip to main content</a>
+
+		<header>
+			<a href="/" class="home-link">Catéchuménat à Saint-Nicolas-des-Champs </a>
+			<nav>
+				<h2 class="visually-hidden" id="top-level-navigation-menu">Top level navigation menu</h2>
+				<ul class="nav">
+					<li class="nav-item"><a href="/">Home</a></li>
+					<li class="nav-item"><a href="/blog/">Archive</a></li>
+					<li class="nav-item"><a href="/about/">Le programme</a></li>
+					<li class="nav-item"><a href="/accompagner/">L’accompagnement</a></li>
+					<li class="nav-item"><a href="/feed/feed.xml">Feed</a></li>
+					<li class="nav-item"><a href="/liens/">Des liens</a></li>
+				</ul>
+			</nav>
+		</header>
+
+		<main id="main">
+			<heading-anchors>
+				
+<h1 id="faq-du-bapteme">FAQ du baptême</h1>
+<blockquote>
+<p>Le baptême fait de nous des témoins du Christ. Dans le rite du baptême, il y a un signe très fort, c’est lorsque nous recevons la bougie allumée au cierge pascal. C’est la lumière du Christ mort et ressuscité que nous nous engageons à maintenir allumée en l’alimentant à l’écoute de la Parole de Dieu et la communion assidue à Jésus Eucharistie… Le catéchuménat est un chemin de foi qui ne s’achève pas avec le baptême, mais il se poursuit tout au long de la vie. Vous êtes appelés à partager votre expérience de foi avec les autres, en témoignant de l’amour du Christ et en devenant des disciples missionnaires. Pape Léon XIV</p>
+</blockquote>
+<h2 id="quelles-sont-les-conditions-a-remplir-pour-recevoir-le-bapteme">Quelles sont les conditions à remplir pour recevoir le baptême ?</h2>
+<p>Il faut en avoir le désir et être prêt à se former. Un baptême adulte nécessite environ deux ans de préparation avec des rencontres régulières pour mieux connaître le Christ et la foi de l’Église.</p>
+<p>D’autres éléments, comme la situation maritale de celui (ou celle) qui demande le sacrement, sont également être pris en considération et donnent lieu à un échange avec le prêtre en charge du catéchuménat.</p>
+<h2 id="qu-est-ce-que-le-catechumenat">Qu’est-ce que le « <em>catéchuménat</em> » ?</h2>
+<p>C’est le nom que l’on donne à la préparation au baptême des adultes. Pendant deux ans, le futur baptisé est accompagné par une équipe de paroissiens et un prêtre. Ce temps de préparation peut paraître long, mais c’est un temps donné pour mieux connaître le Christ et son Eglise. Cette préparation permet à chacun de s’exprimer et d’échanger librement, en découvrant les bases de la foi chrétienne. Elle vise la conversion, c’est-à-dire un changement pour vivre une vie meilleure, en chrétien. Pour participer au catéchuménat, on peut s’adresser à un prêtre ou au <a href="https://dioceseparis.fr/trouver-ma-paroisse-a-paris.html">secrétariat de la paroisse.</a></p>
+<h2 id="en-quoi-consiste-le-catechumenat">En quoi consiste le catéchuménat ?</h2>
+<p>La formation consiste en des soirées de prière, de partage et de formations — une soirée tous les 15 jours — ainsi que deux week-ends de retraite dans l’année avec le groupe des accompagnateurs et les autres catéchumènes.</p>
+<p>Il existe différentes étapes :</p>
+<h3 id="l-initiation-chretienne">L’initiation chrétienne</h3>
+<p>C’est le temps qui précède l’entrée en catéchuménat, un temps (court) de discernement qui permet au candidat de clarifier les raisons pour lesquelles il (elle) demande le baptême.</p>
+<h3 id="l-entree-en-catechumenat">L’entrée en catéchuménat</h3>
+<p>C’est la première étape liturgique de l’initiation chrétienne des adultes. Elle se déroule à l’extérieur de l’église, au début d’une messe du dimanche.</p>
+<h3 id="l-appel-decisif-au-debut-du-careme">L’appel décisif au début du Carême</h3>
+<p>Cette célébration a lieu le 1er samedi après le mercredi des Cendres au cours d’une messe présidée par l’archevêque de Paris ou un évêque auxiliaire. Elle termine le temps du catéchuménat et ouvre le temps ultime avant le baptême. Le parrain et/ou la marraine doivent dans la mesure du possible être présents et, à défaut l’accompagnateur. Lors de cet appel, le catéchumène recevra une écharpe violette qui le rendra plus identifiable lors des messes jusqu’à son baptême.</p>
+<h3 id="les-scrutins">Les « <em>scrutins</em> »</h3>
+<p>Après l’appel décisif par l’évêque, le catéchumène porte une écharpe violette et s’installe, pendant la messe, avec des accompagnateurs au banc d’œuvre. <strong>Chacun des six dimanches qui suit cet appel est une étape importante vers le baptême</strong>, il est donc important de prévoir d’y assister à Saint-Nicolas-des-Champs.</p>
+<p>À chacune des messes, le prêtre fait une prière, un exorcisme et une onction d’huile des catéchumènes pour les fortifier. On appelle ces célébrations « <em>scrutins</em> » parce que les catéchumènes se laissent scruter par Dieu et scrutent leur propre cœur à sa lumière.</p>
+<h2 id="quelles-sont-les-dates-a-noter-imperativement">Quelles sont les dates à noter impérativement ?</h2>
+<ul>
+<li>les deux week-ends auront lieu les 7 et 8 novembre 2026 à Avon et les 20 au 21 Mars 2027 à Nevers.</li>
+<li>l’appel décisif des futurs baptisés 2027 aura lieu le 13 février 2027.</li>
+<li>les baptêmes auront lieu le samedi 27 mars 2027 à 21h.</li>
+</ul>
+<h2 id="le-catechumene-est-il-seul-dans-cette-demarche-qui-l-accompagne">Le catéchumène est-il seul dans cette démarche ? Qui l’accompagne ?</h2>
+<p>Cette démarche ne se fait pas seul : elle est soutenue d’abord par un « <em>accompagnateur</em> », membre de la paroisse, que l’on rencontre régulièrement. Celui-ci apporte au catéchumène une catéchèse, une réflexion doctrinale, un partage de vie et un lien avec la communauté chrétienne. La démarche est aussi soutenue par la participation à un groupe composé d’autres catéchumènes et d’accompagnateurs. Ce groupe est un lieu de partage de la parole de Dieu, un temps d’expression libre. C’est aussi un moyen de trouver sa place et de s’enraciner dans l’Église.</p>
+<h2 id="quand-et-comment-se-passe-le-bapteme">Quand et comment se passe le baptême ?</h2>
+<p>Les baptêmes d’adulte se déroulent lors de la Vigile pascale, c’est-à-dire lors de la célébration qui a lieu dans la nuit du samedi au dimanche de Pâques. Les futurs baptisés reçoivent ce jour-là également les deux autres sacrements d’initiation chrétienne que sont la communion et la confirmation. Dans notre paroisse, le baptême se déroule par immersion, c’est-à-dire que le futur baptisé est entièrement plongé dans l’eau baptismale.</p>
+<h2 id="quand-et-comment-choisir-ses-parrain-et-marraine">Quand et comment choisir ses parrain et marraine ?</h2>
+<p>Dès le début de la préparation, on peut réfléchir au choix d’un parrain et d’une marraine. Leur rôle sera d’accompagner leur filleul(e) tout au long de sa vie chrétienne. Ils doivent être catholique, confirmé(e) et âgé(e) de plus de 16 ans. Il n’est pas obligatoire d’avoir un parrain ET une marraine, un seul des deux suffit. Si vous n’avez pas dans votre entourage de personnes baptisés, n’hésitez pas à en parler à votre accompagnateur ou au prêtre qui s’occupe du catéchuménat pour qu’ils vous aident dans votre réflexion.</p>
+<h2 id="quels-sont-les-documents-a-fournir-pour-etre-baptise">Quels sont les documents à fournir pour être baptisé ?</h2>
+<ul>
+<li>copie intégrale <strong>(avec mentions marginales)</strong> de l’acte de naissance</li>
+<li>fiche d’inscription paroissiale</li>
+<li>nom et coordonnées du parrain ou de la marraine (<strong>et leur certificat de baptême</strong>)</li>
+</ul>
+<h2 id="combien-coute-la-preparation-au-bapteme">Combien coûte la préparation au baptême ?</h2>
+<p>Rien. Il vous sera cependant demandé de participer aux frais d’hébergement, de transport et de nourriture des deux week-end organisés dans l’année pendant la formation.</p>
+<p>Il est également possible de faire un don à la paroisse à l’issue de la préparation afin de soutenir les différentes actions menées auprès des personnes en difficulté, des personnes en quête de Dieu…</p>
+
+
+			</heading-anchors>
+		</main>
+
+		<footer>
+			<p>
+				<em>Built with <a href="https://www.11ty.dev/">Eleventy v3.1.2</a></em>
+			</p>
+		</footer>
+
+		<!-- This page `/faq/faq-du-bapteme/` was built on 2026-09-14T21:26:41.481Z -->
+		<script type="module" src="/dist/xbxy_EL6cU.js"></script>
+		<!-- 100% privacy-first analytics -->
+		<script async="" src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+	</body>
+</html>

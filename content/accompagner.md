@@ -14,6 +14,7 @@ Le diocèse de Paris propose une formation pour les accompagnateurs, dont voici 
 4. [Les quatre piliers](/accompagnement/4-les-quatre-piliers/)
 5. [Les étapes](/accompagnement/5-etapes/)
 
+Un discours du pape Léon XIV lors de sa rencontre avec les membres de l’Assemblée synodale provinciale, le 26 septembre 2026, est très éclairant, [à relire ici](https://dioceseparis.fr/rencontre-du-pape-leon-xiv-avec.html).
 
 # La FAQ de l’accompagnement
 

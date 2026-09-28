@@ -3,8 +3,8 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Catéchuménat à Saint-Nicolas-des-Champs </title>
-		<meta name="description" content="Les suites de nos enseignements.">
+		<title>2. Le Notre Père</title>
+		<meta name="description" content="La reine des prières">
 		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Catéchuménat à Saint-Nicolas-des-Champs ">
 		
 		
@@ -306,6 +306,174 @@ header {
 }
 .post-metadata time {
 	margin-right: 1em;
+}
+/**
+ * okaidia theme for JavaScript, CSS and HTML
+ * Loosely based on Monokai textmate theme by http://www.monokai.nl/
+ * @author ocodia
+ */
+
+code[class*="language-"],
+pre[class*="language-"] {
+	color: #f8f8f2;
+	background: none;
+	text-shadow: 0 1px rgba(0, 0, 0, 0.3);
+	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+	font-size: 1em;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	word-wrap: normal;
+	line-height: 1.5;
+
+	-moz-tab-size: 4;
+	-o-tab-size: 4;
+	tab-size: 4;
+
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+	padding: 1em;
+	margin: .5em 0;
+	overflow: auto;
+	border-radius: 0.3em;
+}
+
+:not(pre) > code[class*="language-"],
+pre[class*="language-"] {
+	background: #272822;
+}
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+	padding: .1em;
+	border-radius: .3em;
+	white-space: normal;
+}
+
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+	color: #8292a2;
+}
+
+.token.punctuation {
+	color: #f8f8f2;
+}
+
+.token.namespace {
+	opacity: .7;
+}
+
+.token.property,
+.token.tag,
+.token.constant,
+.token.symbol,
+.token.deleted {
+	color: #f92672;
+}
+
+.token.boolean,
+.token.number {
+	color: #ae81ff;
+}
+
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin,
+.token.inserted {
+	color: #a6e22e;
+}
+
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string,
+.token.variable {
+	color: #f8f8f2;
+}
+
+.token.atrule,
+.token.attr-value,
+.token.function,
+.token.class-name {
+	color: #e6db74;
+}
+
+.token.keyword {
+	color: #66d9ef;
+}
+
+.token.regex,
+.token.important {
+	color: #fd971f;
+}
+
+.token.important,
+.token.bold {
+	font-weight: bold;
+}
+.token.italic {
+	font-style: italic;
+}
+
+.token.entity {
+	cursor: help;
+}
+/*
+ * New diff- syntax
+ */
+
+pre[class*="language-diff-"] {
+	--eleventy-code-padding: 1.25em;
+	padding-left: var(--eleventy-code-padding);
+	padding-right: var(--eleventy-code-padding);
+}
+.token.deleted {
+	background-color: hsl(0, 51%, 37%);
+	color: inherit;
+}
+.token.inserted {
+	background-color: hsl(126, 31%, 39%);
+	color: inherit;
+}
+
+/* Make the + and - characters unselectable for copy/paste */
+.token.prefix.unchanged,
+.token.prefix.inserted,
+.token.prefix.deleted {
+	-webkit-user-select: none;
+	user-select: none;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+.token.prefix.inserted,
+.token.prefix.deleted {
+	width: var(--eleventy-code-padding);
+	background-color: rgba(0,0,0,.2);
+}
+
+/* Optional: full-width background color */
+.token.inserted:not(.prefix),
+.token.deleted:not(.prefix) {
+	display: block;
+	margin-left: calc(-1 * var(--eleventy-code-padding));
+	margin-right: calc(-1 * var(--eleventy-code-padding));
+	text-decoration: none; /* override del, ins, mark defaults */
+	color: inherit; /* override del, ins, mark defaults */
 }</style>
 		
 	</head>
@@ -330,21 +498,34 @@ header {
 		<main id="main">
 			<heading-anchors>
 				
-<h1 id="le-carnet-de-bord">Le carnet de bord</h1>
-<p>Carnet de bord, journal de bord, ou même tout simplement « <em>tenir son journal</em> ».</p>
-<p>Un catéchumène n’est pas forcément un grand aventurier mais l’aventure qu’il entreprend, elle, est grande, puisqu’il s’agit pour lui de se laisser rencontrer par Dieu. Dans cette aventure, il n’est pas seul, il est accompagné par une personne qui « <em>embarque</em> » avec lui et qui sera témoin, à travers son parcours, de l’expérience qu’il fait de se mettre en route sous le vent de l’Esprit.</p>
-<p>Il s’agit donc pour nous, accompagnateurs de noter, rencontre après rencontre, les faits marquants du parcours, les réactions, les mots et les expressions qui reviennent, les questions, les difficultés, les joies, les découvertes du catéchumène, ce qui leur permettra, après quelques temps, de repérer ses insistances, ses blocages ou ses avancées, et de dégager ainsi le fil rouge qui relie ces différents moments et leur donner sens ou cohérence. Ecrire après coup permet de prendre du recul, mais il ne faut pas trop tarder.</p>
-<p>Quel intérêt ?</p>
-<ul>
-<li>Garder la mémoire du parcours défini ensemble afin de tenir une boussole, vérifier que l’on garde un cap et en préciser les étapes d’une part, et, d’autre part, rester attentif à tout ce qui met le catéchumène en mouvement, à ce qui retentit en lui et le fait bouger.</li>
-<li>Faciliter la relecture avec le catéchumène de l’œuvre de l’Esprit Saint dans son histoire particulière et à la suite des croyants qui l’ont précédé. Il permet de prendre note des relations qu’il établit peu à peu entre sa vie et ce qu’il découvre de la foi, de ce qui s’éclaire dans la compréhension de sa démarche, de ce qui fait « <em>écho</em> » en lui.</li>
-</ul>
-<p>Le chemin à la suite du Christ est un chemin de disciple, de conversion permanente. La relecture fait partie du processus de croissance et de maturation de la Foi.</p>
-<p>Relire sa vie, sa mission ou un accompagnement, initier les personnes que l’on accompagne à la relecture pour les aider à discerner l’Esprit Saint à l’œuvre dans leur vie ; ceci est un appui dans la vie chrétienne.</p>
-<blockquote>
-<p>Le Rituel de l’Initiation Chrétienne… est destiné aux hommes et aux femmes qui, éclairés par l’Esprit Saint et ayant entendus l’annonce du mystère du Christ, cherchent consciemment et librement le Dieu vivant, et entreprennent un itinéraire de Foi et de conversion. (RICA n° 36)</p>
-</blockquote>
 
+
+<h1 id="2-le-notre-pere">2. Le Notre Père</h1>
+
+<ul class="post-metadata">
+	<li><time datetime="2026-09-24">24 septembre 2026</time></li>
+	<li><a href="/tags/podcastepisode/" class="post-tag">podcastEpisode</a></li>
+</ul>
+
+<p>L’enregistrement de l’enseignement est là :</p>
+<p><audio controls="" src="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-09-24-Notre-Pere.mp3" preload="metadata"><p class="audio-details">33.18 MB
+| Durée 0:34:22
+| <a download="" href="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-09-24-Notre-Pere.mp3">Télécharger</a></p>
+</audio></p>
+<p>Ou par votre application de podcast en ajoutant le lien : <a href="https://catechumenat.asaintnicolas.com/feed/podcast.xml">https://catechumenat.asaintnicolas.com/feed/podcast.xml</a></p>
+<h2 id="les-videos-du-parcours-adulte">Les vidéos du parcours adulte</h2>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.css">
+<script defer="defer" src="https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.js"></script>
+<div id="qebDglKwHYc" class="eleventy-plugin-youtube-embed"><lite-youtube videoid="qebDglKwHYc" style="background-image: url('https://i.ytimg.com/vi/qebDglKwHYc/hqdefault.jpg');"><div class="lty-playbtn"></div></lite-youtube></div>
+<p>Et plus d’informations <a href="https://academy.lamourvaincra.com/quest/04">sur le parcours en ligne</a>.</p>
+<h2 id="les-videos-du-parcours-jeune">Les vidéos du parcours jeune</h2>
+<div id="se8ZELrJkS4" class="eleventy-plugin-youtube-embed"><lite-youtube videoid="se8ZELrJkS4" style="background-image: url('https://i.ytimg.com/vi/se8ZELrJkS4/hqdefault.jpg');"><div class="lty-playbtn"></div></lite-youtube></div>
+<p>Et plus d’information <a href="https://academy.lamourvaincra.com/quest/103">sur le parcours en ligne</a>.</p>
+<h2 id="en-musique">En musique</h2>
+<div id="X7uBkTcx3Jg" class="eleventy-plugin-youtube-embed"><lite-youtube videoid="X7uBkTcx3Jg" style="background-image: url('https://i.ytimg.com/vi/X7uBkTcx3Jg/hqdefault.jpg');"><div class="lty-playbtn"></div></lite-youtube></div>
+
+<ul class="links-nextprev"><li class="links-nextprev-prev">← Previous<br> <a href="/blog/19-le-signe-de-croix/">1. Le signe de croix</a></li>
+</ul>
 
 			</heading-anchors>
 		</main>
@@ -355,7 +536,7 @@ header {
 			</p>
 		</footer>
 
-		<!-- This page `/accompagnement/3-carnet-de-bord-eventuel/` was built on 2026-09-28T19:18:01.671Z -->
+		<!-- This page `/blog/20-le-Notre-Pere/` was built on 2026-09-28T19:18:01.673Z -->
 		<script type="module" src="/dist/xbxy_EL6cU.js"></script>
 		<!-- 100% privacy-first analytics -->
 		<script async="" src="https://scripts.simpleanalyticscdn.com/latest.js"></script>

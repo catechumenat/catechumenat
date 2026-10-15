@@ -27,7 +27,8 @@ https://www.youtube.com/watch?v=cwPHKiBzrpY
 ### Sainte Thérèse de l'enfant Jésus
 https://www.youtube.com/watch?v=ujNOa_-w32k
 
-## S'armer face au démon - avec Jean-Baptiste Edart
+## Le combat spirituel
+### S'armer face au démon - avec Jean-Baptiste Edart
 https://www.youtube.com/watch?v=boOs2YpfBks
 
 ## Sur l’Eucharistie

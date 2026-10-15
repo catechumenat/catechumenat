@@ -34,6 +34,7 @@ https://www.youtube.com/watch?v=boOs2YpfBks
 ## Sur l’Eucharistie
 
 Avec Frédéric Guillaud, agrégé de philosophie
+
 https://www.youtube.com/watch?v=Q_CmEQChWcY
 
 À travers les psaumes, l'articulation entre raison, science et foi, et la liturgie et le chant liturgique, Catherine et Florian Laguens nous proposent un itinéraire en trois étapes pour tenter de répondre à cette question : la foi est-elle sentimentale ?

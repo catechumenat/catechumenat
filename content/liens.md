@@ -7,7 +7,7 @@ const eleventyNavigation = {
 
 # Quelques liens vers de bons enseignements
 
-## S'armer face au démon - Empreinte avec Jean-Baptiste Edart
+## S'armer face au démon - avec Jean-Baptiste Edart
 https://www.youtube.com/watch?v=boOs2YpfBks
 
 ## Sur l’Eucharistie

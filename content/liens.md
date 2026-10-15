@@ -7,10 +7,13 @@ const eleventyNavigation = {
 
 # Quelques liens vers de bons enseignements
 
-Super enseignement sur l’Eucharistie :
+## S'armer face au démon - Empreinte avec Jean-Baptiste Edart
+https://www.youtube.com/watch?v=boOs2YpfBks
+
+## Sur l’Eucharistie
 
 https://www.youtube.com/watch?v=awGzvpzo7lw
 
-Une remarque judicieuse sur nos prières :
+## Sur nos prières
 
 https://www.youtube.com/watch?v=o-oTqfhJtjM

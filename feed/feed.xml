@@ -5,15 +5,28 @@
   <subtitle>Nos derniers enseignements.</subtitle>
   <link href="https://catechumenat.asaintnicolas.com/feed/feed.xml" rel="self" />
   <link href="https://catechumenat.asaintnicolas.com/" />
-  <updated>2026-09-24T00:00:00Z</updated>
+  <updated>2026-10-22T00:00:00Z</updated>
   <id>https://catechumenat.asaintnicolas.com/</id>
   <author>
     <name>Laurent Ghirardotti</name>
   </author>
   <entry>
-    <title>2. Le « Je vous salue, Marie »</title>
+    <title>Conférence de Guillaume-François Saling</title>
+    <link href="https://catechumenat.asaintnicolas.com/blog/22-Conference-de-Guillaume-Fran%C3%A7ois-Saling/" />
+    <updated>2026-10-22T00:00:00Z</updated>
+    <id>https://catechumenat.asaintnicolas.com/blog/22-Conference-de-Guillaume-Fran%C3%A7ois-Saling/</id>
+    <content type="html">&lt;p&gt;Voilà pour l’enregistrement de la conférence, les questions réponses arrivent dans un second temps.&lt;/p&gt;
+&lt;p&gt;&lt;audio controls=&quot;&quot; src=&quot;https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-10-22-G.-F.-Saling-1-conference.mp3&quot; preload=&quot;metadata&quot;&gt;&lt;p class=&quot;audio-details&quot;&gt;38.35 MB
+| Durée 0:38:21
+| &lt;a download=&quot;&quot; href=&quot;https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-10-22-G.-F.-Saling-1-conference.mp3&quot;&gt;Télécharger&lt;/a&gt;&lt;/p&gt;
+&lt;/audio&gt;&lt;/p&gt;
+&lt;p&gt;Ou par votre application de podcast en ajoutant le lien : &lt;a href=&quot;https://catechumenat.asaintnicolas.com/feed/podcast.xml&quot;&gt;https://catechumenat.asaintnicolas.com/feed/podcast.xml&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>3. Le « Je vous salue, Marie »</title>
     <link href="https://catechumenat.asaintnicolas.com/blog/21-le-je-vous-salue-marie/" />
-    <updated>2026-09-24T00:00:00Z</updated>
+    <updated>2026-10-08T00:00:00Z</updated>
     <id>https://catechumenat.asaintnicolas.com/blog/21-le-je-vous-salue-marie/</id>
     <content type="html">&lt;p&gt;L’enregistrement de l’enseignement est là… mais il manque le début… et le micro, du coup le son n’est vraiment pas fou. Mais les micros sont arrivés pour la prochaine fois !&lt;/p&gt;
 &lt;p&gt;&lt;audio controls=&quot;&quot; src=&quot;https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-10-08-Ave-Maria.mp3&quot; preload=&quot;metadata&quot;&gt;&lt;p class=&quot;audio-details&quot;&gt;26.84 MB
@@ -219,27 +232,6 @@ Il y a également &lt;a href=&quot;https://www.vatican.va/roman_curia/pontifical
 &lt;h2 id=&quot;les-videos-du-parcours-jeune&quot;&gt;Les vidéos du parcours jeune&lt;/h2&gt;
 &lt;div id=&quot;Fjap93IhZm4&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;Fjap93IhZm4&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/Fjap93IhZm4/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
 &lt;p&gt;Et plus d’information &lt;a href=&quot;https://academy.lamourvaincra.com/quest/131&quot;&gt;sur le parcours en ligne&lt;/a&gt;.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>12. La Trinité</title>
-    <link href="https://catechumenat.asaintnicolas.com/blog/12-la-Trinite/" />
-    <updated>2026-02-05T00:00:00Z</updated>
-    <id>https://catechumenat.asaintnicolas.com/blog/12-la-Trinite/</id>
-    <content type="html">&lt;p&gt;L’enregistrement de mon enseignement est là :&lt;/p&gt;
-&lt;p&gt;&lt;audio controls=&quot;&quot; src=&quot;https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-02-05-la-Trinite.mp3&quot; preload=&quot;metadata&quot;&gt;&lt;p class=&quot;audio-details&quot;&gt;20.24 MB
-| Durée 0:20:57
-| &lt;a download=&quot;&quot; href=&quot;https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-02-05-la-Trinite.mp3&quot;&gt;Télécharger&lt;/a&gt;&lt;/p&gt;
-&lt;/audio&gt;&lt;/p&gt;
-&lt;p&gt;Ou par votre application de podcast en ajoutant le lien : &lt;a href=&quot;https://catechumenat.asaintnicolas.com/feed/podcast.xml&quot;&gt;https://catechumenat.asaintnicolas.com/feed/podcast.xml&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;les-videos-du-parcours-adulte&quot;&gt;Les vidéos du parcours adulte&lt;/h2&gt;
-&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.css&quot;&gt;
-&lt;script defer=&quot;defer&quot; src=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.js&quot;&gt;&lt;/script&gt;
-&lt;div id=&quot;wStCdnaNg3Y&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;wStCdnaNg3Y&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/wStCdnaNg3Y/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
-&lt;p&gt;Et plus d’informations &lt;a href=&quot;https://academy.lamourvaincra.com/quest/40&quot;&gt;sur le parcours en ligne&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;les-videos-du-parcours-jeune&quot;&gt;Les vidéos du parcours jeune&lt;/h2&gt;
-&lt;div id=&quot;LZXXV5mb_TQ&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;LZXXV5mb_TQ&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/LZXXV5mb_TQ/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
-&lt;p&gt;Et plus d’information &lt;a href=&quot;https://academy.lamourvaincra.com/quest/127&quot;&gt;sur le parcours en ligne&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
 </feed>

@@ -571,8 +571,8 @@ export { HeadingAnchors }
     <description>Les enseignements de nos rendez-vous du jeudi soir, en podcast.</description>
     <language>fr-FR</language>
     <copyright>© 2025–2026 Laurent Ghirardotti</copyright>
-    <pubDate>2026-09-24T00:00:00Z</pubDate>
-    <lastBuildDate>Thu, 15 Oct 2026 20:49:59 +0000</lastBuildDate>
+    <pubDate>2026-10-22T00:00:00Z</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2026 08:11:33 +0000</lastBuildDate>
     <itunes:image href="https://catechumenat.asaintnicolas.com/img/podcast-logo.jpg"></itunes:image>
     <itunes:category text="Religion &amp;amp; Spirituality">
       <itunes:category text="Christianity" />
@@ -583,11 +583,42 @@ export { HeadingAnchors }
 
     
     <item>
-      <title>2. Le « Je vous salue, Marie »</title>
+      <title>Conférence de Guillaume-François Saling</title>
+      
+      <link>https://catechumenat.asaintnicolas.com/blog/22-Conference-de-Guillaume-Fran%C3%A7ois-Saling/</link>
+      <guid isPermaLink="true">https://catechumenat.asaintnicolas.com/blog/22-Conference-de-Guillaume-Fran%C3%A7ois-Saling/</guid>
+      <pubDate>2026-10-22T00:00:00Z</pubDate>
+      
+      <description>Voilà pour l’enregistrement de la conférence, les questions réponses arrivent dans un second temps.
+38.35 MB
+| Durée 0:38:21
+| Télécharger
+
+Ou par votre application de podcast en ajoutant le lien : https://catechumenat.asaintnicolas.com/feed/podcast.xml</description>
+      <itunes:summary>Voilà pour l’enregistrement de la conférence, les questions réponses arrivent dans un second temps.
+38.35 MB
+| Durée 0:38:21
+| Télécharger
+
+Ou par votre application de podcast en ajoutant le lien : https://catechumenat.asaintnicolas.com/feed/podcast.xml</itunes:summary>
+      
+      <content:encoded><![CDATA[<p>Voilà pour l’enregistrement de la conférence, les questions réponses arrivent dans un second temps.</p>
+<p><audio controls="" src="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-10-22-G.-F.-Saling-1-conference.mp3" preload="metadata"><p class="audio-details">38.35 MB
+| Durée 0:38:21
+| <a download="" href="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-10-22-G.-F.-Saling-1-conference.mp3">Télécharger</a></p>
+</audio></p>
+<p>Ou par votre application de podcast en ajoutant le lien : <a href="https://catechumenat.asaintnicolas.com/feed/podcast.xml">https://catechumenat.asaintnicolas.com/feed/podcast.xml</a></p>]]></content:encoded>
+      <enclosure url="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-10-22-G.-F.-Saling-1-conference.mp3" length="38348672" type="audio/mp3"></enclosure>
+      <itunes:duration>0:38:21</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>2</itunes:season></item>
+    
+    <item>
+      <title>3. Le « Je vous salue, Marie »</title>
       
       <link>https://catechumenat.asaintnicolas.com/blog/21-le-je-vous-salue-marie/</link>
       <guid isPermaLink="true">https://catechumenat.asaintnicolas.com/blog/21-le-je-vous-salue-marie/</guid>
-      <pubDate>2026-09-24T00:00:00Z</pubDate>
+      <pubDate>2026-10-08T00:00:00Z</pubDate>
       
       <description>L’enregistrement de l’enseignement est là… mais il manque le début… et le micro, du coup le son n’est vraiment pas fou. Mais les micros sont arrivés pour la prochaine fois !
 26.84 MB
@@ -1614,7 +1645,7 @@ Le texte biblique (Gn 2, 15-17 ; 3, 1-17)
 			</p>
 		</footer>
 
-		<!-- This page `/feed/podcast.xml` was built on 2026-10-15T20:50:00.640Z -->
+		<!-- This page `/feed/podcast.xml` was built on 2026-10-23T08:11:34.550Z -->
 		<script type="module" src=""></script>
 		<!-- 100% privacy-first analytics -->
 		<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>

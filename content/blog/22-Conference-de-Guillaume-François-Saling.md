@@ -1,6 +1,6 @@
 ---
 title: Conférence de Guillaume-François Saling
-description: L’auteur de *Pour toi qui demandes le baptême* et de *Pour toi qui as reçu le baptême*
+description: L’auteur de « Pour toi qui demandes le baptême » et de « Pour toi qui as reçu le baptême »
 date: 2026-10-22
 tags: ['podcastEpisode']
 episode:
@@ -18,4 +18,4 @@ Voilà pour l’enregistrement de la conférence, les questions réponses arrive
 
 Ou par votre application de podcast en ajoutant le lien : [https://catechumenat.asaintnicolas.com/feed/podcast.xml](https://catechumenat.asaintnicolas.com/feed/podcast.xml)
 
-![Super soirée](/assets/img/2026-10-22-G.-F.-Saling.jpeg)
+![Super soirée](https://asaintnicolas.com/content/images/size/w2000/2026/10/DSC_5772-1.jpeg)

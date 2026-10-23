@@ -18,3 +18,4 @@ Voilà pour l’enregistrement de la conférence, les questions réponses arrive
 
 Ou par votre application de podcast en ajoutant le lien : [https://catechumenat.asaintnicolas.com/feed/podcast.xml](https://catechumenat.asaintnicolas.com/feed/podcast.xml)
 
+![Super soirée](/assets/img/2026-10-22-G.-F.-Saling.jpeg)

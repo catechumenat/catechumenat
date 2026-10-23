@@ -1,7 +1,7 @@
 ---
-title: 2. Le « Je vous salue, Marie »
+title: 3. Le « Je vous salue, Marie »
 description: Comment ça « Prier Marie » ?
-date: 2026-09-24
+date: 2026-10-08
 tags: ['podcastEpisode']
 episode:
   filename: '2026-10-08-Ave-Maria.mp3'

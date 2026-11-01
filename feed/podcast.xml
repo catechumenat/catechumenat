@@ -572,7 +572,7 @@ export { HeadingAnchors }
     <language>fr-FR</language>
     <copyright>© 2025–2026 Laurent Ghirardotti</copyright>
     <pubDate>2026-10-22T00:00:00Z</pubDate>
-    <lastBuildDate>Sun, 01 Nov 2026 20:10:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 20:30:12 +0000</lastBuildDate>
     <itunes:image href="https://catechumenat.asaintnicolas.com/img/podcast-logo.jpg"></itunes:image>
     <itunes:category text="Religion &amp;amp; Spirituality">
       <itunes:category text="Christianity" />
@@ -1674,11 +1674,13 @@ Le texte biblique (Gn 2, 15-17 ; 3, 1-17)
 		<footer>
 			<p>
 				<em>Built with <a href="https://www.11ty.dev/">Eleventy v3.1.2</a></em>
-				<a href="https://www.simpleanalytics.com/catechumenat.asaintnicolas.com?referral=fovic&utm_source=catechumenat.asaintnicolas.com&utm_content=badge" referrerpolicy="origin" target="_blank"><img src="https://simpleanalyticsbadges.com/catechumenat.asaintnicolas.com?background=transparent&text=677779&logo=677779&border=677779&radius=3&border-width=1&counter=false" width="210" height="50" alt="Simple Analytics" loading="lazy" referrerpolicy="no-referrer" crossorigin="anonymous" /></a>
+			</p>
+			<p>
+				<a href="https://www.simpleanalytics.com/catechumenat.asaintnicolas.com?referral=fovic&utm_source=catechumenat.asaintnicolas.com&utm_content=badge" referrerpolicy="origin" target="_blank"><img src="https://simpleanalyticsbadges.com/catechumenat.asaintnicolas.com?background=transparent&text=677779&logo=ff4f64&radius=3" width="168" height="40" alt="Simple Analytics" loading="lazy" referrerpolicy="no-referrer" crossorigin="anonymous" /></a>
 			</p>
 		</footer>
 
-		<!-- This page `/feed/podcast.xml` was built on 2026-11-01T20:10:59.241Z -->
+		<!-- This page `/feed/podcast.xml` was built on 2026-11-01T20:30:17.599Z -->
 		<script type="module" src=""></script>
 		<!-- 100% privacy-first analytics -->
 		<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>

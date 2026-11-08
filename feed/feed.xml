@@ -5,11 +5,34 @@
   <subtitle>Nos derniers enseignements.</subtitle>
   <link href="https://catechumenat.asaintnicolas.com/feed/feed.xml" rel="self" />
   <link href="https://catechumenat.asaintnicolas.com/" />
-  <updated>2026-10-22T00:00:00Z</updated>
+  <updated>2026-11-05T00:00:00Z</updated>
   <id>https://catechumenat.asaintnicolas.com/</id>
   <author>
     <name>Laurent Ghirardotti</name>
   </author>
+  <entry>
+    <title>Le mystère du Mal</title>
+    <link href="https://catechumenat.asaintnicolas.com/blog/24-Le-mystere-du-Mal/" />
+    <updated>2026-11-05T00:00:00Z</updated>
+    <id>https://catechumenat.asaintnicolas.com/blog/24-Le-mystere-du-Mal/</id>
+    <content type="html">&lt;p&gt;L’enregistrement de l’enseignement est là… mais il on a oublié de mettre un micro sur Pierre-Marie… La prochaine, c’est la bonne !&lt;/p&gt;
+&lt;p&gt;&lt;audio controls=&quot;&quot; src=&quot;https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-11-05-Le-mystere-du-Mal.mp3&quot; preload=&quot;metadata&quot;&gt;&lt;p class=&quot;audio-details&quot;&gt;34.41 MB
+| Durée 0:35:47
+| &lt;a download=&quot;&quot; href=&quot;https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-11-05-Le-mystere-du-Mal.mp3&quot;&gt;Télécharger&lt;/a&gt;&lt;/p&gt;
+&lt;/audio&gt;&lt;/p&gt;
+&lt;p&gt;Ou par votre application de podcast en ajoutant le lien : &lt;a href=&quot;https://catechumenat.asaintnicolas.com/feed/podcast.xml&quot;&gt;https://catechumenat.asaintnicolas.com/feed/podcast.xml&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Et voilà la vidéo d’un exorciste que je vous recommandais :&lt;/p&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.css&quot;&gt;
+&lt;script defer=&quot;defer&quot; src=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.js&quot;&gt;&lt;/script&gt;
+&lt;div id=&quot;boOs2YpfBks&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;boOs2YpfBks&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/boOs2YpfBks/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;h2 id=&quot;les-videos-du-parcours-adulte&quot;&gt;Les vidéos du parcours adulte&lt;/h2&gt;
+&lt;div id=&quot;dU3yWLgqORs&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;dU3yWLgqORs&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/dU3yWLgqORs/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;Et plus d’informations &lt;a href=&quot;https://academy.lamourvaincra.com/quest/10&quot;&gt;sur le parcours en ligne&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;les-videos-du-parcours-jeune&quot;&gt;Les vidéos du parcours jeune&lt;/h2&gt;
+&lt;div id=&quot;TSHXF41mjQk&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;TSHXF41mjQk&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/TSHXF41mjQk/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;Et plus d’information &lt;a href=&quot;https://academy.lamourvaincra.com/quest/107&quot;&gt;sur le parcours en ligne&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Question-réponse avec Guillaume-François Saling</title>
     <link href="https://catechumenat.asaintnicolas.com/blog/23-Questions-reponse-avec-Guillaume-Fran%C3%A7ois-Saling/" />
@@ -201,27 +224,6 @@ Il y a également &lt;a href=&quot;https://www.vatican.va/roman_curia/pontifical
 &lt;p&gt;Et aussi :&lt;/p&gt;
 &lt;div id=&quot;0gnQ5oVuISc&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;0gnQ5oVuISc&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/0gnQ5oVuISc/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
 &lt;p&gt;Et plus d’information &lt;a href=&quot;https://academy.lamourvaincra.com/quest/133&quot;&gt;sur le parcours en ligne&lt;/a&gt;.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>14. La Vie après la mort</title>
-    <link href="https://catechumenat.asaintnicolas.com/blog/14-la-vie-apres-la-mort/" />
-    <updated>2026-03-12T00:00:00Z</updated>
-    <id>https://catechumenat.asaintnicolas.com/blog/14-la-vie-apres-la-mort/</id>
-    <content type="html">&lt;p&gt;L’enregistrement de mon enseignement est là :&lt;/p&gt;
-&lt;p&gt;&lt;audio controls=&quot;&quot; src=&quot;https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-03-12-la-vie-apres-la-mort.mp3&quot; preload=&quot;metadata&quot;&gt;&lt;p class=&quot;audio-details&quot;&gt;43.42 MB
-| Durée 0:45:13
-| &lt;a download=&quot;&quot; href=&quot;https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-03-12-la-vie-apres-la-mort.mp3&quot;&gt;Télécharger&lt;/a&gt;&lt;/p&gt;
-&lt;/audio&gt;&lt;/p&gt;
-&lt;p&gt;Ou par votre application de podcast en ajoutant le lien : &lt;a href=&quot;https://catechumenat.asaintnicolas.com/feed/podcast.xml&quot;&gt;https://catechumenat.asaintnicolas.com/feed/podcast.xml&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;les-videos-du-parcours-adulte&quot;&gt;Les vidéos du parcours adulte&lt;/h2&gt;
-&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.css&quot;&gt;
-&lt;script defer=&quot;defer&quot; src=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.js&quot;&gt;&lt;/script&gt;
-&lt;div id=&quot;aAQaj2pNoW8&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;aAQaj2pNoW8&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/aAQaj2pNoW8/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
-&lt;p&gt;Et plus d’informations &lt;a href=&quot;https://academy.lamourvaincra.com/quest/43&quot;&gt;sur le parcours en ligne&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;les-videos-du-parcours-jeune&quot;&gt;Les vidéos du parcours jeune&lt;/h2&gt;
-&lt;div id=&quot;c2Xlo6yFlko&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;c2Xlo6yFlko&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/c2Xlo6yFlko/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
-&lt;p&gt;Et plus d’information &lt;a href=&quot;https://academy.lamourvaincra.com/quest/129&quot;&gt;sur le parcours en ligne&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
 </feed>

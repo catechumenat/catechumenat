@@ -10,7 +10,7 @@ On appelle l’ensemble des 27 livres bibliques qui racontent ce qui s’est pas
 
 Les anciens testaments n’étaient pas suffisants et un Nouveau Testament était nécessaire pour les accomplir (*He* 8, 7-9). Cette fois, Dieu intervient directement. C’est lui qui, avec Jésus, se fait homme pour sceller lui-même cette alliance. Ainsi, parce que Jésus est Dieu, la Parole éternelle faite chair, cette nouvelle alliance sera enfin définitive et éternelle.
 
-<object data="https://catechumenat.asaintnicolas.com/27-le-Nouveau-Testament.pdf" type="application/pdf" width="750px" height="750px">
+<object data="https://catechumenat.asaintnicolas.com/27-le-Nouveau-Testament.pdf" type="application/pdf" width="100%" height="750px">
     <embed src="https://catechumenat.asaintnicolas.com/27-le-Nouveau-Testament.pdf" type="application/pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://catechumenat.asaintnicolas.com/27-le-Nouveau-Testament.pdf">Download PDF</a>.</p>
     </embed>

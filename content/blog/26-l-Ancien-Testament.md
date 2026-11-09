@@ -12,7 +12,7 @@ Les Psaumes sont le recueil de prières et de chants du peuple juif. Jésus lui-
 
 > « *Louez le Seigneur, tous les peuples ; fêtez-le, tous les pays ! Son amour envers nous s’est montré le plus fort ; éternelle est la fidélité du Seigneur !* » (*Ps* 116)
 
-<object data="https://catechumenat.asaintnicolas.com/26-l-Ancien-Testament.pdf" type="application/pdf" width="750px" height="750px">
+<object data="https://catechumenat.asaintnicolas.com/26-l-Ancien-Testament.pdf" type="application/pdf" width="100%" height="750px">
     <embed src="https://catechumenat.asaintnicolas.com/26-l-Ancien-Testament.pdf" type="application/pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://catechumenat.asaintnicolas.com/26-l-Ancien-Testament.pdf">Download PDF</a>.</p>
     </embed>

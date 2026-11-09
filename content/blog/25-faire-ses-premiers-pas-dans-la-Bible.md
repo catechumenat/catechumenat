@@ -11,6 +11,14 @@ Pour cela, il est important d’avoir une bible papier sous la main, pour que tu
 - la TOB (œcuménique, c’est-à-dire commune aux protestants et aux catholiques), 
 - ou encore la Bible de la liturgie, qui est la version que nous entendons à la messe.
 
+
+<object data="./25-faire-ses-premiers-pas-dans-la-Bible.pdf" type="application/pdf" width="750px" height="750px">
+    <embed src="./25-faire-ses-premiers-pas-dans-la-Bible.pdf" type="application/pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./25-faire-ses-premiers-pas-dans-la-Bible.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
 ## Les vidéos du parcours adulte
 
 https://www.youtube.com/watch?v=P_1rWDx_gFQ

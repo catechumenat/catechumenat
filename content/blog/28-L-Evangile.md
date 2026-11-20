@@ -27,14 +27,14 @@ Autres resources :
 
 ## Les vidéos du parcours adulte
 
-https://www.youtube.com/watch?v=dU3yWLgqORs
+https://www.youtube.com/watch?v=8GvhhPfdBB0
 
-Et plus d’informations [sur le parcours en ligne](https://academy.lamourvaincra.com/quest/10).
+Et plus d’informations [sur le parcours en ligne](https://academy.lamourvaincra.com/quest/13).
 
 ## Les vidéos du parcours jeune
 
-https://www.youtube.com/watch?v=TSHXF41mjQk
+https://www.youtube.com/watch?v=9p3oJtb9YgI
 
-Et plus d’information [sur le parcours en ligne](https://academy.lamourvaincra.com/quest/107).
+Et plus d’information [sur le parcours en ligne](https://academy.lamourvaincra.com/quest/109).
 
 

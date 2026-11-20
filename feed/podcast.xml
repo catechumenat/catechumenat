@@ -572,7 +572,7 @@ export { HeadingAnchors }
     <language>fr-FR</language>
     <copyright>© 2025–2026 Laurent Ghirardotti</copyright>
     <pubDate>2026-11-19T00:00:00Z</pubDate>
-    <lastBuildDate>Fri, 20 Nov 2026 08:44:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 08:45:57 +0000</lastBuildDate>
     <itunes:image href="https://catechumenat.asaintnicolas.com/img/podcast-logo.jpg"></itunes:image>
     <itunes:category text="Religion &amp;amp; Spirituality">
       <itunes:category text="Christianity" />
@@ -605,10 +605,10 @@ Besoin d’un contexte géographique, voilà une magnifique visualisation de l�
 Et pour retrouver les deux versions de Saint Matthieu et l’Ange de Caravage, ça se passe sur Wikipedia.
 
 Les vidéos du parcours adulte
-https://www.youtube.com/watch?v=dU3yWLgqORs
+https://www.youtube.com/watch?v=8GvhhPfdBB0
 Et plus d’informations sur le parcours en ligne.
 Les vidéos du parcours jeune
-https://www.youtube.com/watch?v=TSHXF41mjQk
+https://www.youtube.com/watch?v=9p3oJtb9YgI
 Et plus d’information sur le parcours en ligne.</description>
       <itunes:summary>30.40 MB
 | Durée 0:31:31
@@ -626,10 +626,10 @@ Besoin d’un contexte géographique, voilà une magnifique visualisation de l�
 Et pour retrouver les deux versions de Saint Matthieu et l’Ange de Caravage, ça se passe sur Wikipedia.
 
 Les vidéos du parcours adulte
-https://www.youtube.com/watch?v=dU3yWLgqORs
+https://www.youtube.com/watch?v=8GvhhPfdBB0
 Et plus d’informations sur le parcours en ligne.
 Les vidéos du parcours jeune
-https://www.youtube.com/watch?v=TSHXF41mjQk
+https://www.youtube.com/watch?v=9p3oJtb9YgI
 Et plus d’information sur le parcours en ligne.</itunes:summary>
       
       <content:encoded><![CDATA[<p><audio controls="" src="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-11-19-L-Evangile.mp3" preload="metadata"><p class="audio-details">30.40 MB
@@ -650,11 +650,11 @@ Et plus d’information sur le parcours en ligne.</itunes:summary>
 <h2 id="les-videos-du-parcours-adulte">Les vidéos du parcours adulte</h2>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.css">
 <script defer="defer" src="https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.js"></script>
-<div id="dU3yWLgqORs" class="eleventy-plugin-youtube-embed"><lite-youtube videoid="dU3yWLgqORs" style="background-image: url('https://i.ytimg.com/vi/dU3yWLgqORs/hqdefault.jpg');"><div class="lty-playbtn"></div></lite-youtube></div>
-<p>Et plus d’informations <a href="https://academy.lamourvaincra.com/quest/10">sur le parcours en ligne</a>.</p>
+<div id="8GvhhPfdBB0" class="eleventy-plugin-youtube-embed"><lite-youtube videoid="8GvhhPfdBB0" style="background-image: url('https://i.ytimg.com/vi/8GvhhPfdBB0/hqdefault.jpg');"><div class="lty-playbtn"></div></lite-youtube></div>
+<p>Et plus d’informations <a href="https://academy.lamourvaincra.com/quest/13">sur le parcours en ligne</a>.</p>
 <h2 id="les-videos-du-parcours-jeune">Les vidéos du parcours jeune</h2>
-<div id="TSHXF41mjQk" class="eleventy-plugin-youtube-embed"><lite-youtube videoid="TSHXF41mjQk" style="background-image: url('https://i.ytimg.com/vi/TSHXF41mjQk/hqdefault.jpg');"><div class="lty-playbtn"></div></lite-youtube></div>
-<p>Et plus d’information <a href="https://academy.lamourvaincra.com/quest/107">sur le parcours en ligne</a>.</p>]]></content:encoded>
+<div id="9p3oJtb9YgI" class="eleventy-plugin-youtube-embed"><lite-youtube videoid="9p3oJtb9YgI" style="background-image: url('https://i.ytimg.com/vi/9p3oJtb9YgI/hqdefault.jpg');"><div class="lty-playbtn"></div></lite-youtube></div>
+<p>Et plus d’information <a href="https://academy.lamourvaincra.com/quest/109">sur le parcours en ligne</a>.</p>]]></content:encoded>
       <enclosure url="https://github.com/catechumenat/catechumenat/raw/refs/heads/main/audio/2026-11-19-L-Evangile.mp3" length="30401408" type="audio/mp3"></enclosure>
       <itunes:duration>0:31:31</itunes:duration>
       <itunes:episode>7</itunes:episode>
@@ -1815,7 +1815,7 @@ Le texte biblique (Gn 2, 15-17 ; 3, 1-17)
 			</p>
 		</footer>
 
-		<!-- This page `/feed/podcast.xml` was built on 2026-11-20T08:44:22.379Z -->
+		<!-- This page `/feed/podcast.xml` was built on 2026-11-20T08:46:00.403Z -->
 		<script type="module" src=""></script>
 		<!-- 100% privacy-first analytics -->
 		<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>

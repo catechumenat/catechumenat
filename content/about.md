@@ -64,7 +64,7 @@ Ulrich, archevêque de Paris, en l’église Saint-Sulpice.
 
 ### 25-28 mars : Triduum Pascal
 Si possible, posez votre vendredi pour vivre la retraite complète et plonger dans la Sainte Pâques
-- jeudi 25 mars, 19h : Jeudi Saint, premières communions (de ceux qui ont déjà reçu le baptême par le passé)
+- jeudi 25 mars, 20h30 : Jeudi Saint, premières communions (de ceux qui ont déjà reçu le baptême par le passé)
 - vendredi 26 mars, 15h : Vendredi Saint, chemin de Croix dans les rues du quartier.
 - samedi 27 mars, 21h : Vigile de Pâques, baptême par immersion des catéchumènes.
 
@@ -73,8 +73,9 @@ Si possible, posez votre vendredi pour vivre la retraite complète et plonger da
 - jeudi 15 avril : Fêtes et coutumes catholiques
 - lundi 26 avril, 3 et 10 mai : Catéchèses mystagogiques pour les néophytes (un exemple passé [ici](https://dioceseparis.fr/catechese-de-mgr-laurent-ulrich.html)). 
 - jeudi 29 avril : Les sacrements et les grandes étapes de la vie (20)
+- samedi 1er mai : récollection obligatoire pour la confirmation des baptisés, de 9h30 à 17h à l’église Saint Honoré d’Eylau (Paris 16ème).
 - jeudi 13 mai : La sexualité dans la société contemporaine (23)
-- samedi 15 ou 22 mai, à 10h ou 15h : confirmation d’adultes, lieu à préciser.
+- samedi 15 mai, à 10h : confirmation d’adultes, à l’église du Saint Esprit (Paris 12ème).
 - dimanche 16 mai : Pentecôte
 
 ### Temps ordinaire

@@ -71,7 +71,7 @@ Si possible, posez votre vendredi pour vivre la retraite complète et plonger da
 ### Temps Pascal
 - jeudi 1er avril : Le combat spirituel, se convertir (18)
 - jeudi 15 avril : Fêtes et coutumes catholiques
-- lundi 26 avril, 3 et 10 mai : Catéchèses mystagogiques pour les néophytes (un exemple passé [ici](https://dioceseparis.fr/catechese-de-mgr-laurent-ulrich.html)). 
+- lundi 26 avril, 3 et 10 mai : Catéchèses mystagogiques pour les néophytes à Saint Séverin (un exemple passé [ici](https://dioceseparis.fr/catechese-de-mgr-laurent-ulrich.html)). 
 - jeudi 29 avril : Les sacrements et les grandes étapes de la vie (20)
 - samedi 1er mai : récollection obligatoire pour la confirmation des baptisés, de 9h30 à 17h à l’église Saint Honoré d’Eylau (Paris 16ème).
 - jeudi 13 mai : La sexualité dans la société contemporaine (23)
